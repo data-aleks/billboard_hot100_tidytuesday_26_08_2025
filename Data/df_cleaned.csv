@@ -1,0 +1,1132 @@
+date,artist,front_person_age,song,discogs_genre,length_sec,simplified_key,lyrical_topic,explicit,discogs_genre_cleaned,year,decade,lyrical_topic_split
+1958-08-04 00:00:00+00:00,Ricky Nelson,18.0,Poor Little Fool,Rock,154,C,Lost Love,0,Rock,1958,1950,['Lost Love']
+1958-08-18 00:00:00+00:00,Domenico Modugno,30.0,Nel Blu Dipinto Di Blu,"Pop;Folk, World, & Country",219,Bb,Flying;Dreaming,0,Pop,1958,1950,"['Flying', 'Dreaming']"
+1958-08-25 00:00:00+00:00,The Elegants,17.0,Little Star,Rock,163,A,Longing for Love,0,Rock,1958,1950,['Longing for Love']
+1958-09-29 00:00:00+00:00,Tommy Edwards,35.0,It's All in the Game,Rock;Pop,156,Eb,Love,0,Rock,1958,1950,['Love']
+1958-11-10 00:00:00+00:00,Conway Twitty,25.0,It's Only Make Believe,Rock,134,B,Lost Love,0,Rock,1958,1950,['Lost Love']
+1958-11-17 00:00:00+00:00,The Kingston Trio,24.33333333333333,Tom Dooley,"Folk, World, & Country",185,E,Murder;Death,0,Folk,1958,1950,"['Murder', 'Death']"
+1958-12-01 00:00:00+00:00,The Teddy Bears,18.0,To Know Him is to Love Him,Pop,142,Multiple Keys,Longing for Love,0,Pop,1958,1950,['Longing for Love']
+1958-12-22 00:00:00+00:00,The Chipmunks,39.0,The Chipmunk Song,Pop;Children's,141,Ab,Christmas,0,Pop,1958,1950,['Christmas']
+1959-01-19 00:00:00+00:00,The Platters,30.0,Smoke Gets in Your Eyes,Funk/Soul,158,Multiple Keys,Lost Love,0,Funk/Soul,1959,1950,['Lost Love']
+1959-02-02 00:00:00+00:00,Lloyd Price,25.0,Stagger Lee,Rock,145,Eb,Murder;Death,0,Rock,1959,1950,"['Murder', 'Death']"
+1959-03-09 00:00:00+00:00,Frankie Avalon,18.0,Venus,Pop,142,Bb,Longing for Love,0,Pop,1959,1950,['Longing for Love']
+1959-04-13 00:00:00+00:00,The Fleetwoods,19.0,Come Softly to Me,Pop,145,Db,Longing for Love,0,Pop,1959,1950,['Longing for Love']
+1959-05-18 00:00:00+00:00,Wilbert Harrison,30.0,Kansas City,Rock,145,Db,Lust/Sex,0,Rock,1959,1950,['Lust/Sex']
+1959-06-01 00:00:00+00:00,Johnny Horton,34.0,The Battle of New Orleans,"Pop;Folk, World, & Country",151,A,War,0,Pop,1959,1950,['War']
+1959-07-13 00:00:00+00:00,Paul Anka,17.0,Lonely Boy,Rock,151,C,Longing for Love,0,Rock,1959,1950,['Longing for Love']
+1959-08-10 00:00:00+00:00,Elvis Presley,24.0,Big Hunk o' Love,Rock,141,C,Lust/Sex,0,Rock,1959,1950,['Lust/Sex']
+1959-08-24 00:00:00+00:00,The Browns,25.0,The Three Bells (Les Trois Cloches),"Pop;Folk, World, & Country",174,G,Life;Death,0,Pop,1959,1950,"['Life', 'Death']"
+1959-10-05 00:00:00+00:00,Bobby Darin,23.0,Mack the Knife,Rock;Pop,184,Multiple Keys,Murder;Death,0,Rock,1959,1950,"['Murder', 'Death']"
+1959-11-16 00:00:00+00:00,The Fleetwoods,19.0,Mr. Blue,Pop,145,E,Lost Love,0,Pop,1959,1950,['Lost Love']
+1959-12-14 00:00:00+00:00,Guy Mitchell,32.0,Heartaches by the Number,"Folk, World, & Country",155,F,Lost Love,0,Folk,1959,1950,['Lost Love']
+1959-12-28 00:00:00+00:00,Frankie Avalon,19.0,Why,Pop,158,C,Love,0,Pop,1959,1950,['Love']
+1960-01-04 00:00:00+00:00,Marty Robbins,34.0,El Paso,"Pop;Folk, World, & Country",259,D,Love;Murder;Death,0,Pop,1960,1960,"['Love', 'Murder', 'Death']"
+1960-01-18 00:00:00+00:00,Johnny Preston,20.0,Running Bear,Rock;Pop,158,Bb,Love;Death,0,Rock,1960,1960,"['Love', 'Death']"
+1960-02-08 00:00:00+00:00,Mark Dinning,26.0,Teen Angel,Pop,157,C,Love;Death,0,Pop,1960,1960,"['Love', 'Death']"
+1960-04-25 00:00:00+00:00,Elvis Presley,25.0,Stuck on You,Rock;Pop,140,G,Lust/Sex,0,Rock,1960,1960,['Lust/Sex']
+1960-05-23 00:00:00+00:00,The Everly Brothers,22.0,Cathy's Clown,Rock,144,G,Bad Relationships;Lost Love,0,Rock,1960,1960,"['Bad Relationships', 'Lost Love']"
+1960-06-27 00:00:00+00:00,Connie Francis,22.0,Everybody's Somebody's Fool,"Rock;Pop;Folk, World, & Country",160,Gb,Bad Relationships;Lost Love,0,Rock,1960,1960,"['Bad Relationships', 'Lost Love']"
+1960-07-11 00:00:00+00:00,The Hollywood Argyles,20.5,Alley Oop,Rock,165,G,Bad Behavior,0,Rock,1960,1960,['Bad Behavior']
+1960-07-18 00:00:00+00:00,Brenda Lee,15.0,I'm Sorry,"Rock;Pop;Folk, World, & Country",144,Bb,Lost Love,0,Rock,1960,1960,['Lost Love']
+1960-08-08 00:00:00+00:00,Brian Hyland,17.0,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,Rock,144,D,Shyness,0,Rock,1960,1960,['Shyness']
+1960-08-15 00:00:00+00:00,Elvis Presley,25.0,It's Now or Never,Rock,196,E,Love,0,Rock,1960,1960,['Love']
+1960-09-19 00:00:00+00:00,Chubby Checker,18.0,The Twist,Rock,154,E,Dancing,0,Rock,1960,1960,['Dancing']
+1960-09-26 00:00:00+00:00,Connie Francis,22.0,My Heart Has A Mind Of Its Own,Rock,152,Gb,Lost Love,0,Rock,1960,1960,['Lost Love']
+1960-10-10 00:00:00+00:00,Larry Verne,24.0,Mr. Custer,"Rock;Pop;Folk, World, & Country",185,Bm,War,1,Rock,1960,1960,['War']
+1960-10-17 00:00:00+00:00,The Drifters,22.0,Save the Last Dance for Me,Rock,155,E,Love,0,Rock,1960,1960,['Love']
+1960-10-24 00:00:00+00:00,Brenda Lee,15.0,I Want to Be Wanted (Per Tutta La Vita),"Rock;Pop;Folk, World, & Country",185,Ab,Longing for Love,0,Rock,1960,1960,['Longing for Love']
+1960-11-14 00:00:00+00:00,Ray Charles,30.0,Georgia on My Mind,"Funk/Soul;Blues;Pop;Folk, World, & Country",215,G,Home;Love,0,Funk/Soul,1960,1960,"['Home', 'Love']"
+1960-11-21 00:00:00+00:00,Maurice Williams & the Zodiacs,22.0,Stay,Rock,96,Bb,Love,0,Rock,1960,1960,['Love']
+1960-11-28 00:00:00+00:00,Elvis Presley,25.0,Are You Lonesome Tonight?,Pop,187,C,Lost Love;Longing for Love,0,Pop,1960,1960,"['Lost Love', 'Longing for Love']"
+1961-01-30 00:00:00+00:00,The Shirelles,19.0,Will You Love Me Tomorrow,Rock,162,C,Love,0,Rock,1961,1960,['Love']
+1961-02-27 00:00:00+00:00,Chubby Checker,19.0,Pony Time,Rock,147,Eb,Dancing,0,Rock,1961,1960,['Dancing']
+1961-03-20 00:00:00+00:00,Elvis Presley,26.0,Surrender,Rock;Pop,112,Multiple Keys,Lust/Sex,0,Rock,1961,1960,['Lust/Sex']
+1961-04-24 00:00:00+00:00,Del Shannon,24.0,Runaway,Rock,137,Multiple Keys,Lost Love,0,Rock,1961,1960,['Lost Love']
+1961-05-22 00:00:00+00:00,Ernie K-Doe,28.0,Mother-in-Law,Rock;Funk/Soul,154,Eb,Anger;Family,0,Rock,1961,1960,"['Anger', 'Family']"
+1961-05-29 00:00:00+00:00,Ricky Nelson,21.0,Travelin' Man,Rock,143,D,Lust/Sex,0,Rock,1961,1960,['Lust/Sex']
+1961-06-05 00:00:00+00:00,Roy Orbison,25.0,Running Scared,Rock,132,A,Love,0,Rock,1961,1960,['Love']
+1961-06-19 00:00:00+00:00,Pat Boone,27.0,Moody River,Pop,154,Fm,Death;Love,0,Pop,1961,1960,"['Death', 'Love']"
+1961-06-26 00:00:00+00:00,Gary U.S. Bonds,22.0,Quarter to Three,Rock,150,Eb,Partying,0,Rock,1961,1960,['Partying']
+1961-07-10 00:00:00+00:00,Bobby Lewis,36.0,Tossin' and Turnin',Rock;Blues,159,C,Insomnia;Lost Love,0,Rock,1961,1960,"['Insomnia', 'Lost Love']"
+1961-08-28 00:00:00+00:00,Joe Dowell,21.0,Wooden Heart,Rock;Pop,118,Db,Love,0,Rock,1961,1960,['Love']
+1961-09-04 00:00:00+00:00,The Highwaymen,21.0,Michael,"Pop;Folk, World, & Country",165,C,God,0,Pop,1961,1960,['God']
+1961-09-18 00:00:00+00:00,Bobby Vee,18.0,Take Good Care of My Baby,Pop,150,F,Lost Love,0,Pop,1961,1960,['Lost Love']
+1961-10-09 00:00:00+00:00,Ray Charles,31.0,Hit the Road Jack,Funk/Soul,120,Abm,Lost Love,0,Funk/Soul,1961,1960,['Lost Love']
+1961-10-23 00:00:00+00:00,Dion,22.0,Runaround Sue,Rock,161,D,Lost Love,0,Rock,1961,1960,['Lost Love']
+1961-11-06 00:00:00+00:00,Jimmy Dean,33.0,Big Bad John,Rock,182,Em,Work;Death,1,Rock,1961,1960,"['Work', 'Death']"
+1961-12-11 00:00:00+00:00,The Marvelettes,16.0,Please Mr. Postman,Funk/Soul;Pop,148,D,Lost Love;Love,0,Funk/Soul,1961,1960,"['Lost Love', 'Love']"
+1962-01-27 00:00:00+00:00,Joey Dee & the Starliters,21.0,Peppermint Twist,Rock,119,C,Dancing,0,Rock,1962,1960,['Dancing']
+1962-02-17 00:00:00+00:00,Gene Chandler,22.0,Duke of Earl,Rock;Funk/Soul,148,F,Love,0,Rock,1962,1960,['Love']
+1962-03-10 00:00:00+00:00,Bruce Channel,21.0,Hey! Baby,Rock;Funk/Soul;Pop,142,A,Longing for Love,0,Rock,1962,1960,['Longing for Love']
+1962-03-31 00:00:00+00:00,Connie Francis,24.0,Don't Break the Heart that Loves You,Pop,185,Ab,Lost Love,0,Pop,1962,1960,['Lost Love']
+1962-04-07 00:00:00+00:00,Shelley Fabares,18.0,Johnny Angel,Rock;Pop,139,C,Longing for Love,0,Rock,1962,1960,['Longing for Love']
+1962-04-21 00:00:00+00:00,Elvis Presley,27.0,Good Luck Charm,Rock;Pop,144,G,Longing for Love,0,Rock,1962,1960,['Longing for Love']
+1962-05-05 00:00:00+00:00,The Shirelles,20.0,Soldier Boy,Funk/Soul;Pop,162,Bb,Love,0,Funk/Soul,1962,1960,['Love']
+1962-06-02 00:00:00+00:00,Ray Charles,31.0,I Can't Stop Loving You,Funk/Soul,157,F,Lost Love,0,Funk/Soul,1962,1960,['Lost Love']
+1962-07-14 00:00:00+00:00,Bobby Vinton,27.0,Roses are Red (My Love),Pop,158,F,Love,0,Pop,1962,1960,['Love']
+1962-08-11 00:00:00+00:00,Neil Sedaka,23.0,Breaking Up is Hard to Do,Rock;Pop,139,B,Lost Love,0,Rock,1962,1960,['Lost Love']
+1962-08-25 00:00:00+00:00,Little Eva,19.0,The Loco-motion,Rock;Funk/Soul;Pop,139,Eb,Dancing,0,Rock,1962,1960,['Dancing']
+1962-09-08 00:00:00+00:00,Tommy Roe,20.0,Sheila,Rock,127,A,Love,0,Rock,1962,1960,['Love']
+1962-09-15 00:00:00+00:00,Frankie Valli & the Four Seasons,28.0,Sherry,Rock,152,C,Love,0,Rock,1962,1960,['Love']
+1962-10-20 00:00:00+00:00,"Bobby ""Boris"" Pickett & the Crypt-Kickers",24.0,Monster Mash,Rock;Pop,192,G,Partying;Dancing,0,Rock,1962,1960,"['Partying', 'Dancing']"
+1962-11-03 00:00:00+00:00,The Crystals,21.0,He's a Rebel,Funk/Soul;Pop,151,F,Love;Bad Behavior,0,Funk/Soul,1962,1960,"['Love', 'Bad Behavior']"
+1962-11-17 00:00:00+00:00,Frankie Valli & the Four Seasons,28.0,Big Girls Don't Cry,Rock;Pop,146,G,Lost Love,0,Rock,1962,1960,['Lost Love']
+1963-01-12 00:00:00+00:00,Steve Lawrence,27.0,Go Away Little Girl,Pop,132,F,Longing for Love;Forbidden Love,0,Pop,1963,1960,"['Longing for Love', 'Forbidden Love']"
+1963-01-26 00:00:00+00:00,The Rooftop Singers,29.0,Walk Right In,"Rock;Folk, World, & Country",137,Ab,Lust/Sex,0,Rock,1963,1960,['Lust/Sex']
+1963-02-09 00:00:00+00:00,Paul & Paula,21.0,Hey Paula,Rock,132,G,Love,0,Rock,1963,1960,['Love']
+1963-03-02 00:00:00+00:00,Frankie Valli & the Four Seasons,28.0,Walk Like a Man,Rock;Funk/Soul;Pop,117,Bb,Bad Relationships;Lost Love,0,Rock,1963,1960,"['Bad Relationships', 'Lost Love']"
+1963-03-23 00:00:00+00:00,Ruby & the Romantics,28.0,Our Day Will Come,Funk/Soul;Pop,154,Eb,Love,0,Funk/Soul,1963,1960,['Love']
+1963-03-30 00:00:00+00:00,The Chiffons,16.0,He's So Fine,Rock;Funk/Soul,113,G,Longing for Love,0,Rock,1963,1960,['Longing for Love']
+1963-04-27 00:00:00+00:00,Little Peggy March,15.0,I Will Follow Him,Pop,148,C,Love,0,Pop,1963,1960,['Love']
+1963-05-18 00:00:00+00:00,Jimmy Soul,20.0,If You Wanna Be Happy,Funk/Soul,134,Bb,Marriage;Love,0,Funk/Soul,1963,1960,"['Marriage', 'Love']"
+1963-06-01 00:00:00+00:00,Lesley Gore,17.0,It's My Party,Rock;Pop,140,A,Lost Love,0,Rock,1963,1960,['Lost Love']
+1963-06-15 00:00:00+00:00,Kyu Sakamoto,21.0,Sukiyaki,"Pop;Folk, World, & Country",182,G,Lost Love,0,Pop,1963,1960,['Lost Love']
+1963-07-06 00:00:00+00:00,The Essex,23.0,Easier Said Than Done,Rock;Pop,129,E,Longing for Love,0,Rock,1963,1960,['Longing for Love']
+1963-07-20 00:00:00+00:00,Jan & Dean,22.0,Surf City,Rock,147,Ab,Surfing/Sailing;Partying;Utopia/Perfect Places,0,Rock,1963,1960,"['Surfing/Sailing', 'Partying', 'Utopia/Perfect Places']"
+1963-08-31 00:00:00+00:00,The Angels,19.0,My Boyfriend's Back,Rock;Pop,134,Eb,Love;Violence;Lust/Sex,0,Rock,1963,1960,"['Love', 'Violence', 'Lust/Sex']"
+1963-09-21 00:00:00+00:00,Bobby Vinton,28.0,Blue Velvet,Pop;Stage & Screen,168,Bb,Lost Love,0,Pop,1963,1960,['Lost Love']
+1963-10-12 00:00:00+00:00,Jimmy Gilmer & the Fireballs,23.0,Sugar Shack,Rock,123,G,Lust/Sex;Better Times;Utopia/Perfect Places,0,Rock,1963,1960,"['Lust/Sex', 'Better Times', 'Utopia/Perfect Places']"
+1963-11-16 00:00:00+00:00,Nino Tempo & April Stevens,31.0,Deep Purple,Pop,160,F,Lost Love;Dreaming,0,Pop,1963,1960,"['Lost Love', 'Dreaming']"
+1963-11-23 00:00:00+00:00,Dale & Grace,23.5,I'm Leaving it Up to You,Rock;Pop,131,B,Lost Love,0,Rock,1963,1960,['Lost Love']
+1963-12-07 00:00:00+00:00,The Singing Nun,30.0,Dominique,Rock;Pop,176,D,God,0,Rock,1963,1960,['God']
+1964-01-04 00:00:00+00:00,Bobby Vinton,28.0,There! I've Said It Again,Pop,145,A,Love,0,Pop,1964,1960,['Love']
+1964-02-01 00:00:00+00:00,The Beatles,22.0,I Want To Hold Your Hand,Rock;Pop,145,G,Love,0,Rock,1964,1960,['Love']
+1964-03-21 00:00:00+00:00,The Beatles,22.0,She Loves You,Rock,140,G,Love,0,Rock,1964,1960,['Love']
+1964-04-04 00:00:00+00:00,The Beatles,22.0,Can't Buy Me Love,Rock;Pop,131,C,Love,0,Rock,1964,1960,['Love']
+1964-05-09 00:00:00+00:00,Louis Armstrong,62.0,"Hello, Dolly!",Jazz;Stage & Screen,147,C,Love,0,Jazz,1964,1960,['Love']
+1964-05-16 00:00:00+00:00,Mary Wells,21.0,My Guy,Funk/Soul,174,Bb,Love;Faithfulness,0,Funk/Soul,1964,1960,"['Love', 'Faithfulness']"
+1964-05-30 00:00:00+00:00,The Beatles,22.0,Love Me Do,Rock;Pop,141,G,Longing for Love,0,Rock,1964,1960,['Longing for Love']
+1964-06-06 00:00:00+00:00,The Dixie Cups,19.666666666666668,Chapel of Love,Funk/Soul;Pop,170,D,Love;Marriage,0,Funk/Soul,1964,1960,"['Love', 'Marriage']"
+1964-06-27 00:00:00+00:00,Peter & Gordon,19.5,A World Without Love,Rock;Pop,160,E,Love;Lost Love,0,Rock,1964,1960,"['Love', 'Lost Love']"
+1964-07-04 00:00:00+00:00,The Beach Boys,22.5,I Get Around,Rock,134,Multiple Keys,Lust/Sex;Driving,0,Rock,1964,1960,"['Lust/Sex', 'Driving']"
+1964-07-18 00:00:00+00:00,Frankie Valli & the Four Seasons,30.0,Rag Doll,Rock,174,Bb,Love;Poverty;Forbidden Love,0,Rock,1964,1960,"['Love', 'Poverty', 'Forbidden Love']"
+1964-08-01 00:00:00+00:00,The Beatles,22.5,A Hard Day's Night,Rock;Pop,154,G,Lust/Sex;Work,0,Rock,1964,1960,"['Lust/Sex', 'Work']"
+1964-08-15 00:00:00+00:00,Dean Martin,47.0,Everybody Loves Somebody,Pop,165,Eb,Love,0,Pop,1964,1960,['Love']
+1964-08-22 00:00:00+00:00,The Supremes,20.0,Where Did Our Love Go,Funk/Soul,153,C,Lost Love,0,Funk/Soul,1964,1960,['Lost Love']
+1964-09-05 00:00:00+00:00,The Animals,23.0,House of the Rising Sun,Rock,179,Am,Sin;Regret,0,Rock,1964,1960,"['Sin', 'Regret']"
+1964-09-26 00:00:00+00:00,Roy Orbison,28.0,"Oh, Pretty Woman",Rock;Pop,178,Multiple Keys,Love;Lust/Sex,0,Rock,1964,1960,"['Love', 'Lust/Sex']"
+1964-10-17 00:00:00+00:00,Manfred Mann,23.0,Do Wah Diddy Diddy,Rock,143,E,Love;Lust/Sex,0,Rock,1964,1960,"['Love', 'Lust/Sex']"
+1964-10-31 00:00:00+00:00,The Supremes,20.0,Baby Love,Funk/Soul,158,C,Lost Love,0,Funk/Soul,1964,1960,['Lost Love']
+1964-11-28 00:00:00+00:00,The Shangri-Las,15.0,Leader of the Pack,Rock,171,C,Death;Bad Behavior;Driving;Forbidden Love,0,Rock,1964,1960,"['Death', 'Bad Behavior', 'Driving', 'Forbidden Love']"
+1964-12-05 00:00:00+00:00,Lorne Greene,49.0,Ringo,Pop;Stage & Screen,214,Multiple Keys,Death;Good vs. Evil,0,Pop,1964,1960,"['Death', 'Good vs. Evil']"
+1964-12-12 00:00:00+00:00,Bobby Vinton,29.0,Mr. Lonely,Pop,161,E,Lonesomeness;War,0,Pop,1964,1960,"['Lonesomeness', 'War']"
+1964-12-19 00:00:00+00:00,The Supremes,20.0,Come See About Me,Funk/Soul,163,D,Lost Love,0,Funk/Soul,1964,1960,['Lost Love']
+1964-12-26 00:00:00+00:00,The Beatles,23.0,I Feel Fine,Rock,139,G,Love,0,Rock,1964,1960,['Love']
+1965-01-23 00:00:00+00:00,Petula Clark,32.0,Downtown,Rock,183,E,Utopia/Perfect Places,0,Rock,1965,1960,['Utopia/Perfect Places']
+1965-02-06 00:00:00+00:00,The Righteous Brothers,24.0,You've Lost That Lovin' Feelin',Rock;Funk/Soul;Pop,225,Db,Lost Love,0,Rock,1965,1960,['Lost Love']
+1965-02-20 00:00:00+00:00,Gary Lewis & the Playboys,19.0,This Diamond Ring,Rock;Pop,137,Multiple Keys,Lost Love,0,Rock,1965,1960,['Lost Love']
+1965-03-06 00:00:00+00:00,The Temptations,24.0,My Girl,Funk/Soul,165,C,Love,0,Funk/Soul,1965,1960,['Love']
+1965-03-13 00:00:00+00:00,The Beatles,23.0,Eight Days a Week,Rock,163,D,Love,0,Rock,1965,1960,['Love']
+1965-03-27 00:00:00+00:00,The Supremes,21.0,Stop! In the Name of Love,Funk/Soul,172,C,Lost Love,0,Funk/Soul,1965,1960,['Lost Love']
+1965-04-10 00:00:00+00:00,Freddie & the Dreamers,28.0,I'm Telling You Now,Rock,128,Ab,Love,0,Rock,1965,1960,['Love']
+1965-04-24 00:00:00+00:00,Wayne Fontana & the Mindbenders,19.0,The Game of Love,Rock,127,A,Love,0,Rock,1965,1960,['Love']
+1965-05-01 00:00:00+00:00,Herman's Hermits,17.0,"Mrs. Brown, You've Got a Lovely Daughter",Rock,167,Multiple Keys,Love,0,Rock,1965,1960,['Love']
+1965-05-22 00:00:00+00:00,The Beatles,23.0,Ticket to Ride,Rock,189,A,Lost Love,0,Rock,1965,1960,['Lost Love']
+1965-05-29 00:00:00+00:00,The Beach Boys,22.0,"Help Me, Rhonda",Rock,167,Db,Lost Love;Lust/Sex,0,Rock,1965,1960,"['Lost Love', 'Lust/Sex']"
+1965-06-12 00:00:00+00:00,The Supremes,21.0,Back in My Arms Again,Funk/Soul,174,C,Love,0,Funk/Soul,1965,1960,['Love']
+1965-06-19 00:00:00+00:00,Four Tops,29.0,I Can't Help Myself (Sugar Pie Honey Bunch),Funk/Soul,163,C,Love;Lost Love,0,Funk/Soul,1965,1960,"['Love', 'Lost Love']"
+1965-06-26 00:00:00+00:00,The Byrds,22.0,Mr. Tambourine Man,Rock,149,D,God;Faithfulness,0,Rock,1965,1960,"['God', 'Faithfulness']"
+1965-07-10 00:00:00+00:00,The Rolling Stones,21.0,(I Can't Get No) Satisfaction,Rock,222,D,Lust/Sex;Anger;Restlessness,1,Rock,1965,1960,"['Lust/Sex', 'Anger', 'Restlessness']"
+1965-08-07 00:00:00+00:00,Herman's Hermits,17.0,"I'm Henry VIII, I Am",Rock,110,A,Marriage,0,Rock,1965,1960,['Marriage']
+1965-08-14 00:00:00+00:00,Sonny & Cher,24.5,I Got You Babe,Rock,193,F,Love,0,Rock,1965,1960,['Love']
+1965-09-04 00:00:00+00:00,The Beatles,23.5,Help!,Rock,140,A,Pain,0,Rock,1965,1960,['Pain']
+1965-09-25 00:00:00+00:00,Barry McGuire,30.0,Eve of Destruction,Rock,217,D,War;Violence;Dystopia,0,Rock,1965,1960,"['War', 'Violence', 'Dystopia']"
+1965-10-02 00:00:00+00:00,The McCoys,18.0,Hang On Sloopy,Rock,182,G,Love,0,Rock,1965,1960,['Love']
+1965-10-09 00:00:00+00:00,The Beatles,24.0,Yesterday,Rock;Pop,123,F,Lost Love,0,Rock,1965,1960,['Lost Love']
+1965-11-06 00:00:00+00:00,The Rolling Stones,22.0,Get Off Of My Cloud,Rock;Blues,175,E,Anger;Restlessness,0,Rock,1965,1960,"['Anger', 'Restlessness']"
+1965-11-20 00:00:00+00:00,The Supremes,21.0,I Hear a Symphony,Funk/Soul,166,Multiple Keys,Love,0,Funk/Soul,1965,1960,['Love']
+1965-12-04 00:00:00+00:00,The Byrds,22.25,Turn! Turn! Turn! (To Everything There is a Season),Rock,229,D,Time,0,Rock,1965,1960,['Time']
+1965-12-25 00:00:00+00:00,The Dave Clark Five,23.0,Over and Over,Rock;Pop,121,Bb,Lost Love;Longing for Love,0,Rock,1965,1960,"['Lost Love', 'Longing for Love']"
+1966-01-01 00:00:00+00:00,Simon & Garfunkel,24.0,The Sound of Silence,Rock;Pop,185,Gb,Restlessness;Lonesomeness,0,Rock,1966,1960,"['Restlessness', 'Lonesomeness']"
+1966-01-08 00:00:00+00:00,The Beatles,24.0,We Can Work it Out,Rock;Pop,136,D,Love;Bad Relationships,0,Rock,1966,1960,"['Love', 'Bad Relationships']"
+1966-02-05 00:00:00+00:00,Petula Clark,33.0,My Love,Funk/Soul;Pop,164,A,Love,0,Funk/Soul,1966,1960,['Love']
+1966-02-19 00:00:00+00:00,Lou Christie,23.0,Lightnin' Strikes,Rock,181,Multiple Keys,Lust/Sex,0,Rock,1966,1960,['Lust/Sex']
+1966-02-26 00:00:00+00:00,Nancy Sinatra,25.0,These Boots are Made for Walkin',Rock;Pop,162,E,Respect;Bad Relationships;Empowerment;Infidelity,0,Rock,1966,1960,"['Respect', 'Bad Relationships', 'Empowerment', 'Infidelity']"
+1966-03-05 00:00:00+00:00,SSgt. Barry Sadler,25.0,The Ballad of the Green Berets,"Folk, World, & Country",166,C,War;Death,0,Folk,1966,1960,"['War', 'Death']"
+1966-04-09 00:00:00+00:00,The Righteous Brothers,25.0,(You're My) Soul and Inspiration,Funk/Soul;Blues;Pop,180,B,Love;Lost Love,0,Funk/Soul,1966,1960,"['Love', 'Lost Love']"
+1966-04-30 00:00:00+00:00,The Young Rascals,21.5,Good Lovin',Rock;Funk/Soul,168,D,Lust/Sex,0,Rock,1966,1960,['Lust/Sex']
+1966-05-07 00:00:00+00:00,The Mamas & the Papas,30.0,"Monday, Monday",Rock,208,Multiple Keys,Love;Lost Love,0,Rock,1966,1960,"['Love', 'Lost Love']"
+1966-05-28 00:00:00+00:00,Percy Sledge,24.0,When a Man Loves a Woman,Funk/Soul,174,Db,Love,0,Funk/Soul,1966,1960,['Love']
+1966-06-11 00:00:00+00:00,The Rolling Stones,22.0,"Paint it, Black",Rock,199,Em,Sadness,0,Rock,1966,1960,['Sadness']
+1966-06-25 00:00:00+00:00,The Beatles,24.0,Paperback Writer,Rock,146,G,Jobs;Failure,0,Rock,1966,1960,"['Jobs', 'Failure']"
+1966-07-02 00:00:00+00:00,Frank Sinatra,50.0,Strangers in the Night,Jazz;Pop,155,F,Love,0,Jazz,1966,1960,['Love']
+1966-07-16 00:00:00+00:00,Tommy James & the Shondells,19.0,Hanky Panky,Rock,172,G,Lust/Sex,0,Rock,1966,1960,['Lust/Sex']
+1966-07-30 00:00:00+00:00,The Troggs,25.0,Wild Thing,Rock,159,A,Lust/Sex,0,Rock,1966,1960,['Lust/Sex']
+1966-08-13 00:00:00+00:00,The Lovin' Spoonful,22.0,Summer in the City,Rock,161,Multiple Keys,Summer;Lust/Sex,0,Rock,1966,1960,"['Summer', 'Lust/Sex']"
+1966-09-03 00:00:00+00:00,Donovan,20.0,Sunshine Superman,"Rock;Folk, World, & Country",195,Db,Lust/Sex,0,Rock,1966,1960,['Lust/Sex']
+1966-09-10 00:00:00+00:00,The Supremes,22.0,You Can't Hurry Love,Funk/Soul,167,Bb,Longing for Love,0,Funk/Soul,1966,1960,['Longing for Love']
+1966-09-24 00:00:00+00:00,The Association,26.0,Cherish,Rock;Pop,193,F,Longing for Love,0,Rock,1966,1960,['Longing for Love']
+1966-10-15 00:00:00+00:00,Four Tops,30.0,Reach Out I'll Be There,Funk/Soul,180,Ebm,Love,0,Funk/Soul,1966,1960,['Love']
+1966-10-29 00:00:00+00:00,? & the Mysterians,22.0,96 Tears,Rock,186,G,Lost Love;Anger;Revenge,0,Rock,1966,1960,"['Lost Love', 'Anger', 'Revenge']"
+1966-11-05 00:00:00+00:00,The Monkees,22.0,Last Train to Clarksville,Rock,166,G,Love;War,0,Rock,1966,1960,"['Love', 'War']"
+1966-11-12 00:00:00+00:00,Johnny Rivers,24.0,Poor Side of Town,Rock;Pop,183,Multiple Keys,Love;Longing for Love,0,Rock,1966,1960,"['Love', 'Longing for Love']"
+1966-11-19 00:00:00+00:00,The Supremes,22.0,You Keep Me Hangin' On,Funk/Soul,167,Multiple Keys,Bad Relationships,0,Funk/Soul,1966,1960,['Bad Relationships']
+1966-12-03 00:00:00+00:00,The New Vaudeville Band,24.0,Winchester Cathedral,Pop,140,C,Lost Love,0,Pop,1966,1960,['Lost Love']
+1966-12-10 00:00:00+00:00,The Beach Boys,22.666666666666668,Good Vibrations,Rock,219,Multiple Keys,Love,0,Rock,1966,1960,['Love']
+1966-12-31 00:00:00+00:00,The Monkees,22.25,I'm a Believer,Rock;Pop,167,G,Love,0,Rock,1966,1960,['Love']
+1967-02-18 00:00:00+00:00,The Buckinghams,18.5,Kind of a Drag,Rock,125,G,Lost Love,0,Rock,1967,1960,['Lost Love']
+1967-03-04 00:00:00+00:00,The Rolling Stones,23.0,Ruby Tuesday,Rock,192,C,Lost Love,0,Rock,1967,1960,['Lost Love']
+1967-03-11 00:00:00+00:00,The Supremes,22.0,Love is Here and Now You're Gone,Funk/Soul;Pop,167,Eb,Lost Love,0,Funk/Soul,1967,1960,['Lost Love']
+1967-03-18 00:00:00+00:00,The Beatles,24.0,Penny Lane,Rock,183,Multiple Keys,Childhood;Better Times;Utopia/Perfect Places,0,Rock,1967,1960,"['Childhood', 'Better Times', 'Utopia/Perfect Places']"
+1967-03-25 00:00:00+00:00,The Turtles,19.0,Happy Together,Rock;Pop,170,Multiple Keys,Longing for Love,0,Rock,1967,1960,['Longing for Love']
+1967-04-15 00:00:00+00:00,Frank Sinatra & Nancy Sinatra,38.5,Somethin' Stupid,Pop,162,E,Love,0,Pop,1967,1960,['Love']
+1967-05-13 00:00:00+00:00,The Supremes,23.0,The Happening,Funk/Soul,169,Multiple Keys,Lost Love,0,Funk/Soul,1967,1960,['Lost Love']
+1967-05-20 00:00:00+00:00,The Young Rascals,22.5,Groovin',Rock,150,Eb,Love;Lust/Sex,0,Rock,1967,1960,"['Love', 'Lust/Sex']"
+1967-06-03 00:00:00+00:00,Aretha Franklin,25.0,Respect,Funk/Soul,149,Multiple Keys,Lust/Sex;Respect;Bad Relationships;Empowerment,0,Funk/Soul,1967,1960,"['Lust/Sex', 'Respect', 'Bad Relationships', 'Empowerment']"
+1967-07-01 00:00:00+00:00,The Association,26.0,Windy,Rock,173,F,Appreciation;Love,0,Rock,1967,1960,"['Appreciation', 'Love']"
+1967-07-29 00:00:00+00:00,The Doors,23.0,Light My Fire,Rock,174,Multiple Keys,Lust/Sex,1,Rock,1967,1960,['Lust/Sex']
+1967-08-19 00:00:00+00:00,The Beatles,26.0,All You Need is Love,Rock,237,G,Love;Coexistance,0,Rock,1967,1960,"['Love', 'Coexistance']"
+1967-08-26 00:00:00+00:00,Bobbie Gentry,25.0,Ode to Billie Joe,"Funk/Soul;Blues;Folk, World, & Country",255,D,Death;Family;Life,0,Funk/Soul,1967,1960,"['Death', 'Family', 'Life']"
+1967-09-23 00:00:00+00:00,Box Tops,16.0,The Letter,Rock;Funk/Soul;Pop,112,C,Lost Love,0,Rock,1967,1960,['Lost Love']
+1967-10-21 00:00:00+00:00,Lulu,18.0,To Sir With Love,Pop;Stage & Screen,166,E,Appreciation;Growing Up,0,Pop,1967,1960,"['Appreciation', 'Growing Up']"
+1967-12-02 00:00:00+00:00,The Monkees,21.0,Daydream Believer,Rock,172,G,Love;Growing Up,0,Rock,1967,1960,"['Love', 'Growing Up']"
+1967-12-30 00:00:00+00:00,The Beatles,25.0,"Hello, Goodbye",Rock;Pop,207,C,Unclear,0,Rock,1967,1960,['Unclear']
+1968-01-20 00:00:00+00:00,John Fred & His Playboy Band,25.0,Judy in Disguise (With Glasses),Rock,175,Eb,Lust/Sex,0,Rock,1968,1960,['Lust/Sex']
+1968-02-03 00:00:00+00:00,The Lemon Pipers,19.0,Green Tambourine,Rock,147,G,Playing Music;Poverty,0,Rock,1968,1960,"['Playing Music', 'Poverty']"
+1968-03-16 00:00:00+00:00,Otis Redding,26.0,(Sittin' On) The Dock of the Bay,Funk/Soul,164,D,Lonesomeness;Failure,0,Funk/Soul,1968,1960,"['Lonesomeness', 'Failure']"
+1968-04-13 00:00:00+00:00,Bobby Goldsboro,26.0,Honey,Rock,239,C,Death;Life;Sadness,0,Rock,1968,1960,"['Death', 'Life', 'Sadness']"
+1968-05-18 00:00:00+00:00,Archie Bell & the Drells,23.0,Tighten Up,Funk/Soul,195,Gb,Dancing;Playing Music,0,Funk/Soul,1968,1960,"['Dancing', 'Playing Music']"
+1968-06-01 00:00:00+00:00,Simon & Garfunkel,26.0,Mrs. Robinson,Rock;Pop;Stage & Screen,244,A,Lust/Sex;Better Times;Lost Innocence,0,Rock,1968,1960,"['Lust/Sex', 'Better Times', 'Lost Innocence']"
+1968-06-22 00:00:00+00:00,Herb Alpert,33.0,This Guy's in Love with You,Jazz;Pop,235,Db,Love,0,Jazz,1968,1960,['Love']
+1968-08-03 00:00:00+00:00,The Doors,24.0,"Hello, I Love You",Rock,133,A,Lust/Sex,0,Rock,1968,1960,['Lust/Sex']
+1968-08-17 00:00:00+00:00,The Rascals,23.5,People Got to Be Free,Funk/Soul,182,C,Respect;Coexistance;Racism,0,Funk/Soul,1968,1960,"['Respect', 'Coexistance', 'Racism']"
+1968-09-21 00:00:00+00:00,Jeannie C. Riley,22.0,Harper Valley PTA,"Folk, World, & Country",195,A,Anger;Hypocrisy;Empowerment,0,Folk,1968,1960,"['Anger', 'Hypocrisy', 'Empowerment']"
+1968-09-28 00:00:00+00:00,The Beatles,26.0,Hey Jude,Rock;Pop,426,F,Calming Down;Hope,0,Rock,1968,1960,"['Calming Down', 'Hope']"
+1968-11-30 00:00:00+00:00,Diana Ross & The Supremes,24.0,Love Child,Funk/Soul,183,Am,Growing Up;Illegitimacy;Poverty,0,Funk/Soul,1968,1960,"['Growing Up', 'Illegitimacy', 'Poverty']"
+1968-12-14 00:00:00+00:00,Marvin Gaye,29.0,I Heard it Through the Grapevine,Funk/Soul,196,Ebm,Lost Love,0,Funk/Soul,1968,1960,['Lost Love']
+1969-02-01 00:00:00+00:00,Tommy James & the Shondells,21.0,Crimson and Clover,Rock;Pop,203,B,Longing for Love,0,Rock,1969,1960,['Longing for Love']
+1969-02-15 00:00:00+00:00,Sly & the Family Stone,25.0,Everyday People,Funk/Soul,142,G,Coexistence;Respect;Racism,0,Funk/Soul,1969,1960,"['Coexistence', 'Respect', 'Racism']"
+1969-03-15 00:00:00+00:00,Tommy Roe,26.0,Dizzy,Rock,172,Multiple Keys,Love,0,Rock,1969,1960,['Love']
+1969-04-12 00:00:00+00:00,The 5th Dimension,27.5,Aquarius/Let the Sunshine In (The Flesh Failures),Funk/Soul;Stage & Screen,289,Multiple Keys,Coexistence;Respect;Love,0,Funk/Soul,1969,1960,"['Coexistence', 'Respect', 'Love']"
+1969-05-24 00:00:00+00:00,The Beatles,26.0,Get Back,Rock;Pop,194,A,Unclear,0,Rock,1969,1960,['Unclear']
+1969-07-12 00:00:00+00:00,Zager & Evans,25.5,In the Year 2525 (Exordium & Terminus),Rock,190,Abm,Dystopia;Death;Pain,0,Rock,1969,1960,"['Dystopia', 'Death', 'Pain']"
+1969-08-23 00:00:00+00:00,The Rolling Stones,26.0,Honky Tonk Women,Rock,183,G,Lust/Sex,1,Rock,1969,1960,['Lust/Sex']
+1969-10-18 00:00:00+00:00,The Temptations,26.0,I Can't Get Next to You,Funk/Soul,175,Cm,Longing for Love,0,Funk/Soul,1969,1960,['Longing for Love']
+1969-11-01 00:00:00+00:00,Elvis Presley,34.0,Suspicious Minds,Rock,261,G,Lost Love;Bad Relationships,0,Rock,1969,1960,"['Lost Love', 'Bad Relationships']"
+1969-11-08 00:00:00+00:00,The 5th Dimension,28.5,Wedding Bell Blues,Funk/Soul,165,C,Love;Marriage,0,Funk/Soul,1969,1960,"['Love', 'Marriage']"
+1969-11-29 00:00:00+00:00,The Beatles,29.0,Come Together,Rock,259,Dm,Unclear,0,Rock,1969,1960,['Unclear']
+1969-12-06 00:00:00+00:00,Steam,26.0,Na Na Hey Hey Kiss Him Goodbye,Rock;Pop,225,Multiple Keys,Lost Love,0,Rock,1969,1960,['Lost Love']
+1969-12-20 00:00:00+00:00,"Peter, Paul & Mary",32.0,Leaving on a Jet Plane,"Rock;Pop;Folk, World, & Country",207,A,Love;Lost Love,0,Rock,1969,1960,"['Love', 'Lost Love']"
+1969-12-27 00:00:00+00:00,Diana Ross & The Supremes,25.0,Someday We'll Be Together,Funk/Soul,194,Db,Longing for Love,0,Funk/Soul,1969,1960,['Longing for Love']
+1970-01-03 00:00:00+00:00,B.J. Thomas,27.0,Raindrops Keep Falling on My Head,Rock;Pop;Stage & Screen,177,F,Sadness;Calming Down;Positivity,0,Rock,1970,1970,"['Sadness', 'Calming Down', 'Positivity']"
+1970-01-31 00:00:00+00:00,The Jackson 5,11.0,I Want You Back,Funk/Soul,180,Ab,Lost Love,0,Funk/Soul,1970,1970,['Lost Love']
+1970-02-07 00:00:00+00:00,Shocking Blue,24.0,Venus,Rock,187,Bm,Lust/Sex,0,Rock,1970,1970,['Lust/Sex']
+1970-02-14 00:00:00+00:00,Sly & the Family Stone,28.0,Thank You (Falettinme Be Mice Elf Agin),Funk/Soul,288,E,Endings/Goodbyes,0,Funk/Soul,1970,1970,['Endings/Goodbyes']
+1970-02-28 00:00:00+00:00,Simon & Garfunkel,28.0,Bridge Over Troubled Water,"Pop;Folk, World, & Country",293,Eb,God;Redemption;Faithfulness,0,Pop,1970,1970,"['God', 'Redemption', 'Faithfulness']"
+1970-04-11 00:00:00+00:00,The Beatles,27.0,Let it Be,Rock,230,C,Faithfulness;Restlessness,0,Rock,1970,1970,"['Faithfulness', 'Restlessness']"
+1970-04-25 00:00:00+00:00,The Jackson 5,11.0,ABC,Funk/Soul,175,Ab,Love,0,Funk/Soul,1970,1970,['Love']
+1970-05-09 00:00:00+00:00,The Guess Who,22.0,American Woman,Rock,231,Em,Bad Relationships,0,Rock,1970,1970,['Bad Relationships']
+1970-05-30 00:00:00+00:00,Ray Stevens,31.0,Everything is Beautiful,Rock;Pop,209,F,Coexistence;Respect;Appreciation,0,Rock,1970,1970,"['Coexistence', 'Respect', 'Appreciation']"
+1970-06-13 00:00:00+00:00,The Beatles,28.0,The Long and Winding Road,Rock,220,Eb,Sadness;Failure,0,Rock,1970,1970,"['Sadness', 'Failure']"
+1970-06-27 00:00:00+00:00,The Jackson 5,11.0,The Love You Save,Funk/Soul;Pop,180,G,Love;Bad Behavior,0,Funk/Soul,1970,1970,"['Love', 'Bad Behavior']"
+1970-07-11 00:00:00+00:00,Three Dog Night,28.666666666666668,Mama Told Me (Not to Come),Rock;Pop,199,Ab,Partying;Regret,0,Rock,1970,1970,"['Partying', 'Regret']"
+1970-07-25 00:00:00+00:00,The Carpenters,21.0,(They Long to Be) Close to You,Rock;Pop,220,G,Love,0,Rock,1970,1970,['Love']
+1970-08-22 00:00:00+00:00,Bread,28.0,Make it With You,Rock;Pop,192,E,Love;Lust/Sex,0,Rock,1970,1970,"['Love', 'Lust/Sex']"
+1970-08-29 00:00:00+00:00,Edwin Starr,28.0,War,Funk/Soul,200,Ebm,War;Violence,0,Funk/Soul,1970,1970,"['War', 'Violence']"
+1970-09-19 00:00:00+00:00,Diana Ross,26.0,Ain't No Mountain High Enough,Funk/Soul,205,Multiple Keys,Love,0,Funk/Soul,1970,1970,['Love']
+1970-10-10 00:00:00+00:00,Neil Diamond,29.0,Cracklin' Rosie,Rock,180,Db,Love,0,Rock,1970,1970,['Love']
+1970-10-17 00:00:00+00:00,The Jackson 5,12.0,I'll Be There,Funk/Soul,238,F,Love,0,Funk/Soul,1970,1970,['Love']
+1970-11-21 00:00:00+00:00,The Partridge Family,20.0,I Think I Love You,Rock;Pop,173,Multiple Keys,Love,0,Rock,1970,1970,['Love']
+1970-12-12 00:00:00+00:00,Smokey Robinson & the Miracles,30.0,The Tears of a Clown,Rock;Funk/Soul,182,Db,Lost Love,0,Rock,1970,1970,['Lost Love']
+1970-12-26 00:00:00+00:00,George Harrison,27.0,My Sweet Lord,Rock,281,E,God;Faithfulness,0,Rock,1970,1970,"['God', 'Faithfulness']"
+1971-01-23 00:00:00+00:00,Tony Orlando & Dawn,26.0,Knock Three Times,Rock,180,Db,Longing for Love,0,Rock,1971,1970,['Longing for Love']
+1971-02-13 00:00:00+00:00,The Osmonds,15.0,One Bad Apple,Rock;Pop,165,C,Lost Love;Bad Relationships;Love,0,Rock,1971,1970,"['Lost Love', 'Bad Relationships', 'Love']"
+1971-03-20 00:00:00+00:00,Janis Joplin,27.0,Me and Bobby McGee,Rock,271,G,Love;Lost Love,0,Rock,1971,1970,"['Love', 'Lost Love']"
+1971-04-03 00:00:00+00:00,The Temptations,31.0,Just My Imagination (Running Away with Me),Funk/Soul;Pop,228,C,Lost Love,0,Funk/Soul,1971,1970,['Lost Love']
+1971-04-17 00:00:00+00:00,Three Dog Night,29.33333333333333,Joy to the World,Rock,197,D,Unclear,0,Rock,1971,1970,['Unclear']
+1971-05-29 00:00:00+00:00,The Rolling Stones,27.0,Brown Sugar,Rock,230,C,Lust/Sex,1,Rock,1971,1970,['Lust/Sex']
+1971-06-19 00:00:00+00:00,Carole King,29.0,It's Too Late,Rock;Pop,231,Multiple Keys,Lost Love,0,Rock,1971,1970,['Lost Love']
+1971-07-24 00:00:00+00:00,The Raiders,29.0,Indian Reservation (The Lament of the Cherokee Reservation Indian),Rock;Funk/Soul,172,Dbm,Murder;Death;Poverty,0,Rock,1971,1970,"['Murder', 'Death', 'Poverty']"
+1971-07-31 00:00:00+00:00,James Taylor,23.0,You've Got a Friend,Rock,268,A,Friendship;Love;Sadness,0,Rock,1971,1970,"['Friendship', 'Love', 'Sadness']"
+1971-08-07 00:00:00+00:00,Bee Gees,22.0,How Can You Mend a Broken Heart,Pop,239,E,Lost Love,0,Pop,1971,1970,['Lost Love']
+1971-09-04 00:00:00+00:00,Paul McCartney & Linda McCartney,29.0,Uncle Albert/Admiral Halsey,Rock,295,Multiple Keys,Unclear,0,Rock,1971,1970,['Unclear']
+1971-09-11 00:00:00+00:00,Donny Osmond,13.0,Go Away Little Girl,Pop,149,G,Longing for Love;Forbidden Love,0,Pop,1971,1970,"['Longing for Love', 'Forbidden Love']"
+1971-10-02 00:00:00+00:00,Rod Stewart,26.0,Maggie May,Rock,222,D,Lust/Sex;Lost Love,0,Rock,1971,1970,"['Lust/Sex', 'Lost Love']"
+1971-11-06 00:00:00+00:00,Cher,25.0,"Gypsys, Tramps and Thieves",Pop,158,Am,Life;Growing Up;Racism;Prostitution,0,Pop,1971,1970,"['Life', 'Growing Up', 'Racism', 'Prostitution']"
+1971-11-20 00:00:00+00:00,Isaac Hayes,29.0,Theme from Shaft,Funk/Soul;Stage & Screen,197,Am,Lust/Sex;Badassery,1,Funk/Soul,1971,1970,"['Lust/Sex', 'Badassery']"
+1971-12-04 00:00:00+00:00,Sly & the Family Stone,28.0,Family Affair,Funk/Soul,185,F,Family;Growing Up;Home,0,Funk/Soul,1971,1970,"['Family', 'Growing Up', 'Home']"
+1971-12-25 00:00:00+00:00,Melanie,24.0,Brand New Key,"Rock;Folk, World, & Country",144,Db,Longing for Love;Lust/Sex,0,Rock,1971,1970,"['Longing for Love', 'Lust/Sex']"
+1972-01-15 00:00:00+00:00,Don McLean,26.0,American Pie,Rock,515,G,Lost Innocence,1,Rock,1972,1970,['Lost Innocence']
+1972-02-12 00:00:00+00:00,Al Green,25.0,Let's Stay Together,Funk/Soul,199,F,Love,0,Funk/Soul,1972,1970,['Love']
+1972-02-19 00:00:00+00:00,Harry Nilsson,30.0,Without You,Rock;Pop,201,E,Lost Love,0,Rock,1972,1970,['Lost Love']
+1972-03-18 00:00:00+00:00,Neil Young,26.0,Heart of Gold,Rock,187,Em,Time;Longing for Love;Lost Innocence,0,Rock,1972,1970,"['Time', 'Longing for Love', 'Lost Innocence']"
+1972-03-25 00:00:00+00:00,America,20.0,A Horse with No Name,Rock,272,Em,Enlightenment;Dreaming,0,Rock,1972,1970,"['Enlightenment', 'Dreaming']"
+1972-04-15 00:00:00+00:00,Roberta Flack,35.0,The First Time Ever I Saw Your Face,Funk/Soul,255,C,Love,0,Funk/Soul,1972,1970,['Love']
+1972-05-27 00:00:00+00:00,The Chi-Lites,31.0,Oh Girl,Funk/Soul,216,Bb,Lost Love,0,Funk/Soul,1972,1970,['Lost Love']
+1972-06-03 00:00:00+00:00,The Staple Singers,32.0,I'll Take You There,Funk/Soul,196,C,Utopia/Perfect Places,0,Funk/Soul,1972,1970,['Utopia/Perfect Places']
+1972-06-10 00:00:00+00:00,Sammy Davis Jr.,46.0,The Candy Man,Jazz;Rock,192,C,Jobs;Candy,0,Jazz,1972,1970,"['Jobs', 'Candy']"
+1972-07-01 00:00:00+00:00,Neil Diamond,31.0,Song Sung Blue,Pop,194,C,Sadness;Playing Music,0,Pop,1972,1970,"['Sadness', 'Playing Music']"
+1972-07-08 00:00:00+00:00,Bill Withers,34.0,Lean on Me,Funk/Soul,258,C,Pain;Sadness;Friendship,0,Funk/Soul,1972,1970,"['Pain', 'Sadness', 'Friendship']"
+1972-07-29 00:00:00+00:00,Gilbert O'Sullivan,25.0,Alone Again (Naturally),Rock,217,Multiple Keys,Sadness;Death,0,Rock,1972,1970,"['Sadness', 'Death']"
+1972-08-26 00:00:00+00:00,Looking Glass,24.0,Brandy (You're a Fine Girl),Rock;Pop,186,E,Lost Love,0,Rock,1972,1970,['Lost Love']
+1972-09-16 00:00:00+00:00,Three Dog Night,30.33333333333333,Black and White,Rock;Pop,206,B,Coexistence;Respect;Love;Racism,0,Rock,1972,1970,"['Coexistence', 'Respect', 'Love', 'Racism']"
+1972-09-23 00:00:00+00:00,Mac Davis,30.0,"Baby, Don't Get Hooked on Me","Pop;Folk, World, & Country",183,A,Lust/Sex;Bad Behavior;Lost Love,0,Pop,1972,1970,"['Lust/Sex', 'Bad Behavior', 'Lost Love']"
+1972-10-14 00:00:00+00:00,Michael Jackson,14.0,Ben,Funk/Soul,167,F,Friendship,0,Funk/Soul,1972,1970,['Friendship']
+1972-10-21 00:00:00+00:00,Chuck Berry,46.0,My Ding-a-Ling,Rock,256,Eb,Masturbation,1,Rock,1972,1970,['Masturbation']
+1972-11-04 00:00:00+00:00,Johnny Nash,32.0,I Can See Clearly Now,Reggae;Funk/Soul,164,Multiple Keys,Better Times;Hope;Redemption,0,Reggae,1972,1970,"['Better Times', 'Hope', 'Redemption']"
+1972-12-02 00:00:00+00:00,The Temptations,27.75,Papa Was a Rollin' Stone,Funk/Soul,419,Bbm,Death;Family;Bad Behavior;Bad Relationships,0,Funk/Soul,1972,1970,"['Death', 'Family', 'Bad Behavior', 'Bad Relationships']"
+1972-12-09 00:00:00+00:00,Helen Reddy,31.0,I Am Woman,Pop,205,Multiple Keys,Empowerment,0,Pop,1972,1970,['Empowerment']
+1972-12-16 00:00:00+00:00,Billy Paul,38.0,Me and Mrs. Jones,Funk/Soul,284,Ab,Forbidden Love;Infidelity,0,Funk/Soul,1972,1970,"['Forbidden Love', 'Infidelity']"
+1973-01-06 00:00:00+00:00,Carly Simon,27.0,You're So Vain,Rock;Pop,258,C,Lost Love;Anger,0,Rock,1973,1970,"['Lost Love', 'Anger']"
+1973-01-27 00:00:00+00:00,Stevie Wonder,22.0,Superstition,Funk/Soul,245,Ebm,Superstition,0,Funk/Soul,1973,1970,['Superstition']
+1973-02-03 00:00:00+00:00,Elton John,25.0,Crocodile Rock,Rock;Pop,235,G,Dancing;Growing Up;Better Times;Lost Love;Listening to Music,0,Rock,1973,1970,"['Dancing', 'Growing Up', 'Better Times', 'Lost Love', 'Listening to Music']"
+1973-02-24 00:00:00+00:00,Roberta Flack,36.0,Killing Me Softly with His Song,Funk/Soul,286,Ab,Sadness;Listening to Music,0,Funk/Soul,1973,1970,"['Sadness', 'Listening to Music']"
+1973-03-24 00:00:00+00:00,The O'Jays,30.0,Love Train,Funk/Soul,178,C,Coexistence;Respect,0,Funk/Soul,1973,1970,"['Coexistence', 'Respect']"
+1973-04-07 00:00:00+00:00,Vicki Lawrence,24.0,The Night the Lights Went Out in Georgia,Funk/Soul;Pop,220,Multiple Keys,Murder;Death;Infidelity,0,Funk/Soul,1973,1970,"['Murder', 'Death', 'Infidelity']"
+1973-04-21 00:00:00+00:00,Tony Orlando & Dawn,29.0,Tie a Yellow Ribbon 'Round the Ole Oak Tree,Pop,206,F,Love,1,Pop,1973,1970,['Love']
+1973-05-19 00:00:00+00:00,Stevie Wonder,23.0,You are the Sunshine of My Life,Funk/Soul,172,B,Love,0,Funk/Soul,1973,1970,['Love']
+1973-06-02 00:00:00+00:00,Paul McCartney & Wings,30.0,My Love,Rock,247,F,Love,0,Rock,1973,1970,['Love']
+1973-06-30 00:00:00+00:00,George Harrison,30.0,Give Me Love (Give Me Peace on Earth),Rock;Pop,215,F,Hope;Love;Enlightement;God,0,Rock,1973,1970,"['Hope', 'Love', 'Enlightement', 'God']"
+1973-07-07 00:00:00+00:00,Billy Preston,26.0,Will it Go Round in Circles,Funk/Soul,224,Abm,Playing Music,0,Funk/Soul,1973,1970,['Playing Music']
+1973-07-21 00:00:00+00:00,Jim Croce,30.0,"Bad, Bad Leroy Brown",Rock,181,G,Bad Behavior;Lust/Sex;Violence,1,Rock,1973,1970,"['Bad Behavior', 'Lust/Sex', 'Violence']"
+1973-08-04 00:00:00+00:00,Maureen McGovern,24.0,The Morning After,Pop;Stage & Screen,141,Multiple Keys,Hope,0,Pop,1973,1970,['Hope']
+1973-08-18 00:00:00+00:00,Diana Ross,29.0,Touch Me in the Morning,Funk/Soul,207,Db,Lust/Sex,0,Funk/Soul,1973,1970,['Lust/Sex']
+1973-08-25 00:00:00+00:00,Stories,25.0,Brother Louie,Rock,235,Am,Forbidden Love,0,Rock,1973,1970,['Forbidden Love']
+1973-09-08 00:00:00+00:00,Marvin Gaye,34.0,Let's Get it On,Funk/Soul,240,Eb,Lust/Sex,1,Funk/Soul,1973,1970,['Lust/Sex']
+1973-09-15 00:00:00+00:00,Helen Reddy,31.0,Delta Dawn,Rock;Pop,190,C,Lost Love,0,Rock,1973,1970,['Lost Love']
+1973-09-29 00:00:00+00:00,Grand Funk,24.0,We're an American Band,Rock,307,D,Partying;Playing Music;Lust/Sex;Bands,0,Rock,1973,1970,"['Partying', 'Playing Music', 'Lust/Sex', 'Bands']"
+1973-10-06 00:00:00+00:00,Cher,27.0,Half-Breed,Rock,167,Am,Life;Growing Up;Racism,0,Rock,1973,1970,"['Life', 'Growing Up', 'Racism']"
+1973-10-20 00:00:00+00:00,The Rolling Stones,30.0,Angie,Rock;Pop,272,C,Lost Love,0,Rock,1973,1970,['Lost Love']
+1973-10-27 00:00:00+00:00,Gladys Knight & the Pips,29.0,Midnight Train to Georgia,Funk/Soul,237,Db,Dreaming;Failure;Home;Love,0,Funk/Soul,1973,1970,"['Dreaming', 'Failure', 'Home', 'Love']"
+1973-11-10 00:00:00+00:00,Eddie Kendricks,33.0,Keep on Truckin',Funk/Soul,212,Fm,Lust/Sex,0,Funk/Soul,1973,1970,['Lust/Sex']
+1973-11-24 00:00:00+00:00,Ringo Starr,33.0,Photograph,Rock,239,E,Lost Love,0,Rock,1973,1970,['Lost Love']
+1973-12-01 00:00:00+00:00,The Carpenters,23.0,Top of the World,Rock,179,Bb,Love,0,Rock,1973,1970,['Love']
+1973-12-15 00:00:00+00:00,Charlie Rich,41.0,The Most Beautiful Girl,Rock;Pop,162,G,Lost Love,0,Rock,1973,1970,['Lost Love']
+1973-12-29 00:00:00+00:00,Jim Croce,30.0,Time in a Bottle,Rock;Pop,147,Multiple Keys,Time;Love,0,Rock,1973,1970,"['Time', 'Love']"
+1974-01-12 00:00:00+00:00,Steve Miller Band,30.0,The Joker,Rock,217,F,Lust/Sex,0,Rock,1974,1970,['Lust/Sex']
+1974-01-19 00:00:00+00:00,Al Wilson,34.0,Show and Tell,Funk/Soul,207,D,Love;Longing for Love,0,Funk/Soul,1974,1970,"['Love', 'Longing for Love']"
+1974-01-26 00:00:00+00:00,Ringo Starr,33.0,You're Sixteen,Rock;Pop,169,Ab,Lust/Sex,0,Rock,1974,1970,['Lust/Sex']
+1974-02-02 00:00:00+00:00,Barbra Streisand,31.0,The Way We Were,Pop,211,A,Lost Love,0,Pop,1974,1970,['Lost Love']
+1974-03-02 00:00:00+00:00,Terry Jacks,29.0,Seasons in the Sun,Rock;Pop,186,Multiple Keys,Death;Time,0,Rock,1974,1970,"['Death', 'Time']"
+1974-03-23 00:00:00+00:00,Cher,27.0,Dark Lady,Rock;Pop,209,Cm,Murder;Death;Infidelity,0,Rock,1974,1970,"['Murder', 'Death', 'Infidelity']"
+1974-03-30 00:00:00+00:00,John Denver,30.0,Sunshine on My Shoulders,"Folk, World, & Country",208,Bb,Hope;Friendship,0,Folk,1974,1970,"['Hope', 'Friendship']"
+1974-04-06 00:00:00+00:00,Blue Swede,26.0,Hooked on a Feeling,Rock;Pop,173,Ab,Lust/Sex;Love,0,Rock,1974,1970,"['Lust/Sex', 'Love']"
+1974-04-13 00:00:00+00:00,Elton John,27.0,Bennie and the Jets,Rock,323,C,Bands,0,Rock,1974,1970,['Bands']
+1974-05-04 00:00:00+00:00,Grand Funk,24.33333333333333,The Loco-motion,Rock,167,D,Dancing,0,Rock,1974,1970,['Dancing']
+1974-05-18 00:00:00+00:00,Ray Stevens,35.0,The Streak,Rock;Pop,198,C,Nudity,0,Rock,1974,1970,['Nudity']
+1974-06-08 00:00:00+00:00,Paul McCartney & Wings,31.0,Band on the Run,Rock,309,G,Escape;Bands,0,Rock,1974,1970,"['Escape', 'Bands']"
+1974-06-29 00:00:00+00:00,Gordon Lightfoot,35.0,Sundown,Rock,213,Gb,Lost Love,0,Rock,1974,1970,['Lost Love']
+1974-07-06 00:00:00+00:00,Hues Corporation,30.0,Rock the Boat,Funk/Soul,203,Eb,Love,0,Funk/Soul,1974,1970,['Love']
+1974-07-13 00:00:00+00:00,George McCrae,29.0,Rock Your Baby,Funk/Soul;Pop,199,Eb,Lust/Sex,0,Funk/Soul,1974,1970,['Lust/Sex']
+1974-07-27 00:00:00+00:00,John Denver,30.0,Annie's Song,Rock,181,D,Love,0,Rock,1974,1970,['Love']
+1974-08-10 00:00:00+00:00,Roberta Flack,37.0,Feel Like Makin' Love,Funk/Soul,175,Eb,Lust/Sex,1,Funk/Soul,1974,1970,['Lust/Sex']
+1974-08-17 00:00:00+00:00,Paper Lace,26.0,The Night Chicago Died,Rock,203,C,Murder;Death,0,Rock,1974,1970,"['Murder', 'Death']"
+1974-08-24 00:00:00+00:00,Paul Anka & Odia Coates,32.5,(You're) Having My Baby,Pop,156,C,Child Birth;Family;Love,0,Pop,1974,1970,"['Child Birth', 'Family', 'Love']"
+1974-09-14 00:00:00+00:00,Eric Clapton,29.0,I Shot the Sheriff,Rock,210,Gm,Murder,0,Rock,1974,1970,['Murder']
+1974-09-21 00:00:00+00:00,Barry White,30.0,"Can't Get Enough of Your Love, Babe",Funk/Soul,229,F,Lust/Sex,1,Funk/Soul,1974,1970,['Lust/Sex']
+1974-09-28 00:00:00+00:00,Andy Kim,27.0,Rock Me Gently,Rock,208,C,Lust/Sex,0,Rock,1974,1970,['Lust/Sex']
+1974-10-05 00:00:00+00:00,Olivia Newton-John,26.0,I Honestly Love You,Pop,221,Bb,Love;Forbidden Love,0,Pop,1974,1970,"['Love', 'Forbidden Love']"
+1974-10-19 00:00:00+00:00,Billy Preston,28.0,Nothing from Nothing,Funk/Soul,158,C,Lust/Sex,0,Funk/Soul,1974,1970,['Lust/Sex']
+1974-10-26 00:00:00+00:00,Dionne Warwick & The Spinners,33.0,Then Came You,Funk/Soul,239,F,Love,0,Funk/Soul,1974,1970,['Love']
+1974-11-02 00:00:00+00:00,Stevie Wonder,24.0,You Haven't Done Nothin',Funk/Soul,203,Ebm,Anger,0,Funk/Soul,1974,1970,['Anger']
+1974-11-09 00:00:00+00:00,Bachman-Turner Overdrive,31.0,You Ain't Seen Nothing Yet,Rock,218,A,Lust/Sex,0,Rock,1974,1970,['Lust/Sex']
+1974-11-16 00:00:00+00:00,John Lennon,34.0,Whatever Gets You Thru the Night,Rock,206,D,Hope;Faithfulness,0,Rock,1974,1970,"['Hope', 'Faithfulness']"
+1974-11-23 00:00:00+00:00,Billy Swam,32.0,I Can Help,Rock,178,C,Lust/Sex,0,Rock,1974,1970,['Lust/Sex']
+1974-12-07 00:00:00+00:00,Carl Douglas,32.0,Kung Fu Fighting,"Funk/Soul;Folk, World, & Country",195,D,Fighting,0,Funk/Soul,1974,1970,['Fighting']
+1974-12-21 00:00:00+00:00,Harry Chapin,32.0,Cat's in the Cradle,Rock,212,F,Growing Up;Childhood;Bad Relationships,0,Rock,1974,1970,"['Growing Up', 'Childhood', 'Bad Relationships']"
+1974-12-28 00:00:00+00:00,Helen Reddy,33.0,Angie Baby,Rock,211,Gm,Lust/Sex;Dancing;Escape,0,Rock,1974,1970,"['Lust/Sex', 'Dancing', 'Escape']"
+1975-01-04 00:00:00+00:00,Elton John,27.0,Lucy in the Sky with Diamonds,Rock,354,Multiple Keys,Love;Appreciation,0,Rock,1975,1970,"['Love', 'Appreciation']"
+1975-01-18 00:00:00+00:00,Barry Manilow,31.0,Mandy,Rock;Pop,195,Bb,Lost Love,0,Rock,1975,1970,['Lost Love']
+1975-01-25 00:00:00+00:00,The Carpenters,24.0,Please Mr. Postman,Pop,172,A,Lost Love;Love,0,Pop,1975,1970,"['Lost Love', 'Love']"
+1975-02-01 00:00:00+00:00,Neil Sedaka,35.0,Laughter in the Rain,Rock;Pop,170,F,Love,0,Rock,1975,1970,['Love']
+1975-02-15 00:00:00+00:00,Linda Ronstadt,28.0,You're No Good,"Funk/Soul;Folk, World, & Country",224,Bbm,Bad Relationships;Lost Love;Longing for Love;Regret,0,Funk/Soul,1975,1970,"['Bad Relationships', 'Lost Love', 'Longing for Love', 'Regret']"
+1975-03-01 00:00:00+00:00,Eagles,27.0,Best of My Love,Rock,330,C,Lost Love,0,Rock,1975,1970,['Lost Love']
+1975-03-08 00:00:00+00:00,Olivia Newton-John,26.0,Have You Never Been Mellow,Pop,210,C,Calming Down,0,Pop,1975,1970,['Calming Down']
+1975-03-15 00:00:00+00:00,The Doobie Brothers,26.0,Black Water,Rock;Pop,255,D,Dancing;Partying,0,Rock,1975,1970,"['Dancing', 'Partying']"
+1975-03-22 00:00:00+00:00,Frankie Valli,41.0,My Eyes Adored You,Funk/Soul,212,D,Lost Love;Love;Growing Up,0,Funk/Soul,1975,1970,"['Lost Love', 'Love', 'Growing Up']"
+1975-03-29 00:00:00+00:00,LaBelle,30.0,Lady Marmalade,Funk/Soul,236,Dm,Lust/Sex,0,Funk/Soul,1975,1970,['Lust/Sex']
+1975-03-29 00:00:00+00:00,Minnie Riperton,27.0,Lovin' You,Funk/Soul,204,A,Love,0,Funk/Soul,1975,1970,['Love']
+1975-04-12 00:00:00+00:00,Elton John,28.0,Philadelphia Freedom,Rock,325,A,Appreciation;Love,0,Rock,1975,1970,"['Appreciation', 'Love']"
+1975-04-26 00:00:00+00:00,B.J. Thomas,32.0,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,Rock,206,E,Lost Love,0,Rock,1975,1970,['Lost Love']
+1975-05-03 00:00:00+00:00,Tony Orlando & Dawn,31.0,He Don't Love You (Like I Love You),Rock,219,A,Longing for Love,0,Rock,1975,1970,['Longing for Love']
+1975-05-24 00:00:00+00:00,"Earth, Wind & Fire",34.0,Shining Star,Funk/Soul,170,Em,Dreaming;Empowerment,0,Funk/Soul,1975,1970,"['Dreaming', 'Empowerment']"
+1975-05-31 00:00:00+00:00,Freddy Fender,37.0,Before the Next Teardrop Falls,"Folk, World, & Country",153,Bb,Longing for Love,0,Folk,1975,1970,['Longing for Love']
+1975-06-07 00:00:00+00:00,John Denver,31.0,Thank God I'm a Country Boy,"Folk, World, & Country",167,A,Appreciation;Growing Up;Family,0,Folk,1975,1970,"['Appreciation', 'Growing Up', 'Family']"
+1975-06-14 00:00:00+00:00,America,23.0,Sister Golden Hair,Rock,200,E,Love;Restlessness,1,Rock,1975,1970,"['Love', 'Restlessness']"
+1975-06-21 00:00:00+00:00,Captain & Tennille,33.5,Love Will Keep Us Together,Pop,205,B,Love,0,Pop,1975,1970,['Love']
+1975-07-19 00:00:00+00:00,Paul McCartney & Wings,33.0,Listen to What the Man Said,Rock,235,G,Love,0,Rock,1975,1970,['Love']
+1975-08-02 00:00:00+00:00,Eagles,28.0,One of these Nights,Rock,214,G,Hope;Love;Lust/Sex,0,Rock,1975,1970,"['Hope', 'Love', 'Lust/Sex']"
+1975-08-09 00:00:00+00:00,Bee Gees,27.33333333333333,Jive Talkin',Pop,213,C,Bad Relationships;Love,0,Pop,1975,1970,"['Bad Relationships', 'Love']"
+1975-08-23 00:00:00+00:00,"Hamilton, Joe Frank & Reynolds",29.0,Fallin' in Love,Funk/Soul;Pop,194,Gbm,Lust/Sex;Love,0,Funk/Soul,1975,1970,"['Lust/Sex', 'Love']"
+1975-08-30 00:00:00+00:00,KC & the Sunshine Band,24.0,Get Down Tonight,Electronic;Funk/Soul,192,Bb,Lust/Sex,0,Electronic,1975,1970,['Lust/Sex']
+1975-09-06 00:00:00+00:00,Glen Campbell,39.0,Rhinestone Cowboy,Pop,194,C,Dreaming,0,Pop,1975,1970,['Dreaming']
+1975-09-20 00:00:00+00:00,David Bowie,28.0,Fame,Rock;Funk/Soul,214,Bbm,Fame,0,Rock,1975,1970,['Fame']
+1975-09-27 00:00:00+00:00,John Denver,31.0,I'm Sorry,Rock,212,G,Lost Love,0,Rock,1975,1970,['Lost Love']
+1975-10-11 00:00:00+00:00,Neil Sedaka,36.0,Bad Blood,Rock,189,A,Lost Love;Bad Relationships,1,Rock,1975,1970,"['Lost Love', 'Bad Relationships']"
+1975-11-01 00:00:00+00:00,Elton John,28.0,Island Girl,Rock,225,Bb,Prostitution,0,Rock,1975,1970,['Prostitution']
+1975-11-22 00:00:00+00:00,KC & the Sunshine Band,24.0,That's the Way (I Like It),Funk/Soul,185,Fm,Lust/Sex,0,Funk/Soul,1975,1970,['Lust/Sex']
+1975-12-27 00:00:00+00:00,The Staple Singers,36.0,Let's Do It Again,Funk/Soul,294,E,Lust/Sex,1,Funk/Soul,1975,1970,['Lust/Sex']
+1976-01-02 00:00:00+00:00,Bay City Rollers,20.0,Saturday Night,Rock;Pop,174,G,Dancing;Escape;Love,0,Rock,1976,1970,"['Dancing', 'Escape', 'Love']"
+1976-01-10 00:00:00+00:00,C.W. McCall,47.0,Convoy,"Rock;Folk, World, & Country",231,F,Anger;Driving,0,Rock,1976,1970,"['Anger', 'Driving']"
+1976-01-17 00:00:00+00:00,Barry Manilow,32.0,I Write the Songs,Pop,235,F,God,0,Pop,1976,1970,['God']
+1976-01-24 00:00:00+00:00,Diana Ross,31.0,Theme from Mahogany (Do You Know Where You're Going To),Funk/Soul,204,Multiple Keys,Life;Hope,0,Funk/Soul,1976,1970,"['Life', 'Hope']"
+1976-02-07 00:00:00+00:00,Paul Simon,34.0,50 Ways to Leave Your Lover,Rock,217,G,Lost Love,0,Rock,1976,1970,['Lost Love']
+1976-03-06 00:00:00+00:00,The Miracles,25.0,Love Machine (Part 1),Funk/Soul,181,Multiple Keys,Lust/Sex,0,Funk/Soul,1976,1970,['Lust/Sex']
+1976-03-13 00:00:00+00:00,Frankie Valli & the Four Seasons,41.0,"December, 1963 (Oh What a Night!)",Rock;Pop,197,Db,Lust/Sex,0,Rock,1976,1970,['Lust/Sex']
+1976-04-03 00:00:00+00:00,Johnnie Taylor,41.0,Disco Lady,Funk/Soul,267,D,Dancing;Lust/Sex,0,Funk/Soul,1976,1970,"['Dancing', 'Lust/Sex']"
+1976-05-01 00:00:00+00:00,The Bellamy Brothers,27.5,Let Your Love Flow,Rock,199,Eb,Love,0,Rock,1976,1970,['Love']
+1976-05-08 00:00:00+00:00,John Sebastian,32.0,Welcome Back,Rock;Stage & Screen,171,D,Friendship;Home,0,Rock,1976,1970,"['Friendship', 'Home']"
+1976-05-15 00:00:00+00:00,The Sylvers,19.11111111111111,Boogie Fever,Funk/Soul,201,Multiple Keys,Dancing;Love,0,Funk/Soul,1976,1970,"['Dancing', 'Love']"
+1976-05-22 00:00:00+00:00,Paul McCartney & Wings,33.0,Silly Love Songs,Rock,352,C,Love,0,Rock,1976,1970,['Love']
+1976-05-29 00:00:00+00:00,Diana Ross,32.0,Love Hangover,Funk/Soul,229,Ebm,Love;Lust/Sex,0,Funk/Soul,1976,1970,"['Love', 'Lust/Sex']"
+1976-07-10 00:00:00+00:00,Starland Vocal Band,30.5,Afternoon Delight,Rock,191,F,Lust/Sex,1,Rock,1976,1970,['Lust/Sex']
+1976-07-24 00:00:00+00:00,The Manhattans,24.0,Kiss and Say Goodbye,Funk/Soul,209,Bb,Forbidden Love;Infidelity;Lust/Sex;Lost Love,0,Funk/Soul,1976,1970,"['Forbidden Love', 'Infidelity', 'Lust/Sex', 'Lost Love']"
+1976-08-07 00:00:00+00:00,Elton John & Kiki Dee,29.0,Don't Go Breaking My Heart,Rock;Funk/Soul,271,F,Love,0,Rock,1976,1970,['Love']
+1976-09-04 00:00:00+00:00,Bee Gees,30.0,You Should Be Dancing,Electronic,256,Gm,Dancing;Lust/Sex,0,Electronic,1976,1970,"['Dancing', 'Lust/Sex']"
+1976-09-11 00:00:00+00:00,KC & the Sunshine Band,25.0,"(Shake, Shake, Shake) Shake Your Booty",Electronic;Funk/Soul,187,Cm,Dancing,0,Electronic,1976,1970,['Dancing']
+1976-09-18 00:00:00+00:00,Wild Cherry,25.0,Play That Funky Music,Funk/Soul,191,Em,Dancing;Playing Music;Partying,0,Funk/Soul,1976,1970,"['Dancing', 'Playing Music', 'Partying']"
+1976-10-16 00:00:00+00:00,Rick Dees & His Cast of Idiots,26.0,Disco Duck,Funk/Soul,199,A,Dancing,0,Funk/Soul,1976,1970,['Dancing']
+1976-10-23 00:00:00+00:00,Chicago,32.0,If You Leave Me Now,Rock;Pop,235,B,Love;Lost Love,0,Rock,1976,1970,"['Love', 'Lost Love']"
+1976-11-06 00:00:00+00:00,Steve Miller Band,33.0,Rock 'n Me,Rock,187,E,Lust/Sex,0,Rock,1976,1970,['Lust/Sex']
+1976-11-13 00:00:00+00:00,Rod Stewart,31.0,Tonight's the Night (Gonna Be Alright),Rock,213,Multiple Keys,Lust/Sex,0,Rock,1976,1970,['Lust/Sex']
+1977-01-08 00:00:00+00:00,"Marilyn McCoo & Billy Davis, Jr.",35.5,You Don't Have to Be a Star (To Be in My Show),Funk/Soul,209,E,Love,0,Funk/Soul,1977,1970,['Love']
+1977-01-15 00:00:00+00:00,Leo Sayer,28.0,You Make Me Feel Like Dancing,Rock,173,Multiple Keys,Dancing;Love,0,Rock,1977,1970,"['Dancing', 'Love']"
+1977-01-22 00:00:00+00:00,Stevie Wonder,26.0,I Wish,Funk/Soul,271,Ebm,Childhood;Better Times,0,Funk/Soul,1977,1970,"['Childhood', 'Better Times']"
+1977-01-29 00:00:00+00:00,Rose Royce,23.0,Car Wash,Funk/Soul,200,D,Jobs,0,Funk/Soul,1977,1970,['Jobs']
+1977-02-05 00:00:00+00:00,Mary MacGregor,28.0,Torn Between Two Lovers,Rock;Pop,229,Bb,Lost Love;Forbidden Love,0,Rock,1977,1970,"['Lost Love', 'Forbidden Love']"
+1977-02-19 00:00:00+00:00,Manfred Mann's Earth Band,36.0,Blinded by the Light,Rock,229,F,Growing Up,0,Rock,1977,1970,['Growing Up']
+1977-02-26 00:00:00+00:00,Eagles,28.0,New Kid in Town,Rock,305,E,Lost Love,0,Rock,1977,1970,['Lost Love']
+1977-03-05 00:00:00+00:00,Barbra Streisand,34.0,Evergreen (Love Theme From A Star is Born),Pop;Stage & Screen,185,A,Love,0,Pop,1977,1970,['Love']
+1977-03-26 00:00:00+00:00,Daryl Hall & John Oates,29.0,Rich Girl,Rock;Pop,142,F,Bad Relationships;Lost Love,1,Rock,1977,1970,"['Bad Relationships', 'Lost Love']"
+1977-04-09 00:00:00+00:00,ABBA,29.75,Dancing Queen,Pop,230,A,Dancing;Escape;Longing for Love,0,Pop,1977,1970,"['Dancing', 'Escape', 'Longing for Love']"
+1977-04-16 00:00:00+00:00,David Soul,33.0,Don't Give Up on Us,Rock;Pop,219,A,Love;Faithfulness,0,Rock,1977,1970,"['Love', 'Faithfulness']"
+1977-04-23 00:00:00+00:00,Thelma Houston,30.0,Don't Leave Me This Way,Electronic;Funk/Soul,218,Multiple Keys,Lust/Sex,0,Electronic,1977,1970,['Lust/Sex']
+1977-04-30 00:00:00+00:00,Glen Campbell,41.0,Southern Nights,Rock,180,E,Home;Better Times,0,Rock,1977,1970,"['Home', 'Better Times']"
+1977-05-07 00:00:00+00:00,Eagles,29.0,Hotel California,Rock;Pop,391,Bm,Escape;God,1,Rock,1977,1970,"['Escape', 'God']"
+1977-05-14 00:00:00+00:00,Leo Sayer,28.0,When I Need You,Pop,253,Db,Love,0,Pop,1977,1970,['Love']
+1977-05-21 00:00:00+00:00,Stevie Wonder,27.0,Sir Duke,Funk/Soul;Pop,232,Gb,Bands;Playing Music;Appreciation;Dancing,0,Funk/Soul,1977,1970,"['Bands', 'Playing Music', 'Appreciation', 'Dancing']"
+1977-06-11 00:00:00+00:00,KC & the Sunshine Band,26.0,I'm Your Boogie Man,Funk/Soul,244,Fm,Lust/Sex,0,Funk/Soul,1977,1970,['Lust/Sex']
+1977-06-18 00:00:00+00:00,Fleetwood Mac,29.0,Dreams,Rock,245,C,Lost Love,0,Rock,1977,1970,['Lost Love']
+1977-06-25 00:00:00+00:00,Marvin Gaye,38.0,Got to Give it Up,Funk/Soul,255,D,Dancing;Lust/Sex,0,Funk/Soul,1977,1970,"['Dancing', 'Lust/Sex']"
+1977-07-02 00:00:00+00:00,Bill Conti,35.0,Gonna Fly Now (Theme from Rocky),Rock;Pop;Stage & Screen,170,Am,Positivity;Badassery,0,Rock,1977,1970,"['Positivity', 'Badassery']"
+1977-07-09 00:00:00+00:00,Alan O'Day,36.0,Undercover Angel,Funk/Soul,200,Bb,Longing for Love;Lust/Sex,0,Funk/Soul,1977,1970,"['Longing for Love', 'Lust/Sex']"
+1977-07-16 00:00:00+00:00,Shaun Cassidy,18.0,Da Doo Ron Ron,Rock;Pop,170,C,Love,0,Rock,1977,1970,['Love']
+1977-07-23 00:00:00+00:00,Barry Manilow,34.0,Looks Like We Made It,Rock;Pop,213,C,Lost Love,0,Rock,1977,1970,['Lost Love']
+1977-07-30 00:00:00+00:00,Andy Gibb,19.0,I Just Want to Be Your Everything,Pop,212,A,Love,0,Pop,1977,1970,['Love']
+1977-10-15 00:00:00+00:00,Debby Boone,21.0,You Light Up My Life,Pop;Stage & Screen,216,D,Love,0,Pop,1977,1970,['Love']
+1977-12-24 00:00:00+00:00,Bee Gees,31.0,How Deep is Your Love,Electronic,245,Eb,Love,0,Electronic,1977,1970,['Love']
+1978-01-14 00:00:00+00:00,Player,29.0,Baby Come Back,Rock,214,Multiple Keys,Lost Love,0,Rock,1978,1970,['Lost Love']
+1978-02-04 00:00:00+00:00,Bee Gees,31.0,Stayin' Alive,Funk/Soul,283,Fm,Badassery;Survival,0,Funk/Soul,1978,1970,"['Badassery', 'Survival']"
+1978-03-04 00:00:00+00:00,Andy Gibb,19.0,(Love Is) Thicker Than Water,Rock;Pop,198,Gbm,Love,0,Rock,1978,1970,['Love']
+1978-03-18 00:00:00+00:00,Bee Gees,31.0,Night Fever,Electronic;Stage & Screen,212,Dbm,Lust/Sex;Dancing,0,Electronic,1978,1970,"['Lust/Sex', 'Dancing']"
+1978-05-13 00:00:00+00:00,Yvonne Elliman,26.0,If I Can't Have You,Funk/Soul,180,B,Longing for Love,0,Funk/Soul,1978,1970,['Longing for Love']
+1978-05-20 00:00:00+00:00,Paul McCartney & Wings,35.0,With a Little Luck,Rock,194,E,Love,1,Rock,1978,1970,['Love']
+1978-06-03 00:00:00+00:00,Johnny Mathis & Deniece Williams,34.5,"Too Much, Too Little, Too Late",Rock,180,Fm,Lost Love,0,Rock,1978,1970,['Lost Love']
+1978-06-10 00:00:00+00:00,John Travolta & Olivia Newton-John,26.5,You're the One That I Want,Rock;Pop;Stage & Screen,169,C,Love;Longing for Love,0,Rock,1978,1970,"['Love', 'Longing for Love']"
+1978-06-17 00:00:00+00:00,Andy Gibb,20.0,Shadow Dancing,Funk/Soul,276,Gm,Lust/Sex;Dancing,0,Funk/Soul,1978,1970,"['Lust/Sex', 'Dancing']"
+1978-08-05 00:00:00+00:00,The Rolling Stones,35.0,Miss You,Rock,225,Am,Lust/Sex,0,Rock,1978,1970,['Lust/Sex']
+1978-08-12 00:00:00+00:00,Commodores,29.0,Three Times a Lady,Funk/Soul,217,Ab,Love,0,Funk/Soul,1978,1970,['Love']
+1978-08-26 00:00:00+00:00,Frankie Valli,44.0,Grease,Electronic;Stage & Screen,206,Bb,Love,0,Electronic,1978,1970,['Love']
+1978-09-30 00:00:00+00:00,Exile,34.0,Kiss You All Over,Rock;Pop,296,C,Lust/Sex,0,Rock,1978,1970,['Lust/Sex']
+1978-10-28 00:00:00+00:00,Nick Gilder,26.0,Hot Child in the City,Rock,215,E,Lust/Sex;Bad Behavior,0,Rock,1978,1970,"['Lust/Sex', 'Bad Behavior']"
+1978-11-04 00:00:00+00:00,Anne Murray,33.0,You Needed Me,"Pop;Folk, World, & Country",220,A,Love,0,Pop,1978,1970,['Love']
+1978-11-11 00:00:00+00:00,Donna Summer,29.0,MacArthur Park,Funk/Soul,235,Multiple Keys,Lost Love,0,Funk/Soul,1978,1970,['Lost Love']
+1978-12-02 00:00:00+00:00,Barbra Streisand & Neil Diamond,36.5,You Don't Bring Me Flowers,Rock,195,C,Lost Love,0,Rock,1978,1970,['Lost Love']
+1978-12-09 00:00:00+00:00,Chic,26.0,Le Freak,Funk/Soul,216,C,Dancing,0,Funk/Soul,1978,1970,['Dancing']
+1979-01-06 00:00:00+00:00,Bee Gees,32.0,Too Much Heaven,Funk/Soul;Pop,296,Db,Love,0,Funk/Soul,1979,1970,['Love']
+1979-02-10 00:00:00+00:00,Rod Stewart,34.0,Do Ya Think I'm Sexy?,Rock,326,Dm,Lust/Sex,1,Rock,1979,1970,['Lust/Sex']
+1979-03-10 00:00:00+00:00,Gloria Gaynor,29.0,I Will Survive,Funk/Soul,198,C,Lost Love;Bad Relationships;Empowerment,0,Funk/Soul,1979,1970,"['Lost Love', 'Bad Relationships', 'Empowerment']"
+1979-03-24 00:00:00+00:00,Bee Gees,32.0,Tragedy,Funk/Soul;Pop,303,Bm,Lost Love,0,Funk/Soul,1979,1970,['Lost Love']
+1979-04-14 00:00:00+00:00,The Doobie Brothers,27.0,What a Fool Believes,Electronic;Rock;Funk/Soul;Pop,224,Db,Lost Love,0,Electronic,1979,1970,['Lost Love']
+1979-04-21 00:00:00+00:00,Amii Stewart,23.0,Knock On Wood,Electronic,227,Ab,Lust/Sex,0,Electronic,1979,1970,['Lust/Sex']
+1979-04-28 00:00:00+00:00,Blondie,33.0,Heart of Glass,Rock;Funk/Soul,229,E,Lost Love,1,Rock,1979,1970,['Lost Love']
+1979-05-05 00:00:00+00:00,Peaches & Herb,36.0,Reunited,Funk/Soul,345,Db,Getting Back Together;Love;Lost Love,0,Funk/Soul,1979,1970,"['Getting Back Together', 'Love', 'Lost Love']"
+1979-06-02 00:00:00+00:00,Donna Summer,30.0,Hot Stuff,Electronic,226,Gm,Lust/Sex,0,Electronic,1979,1970,['Lust/Sex']
+1979-06-09 00:00:00+00:00,Bee Gees,32.0,Love You Inside Out,Funk/Soul,228,Bm,Lost Love;Lust/Sex,0,Funk/Soul,1979,1970,"['Lost Love', 'Lust/Sex']"
+1979-06-30 00:00:00+00:00,Anita Ward,22.0,Ring My Bell,Funk/Soul,212,Fm,Lust/Sex,0,Funk/Soul,1979,1970,['Lust/Sex']
+1979-07-14 00:00:00+00:00,Donna Summer,30.0,Bad Girls,Funk/Soul,295,Dm,Lust/Sex,0,Funk/Soul,1979,1970,['Lust/Sex']
+1979-08-18 00:00:00+00:00,Chic,26.0,Good Times,Funk/Soul,224,Bm,Dancing;Partying;Better Times,0,Funk/Soul,1979,1970,"['Dancing', 'Partying', 'Better Times']"
+1979-08-25 00:00:00+00:00,The Knack,27.0,My Sharona,Rock,239,Multiple Keys,Lust/Sex,0,Rock,1979,1970,['Lust/Sex']
+1979-10-06 00:00:00+00:00,Robert John,33.0,Sad Eyes,Rock;Pop,213,C,Lost Love,0,Rock,1979,1970,['Lost Love']
+1979-10-13 00:00:00+00:00,Michael Jackson,21.0,Don't Stop 'Til You Get Enough,Electronic;Funk/Soul,365,B,Lust/Sex;Dancing,0,Electronic,1979,1970,"['Lust/Sex', 'Dancing']"
+1979-11-03 00:00:00+00:00,M,32.0,Pop Muzik,Electronic,201,Db,Dancing;Partying,0,Electronic,1979,1970,"['Dancing', 'Partying']"
+1979-11-10 00:00:00+00:00,Eagles,31.0,Heartache Tonight,Rock,265,G,Lost Love,0,Rock,1979,1970,['Lost Love']
+1979-11-17 00:00:00+00:00,Commodores,29.0,Still,Funk/Soul,224,Db,Love,0,Funk/Soul,1979,1970,['Love']
+1979-11-24 00:00:00+00:00,Barbra Streisand & Donna Summer,33.5,No More Tears (Enough is Enough),Electronic,288,Dm,Lost Love,0,Electronic,1979,1970,['Lost Love']
+1979-12-08 00:00:00+00:00,Styx,32.0,Babe,Rock,242,D,Lost Love,0,Rock,1979,1970,['Lost Love']
+1979-12-22 00:00:00+00:00,Rupert Holmes,32.0,Escape (The Piña Colada Song),Rock,231,C,Bad Relationships;Longing for Love,0,Rock,1979,1970,"['Bad Relationships', 'Longing for Love']"
+1980-01-05 00:00:00+00:00,KC & the Sunshine Band,28.0,Please Don't Go,Funk/Soul,230,Db,Lost Love,0,Funk/Soul,1980,1980,['Lost Love']
+1980-01-19 00:00:00+00:00,Michael Jackson,21.0,Rock With You,Funk/Soul,203,Db,Dancing;Lust/Sex,0,Funk/Soul,1980,1980,"['Dancing', 'Lust/Sex']"
+1980-02-16 00:00:00+00:00,Captain & Tennille,38.0,Do That to Me One More Time,Pop,251,C,Lust/Sex,0,Pop,1980,1980,['Lust/Sex']
+1980-02-23 00:00:00+00:00,Queen,33.0,Crazy Little Thing Called Love,Rock,263,D,Love,0,Rock,1980,1980,['Love']
+1980-03-22 00:00:00+00:00,Pink Floyd,36.0,"Another Brick in the Wall, Pt. 2",Rock,198,Dm,Childhood;School,0,Rock,1980,1980,"['Childhood', 'School']"
+1980-04-19 00:00:00+00:00,Blondie,34.0,Call Me,Rock;Stage & Screen,212,Dm,Lust/Sex,0,Rock,1980,1980,['Lust/Sex']
+1980-05-31 00:00:00+00:00,Lipps Inc.,24.0,Funkytown,Electronic,239,C,Better Times;Utopia/Perfect Places,0,Electronic,1980,1980,"['Better Times', 'Utopia/Perfect Places']"
+1980-06-28 00:00:00+00:00,Paul McCartney,38.0,Coming Up,Rock,248,E,Love,0,Rock,1980,1980,['Love']
+1980-07-19 00:00:00+00:00,Billy Joel,31.0,It's Still Rock and Roll to Me,Rock,176,C,Getting Older,0,Rock,1980,1980,['Getting Older']
+1980-08-02 00:00:00+00:00,Olivia Newton-John,31.0,Magic,Pop,269,D,Love,0,Pop,1980,1980,['Love']
+1980-08-30 00:00:00+00:00,Christopher Cross,29.0,Sailing,Rock,256,A,Surfing/Sailing,0,Rock,1980,1980,['Surfing/Sailing']
+1980-09-06 00:00:00+00:00,Diana Ross,36.0,Upside Down,Electronic,245,Multiple Keys,Lust/Sex;Lost Love;Bad Behavior,0,Electronic,1980,1980,"['Lust/Sex', 'Lost Love', 'Bad Behavior']"
+1980-10-04 00:00:00+00:00,Queen,34.0,Another One Bites the Dust,Rock,215,Fm,Murder;Death,0,Rock,1980,1980,"['Murder', 'Death']"
+1980-10-25 00:00:00+00:00,Barbra Streisand,38.0,Woman in Love,Pop,231,Ebm,Longing for Love,0,Pop,1980,1980,['Longing for Love']
+1980-11-15 00:00:00+00:00,Kenny Rogers,42.0,Lady,"Pop;Folk, World, & Country",231,Ebm,Love,0,Pop,1980,1980,['Love']
+1980-12-27 00:00:00+00:00,John Lennon,40.0,(Just Like) Starting Over,Rock,234,A,Love,0,Rock,1980,1980,['Love']
+1981-01-31 00:00:00+00:00,Blondie,35.0,The Tide is High,Rock;Reggae,233,B,Longing for Love,0,Rock,1981,1980,['Longing for Love']
+1981-02-07 00:00:00+00:00,Kool & the Gang,30.0,Celebration,Funk/Soul,221,Ab,Partying,0,Funk/Soul,1981,1980,['Partying']
+1981-02-21 00:00:00+00:00,Dolly Parton,35.0,9 to 5,"Rock;Pop;Folk, World, & Country;Stage & Screen",162,Gb,Work;Job,0,Rock,1981,1980,"['Work', 'Job']"
+1981-02-28 00:00:00+00:00,Eddie Rabbit,39.0,I Love a Rainy Night,Pop,191,C,Rain;Appreciation,0,Pop,1981,1980,"['Rain', 'Appreciation']"
+1981-03-21 00:00:00+00:00,REO Speedwagon,29.0,Keep on Loving You,Rock,200,C,Love,0,Rock,1981,1980,['Love']
+1981-03-28 00:00:00+00:00,Blondie,35.0,Rapture,Electronic;Rock,391,Em,Partying,0,Electronic,1981,1980,['Partying']
+1981-04-11 00:00:00+00:00,Daryl Hall & John Oates,33.5,Kiss On My List,Rock,232,C,Love;Longing for Love;Lust/Sex,0,Rock,1981,1980,"['Love', 'Longing for Love', 'Lust/Sex']"
+1981-05-02 00:00:00+00:00,Sheena Easton,22.0,Morning Train (Nine to Five),Electronic,300,Ab,Love,0,Electronic,1981,1980,['Love']
+1981-05-16 00:00:00+00:00,Kim Carnes,35.0,Bette Davis Eyes,Electronic,328,F,Lust/Sex,0,Electronic,1981,1980,['Lust/Sex']
+1981-07-25 00:00:00+00:00,Air Supply,32.0,The One That You Love,Rock;Pop,259,F,Lost Love,0,Rock,1981,1980,['Lost Love']
+1981-08-01 00:00:00+00:00,Rick Springfield,31.0,Jessie's Girl,Rock,194,D,Longing for Love;Lust/Sex,0,Rock,1981,1980,"['Longing for Love', 'Lust/Sex']"
+1981-08-15 00:00:00+00:00,Diana Ross & Lionel Richie,34.5,Endless Love,Funk/Soul,266,Bb,Love,0,Funk/Soul,1981,1980,['Love']
+1981-10-17 00:00:00+00:00,Christopher Cross,30.0,Arthur's Theme (The Best That You Can Do),Rock;Pop;Stage & Screen,236,A,Love,0,Rock,1981,1980,['Love']
+1981-11-07 00:00:00+00:00,Daryl Hall & John Oates,34.0,Private Eyes,Rock,217,Am,Lost Love,0,Rock,1981,1980,['Lost Love']
+1981-11-21 00:00:00+00:00,Olivia Newton-John,33.0,Physical,Rock;Pop,225,Em,Lust/Sex,1,Rock,1981,1980,['Lust/Sex']
+1982-01-30 00:00:00+00:00,Daryl Hall & John Oates,34.0,I Can't Go For That (No Can Do),Electronic,225,Multiple Keys,Bad Relationships,0,Electronic,1982,1980,['Bad Relationships']
+1982-02-06 00:00:00+00:00,The J. Geils Band,35.0,Centerfold,Rock,216,C,Lust/Sex,0,Rock,1982,1980,['Lust/Sex']
+1982-03-20 00:00:00+00:00,Joan Jett & the Blackhearts,23.0,I Love Rock 'n' Roll,Rock,175,Em,Playing Music;Lust/Sex,0,Rock,1982,1980,"['Playing Music', 'Lust/Sex']"
+1982-05-15 00:00:00+00:00,Paul McCartney & Stevie Wonder,35.5,Ebony & Ivory,Rock,220,E,Coexistence;Appreciation,0,Rock,1982,1980,"['Coexistence', 'Appreciation']"
+1982-07-03 00:00:00+00:00,The Human League,26.0,Don't You Want Me,Electronic;Pop,236,C,Lost Love,0,Electronic,1982,1980,['Lost Love']
+1982-07-24 00:00:00+00:00,Survivor,29.0,Eye of the Tiger,Rock;Stage & Screen,227,Cm,Survival;Badassery,0,Rock,1982,1980,"['Survival', 'Badassery']"
+1982-09-04 00:00:00+00:00,Steve Miller Band,38.0,Abracadabra,Rock,219,Am,Lust/Sex,0,Rock,1982,1980,['Lust/Sex']
+1982-09-11 00:00:00+00:00,Chicago,37.0,Hard to Say I'm Sorry,Rock;Pop,221,Multiple Keys,Lost Love,0,Rock,1982,1980,['Lost Love']
+1982-10-02 00:00:00+00:00,John Cougar,30.0,Jack and Diane,Rock;Pop,254,A,Love;Getting Older;Growing Up,0,Rock,1982,1980,"['Love', 'Getting Older', 'Growing Up']"
+1982-10-30 00:00:00+00:00,Men at Work,29.0,Who Can It Be Now?,Rock;Pop,201,E,Paranoia,0,Rock,1982,1980,['Paranoia']
+1982-11-06 00:00:00+00:00,Joe Cocker & Jennifer Warnes,36.5,Up Where We Belong,Rock;Stage & Screen,233,Multiple Keys,Love,0,Rock,1982,1980,['Love']
+1982-11-27 00:00:00+00:00,Lionel Richie,33.0,Truly,Funk/Soul;Pop,200,Db,Love,0,Funk/Soul,1982,1980,['Love']
+1982-12-11 00:00:00+00:00,Toni Basil,39.0,Mickey,Rock;Pop,216,E,Lust/Sex;Lost Love,0,Rock,1982,1980,"['Lust/Sex', 'Lost Love']"
+1982-12-18 00:00:00+00:00,Daryl Hall & John Oates,35.0,Maneater,Electronic;Rock;Funk/Soul,273,D,Bad Relationships;Lost Love,0,Electronic,1982,1980,"['Bad Relationships', 'Lost Love']"
+1983-01-15 00:00:00+00:00,Men at Work,29.0,Down Under,Rock;Pop,220,Bm,Home,0,Rock,1983,1980,['Home']
+1983-02-05 00:00:00+00:00,Toto,35.0,Africa,Rock;Pop,261,E,Appreciation;Escape;Love,0,Rock,1983,1980,"['Appreciation', 'Escape', 'Love']"
+1983-02-19 00:00:00+00:00,Patti Austin & James Ingram,31.5,"Baby, Come to Me",Electronic;Funk/Soul,215,Multiple Keys,Lust/Sex,0,Electronic,1983,1980,['Lust/Sex']
+1983-03-05 00:00:00+00:00,Michael Jackson,24.0,Billie Jean,Electronic;Funk/Soul,294,Gbm,Bad Relationships;Paranoia;Child Birth,0,Electronic,1983,1980,"['Bad Relationships', 'Paranoia', 'Child Birth']"
+1983-04-23 00:00:00+00:00,Dexys Midnight Runners,29.0,Come on Eileen,Rock;Funk/Soul,243,Multiple Keys,Lust/Sex,0,Rock,1983,1980,['Lust/Sex']
+1983-04-30 00:00:00+00:00,Michael Jackson,24.0,Beat It,Electronic;Rock;Funk/Soul;Pop,258,Ebm,Bad Behavior;Violence,0,Electronic,1983,1980,"['Bad Behavior', 'Violence']"
+1983-05-21 00:00:00+00:00,David Bowie,36.0,Let's Dance,Rock;Pop,248,Multiple Keys,Dancing;Longing for Love,0,Rock,1983,1980,"['Dancing', 'Longing for Love']"
+1983-05-28 00:00:00+00:00,Irene Cara,24.0,Flashdance … What a Feeling,Electronic;Funk/Soul;Pop;Stage & Screen,233,Gm,Dancing,0,Electronic,1983,1980,['Dancing']
+1983-07-09 00:00:00+00:00,The Police,31.0,Every Breath You Take,Rock,234,Multiple Keys,Bad Relationships;Lost Love,0,Rock,1983,1980,"['Bad Relationships', 'Lost Love']"
+1983-09-03 00:00:00+00:00,Eurythmics,32.0,Sweet Dreams (Are Made of This),Electronic;Pop,216,Cm,Dreaming;Failure,0,Electronic,1983,1980,"['Dreaming', 'Failure']"
+1983-09-10 00:00:00+00:00,Michael Sembello,29.0,Maniac,Electronic,244,Ebm,Dancing,0,Electronic,1983,1980,['Dancing']
+1983-09-24 00:00:00+00:00,Billy Joel,34.0,Tell Her About It,Rock;Pop,229,Bb,Love;Appreciation,0,Rock,1983,1980,"['Love', 'Appreciation']"
+1983-10-01 00:00:00+00:00,Bonnie Tyler,32.0,Total Eclipse of the Heart,Electronic,267,Ab,Lost Love;Longing for Love,0,Electronic,1983,1980,"['Lost Love', 'Longing for Love']"
+1983-10-29 00:00:00+00:00,Kenny Rogers & Dolly Parton,41.0,Islands in the Stream,"Pop;Folk, World, & Country",251,Multiple Keys,Love,0,Pop,1983,1980,['Love']
+1983-11-12 00:00:00+00:00,Lionel Richie,34.0,All Night Long (All Night),Funk/Soul,260,Ab,Dancing;Partying,0,Funk/Soul,1983,1980,"['Dancing', 'Partying']"
+1983-12-10 00:00:00+00:00,Paul McCartney & Michael Jackson,33.0,Say Say Say,Electronic,234,Bbm,Longing for Love,0,Electronic,1983,1980,['Longing for Love']
+1984-01-21 00:00:00+00:00,Yes,39.0,Owner of a Lonely Heart,Rock;Pop,230,Am,Lost Love,0,Rock,1984,1980,['Lost Love']
+1984-02-04 00:00:00+00:00,Culture Club,22.0,Karma Chameleon,Pop,238,Bb,Lost Love,0,Pop,1984,1980,['Lost Love']
+1984-02-25 00:00:00+00:00,Van Halen,29.0,Jump,Rock,240,Multiple Keys,Unclear,0,Rock,1984,1980,['Unclear']
+1984-03-31 00:00:00+00:00,Kenny Loggins,36.0,Footloose,Rock;Pop;Stage & Screen,226,Bb,Dancing,0,Rock,1984,1980,['Dancing']
+1984-04-21 00:00:00+00:00,Phil Collins,33.0,Against All Odds (Take a Look at Me Now),Rock;Pop;Stage & Screen,206,Db,Lost Love;Longing for Love,0,Rock,1984,1980,"['Lost Love', 'Longing for Love']"
+1984-05-12 00:00:00+00:00,Lionel Richie,34.0,Hello,Funk/Soul,254,Am,Lost Love,0,Funk/Soul,1984,1980,['Lost Love']
+1984-05-26 00:00:00+00:00,Deniece Williams,32.0,Let's Hear it For the Boy,Electronic,262,C,Love;Appreciation,0,Electronic,1984,1980,"['Love', 'Appreciation']"
+1984-06-09 00:00:00+00:00,Cyndi Lauper,30.0,Time After Time,Rock;Pop,241,C,Love;Faithfulness,0,Rock,1984,1980,"['Love', 'Faithfulness']"
+1984-06-23 00:00:00+00:00,Duran Duran,25.0,The Reflex,Rock;Pop,266,C,Unclear,0,Rock,1984,1980,['Unclear']
+1984-07-07 00:00:00+00:00,Prince,26.0,When Doves Cry,Funk/Soul;Stage & Screen,228,Am,Lost Love;Lust/Sex,0,Funk/Soul,1984,1980,"['Lost Love', 'Lust/Sex']"
+1984-08-11 00:00:00+00:00,"Ray Parker, Jr.",30.0,Ghostbusters,Electronic,241,Multiple Keys,Ghosts;Jobs,0,Electronic,1984,1980,"['Ghosts', 'Jobs']"
+1984-09-01 00:00:00+00:00,Tina Turner,44.0,What's Love Got to Do With It,Rock;Funk/Soul;Pop,226,B,Lust/Sex,0,Rock,1984,1980,['Lust/Sex']
+1984-09-22 00:00:00+00:00,John Waite,32.0,Missing You,Rock,270,Gb,Lost Love;Longing for Love,0,Rock,1984,1980,"['Lost Love', 'Longing for Love']"
+1984-09-29 00:00:00+00:00,Prince,26.0,Let's Go Crazy,Electronic;Rock;Funk/Soul,227,Gb,Partying,1,Electronic,1984,1980,['Partying']
+1984-10-13 00:00:00+00:00,Stevie Wonder,34.0,I Just Called to Say I Love You,Electronic;Funk/Soul;Stage & Screen,260,Db,Love,0,Electronic,1984,1980,['Love']
+1984-11-03 00:00:00+00:00,Billy Ocean,34.0,Caribbean Queen (No More Love on the Run),Electronic;Funk/Soul;Pop,221,Dm,Lust/Sex,0,Electronic,1984,1980,['Lust/Sex']
+1984-11-17 00:00:00+00:00,Wham!,21.0,Wake Me Up Before You Go-Go,Rock;Pop,231,C,Lost Love,0,Rock,1984,1980,['Lost Love']
+1984-12-08 00:00:00+00:00,Daryl Hall & John Oates,37.0,Out of Touch,Electronic;Rock,247,Am,Lost Love,0,Electronic,1984,1980,['Lost Love']
+1984-12-22 00:00:00+00:00,Madonna,26.0,Like a Virgin,Electronic;Pop,218,Gb,Love,1,Electronic,1984,1980,['Love']
+1985-02-02 00:00:00+00:00,Foreigner,34.0,I Want to Know What Love Is,Rock,304,Gb,Longing for Love,0,Rock,1985,1980,['Longing for Love']
+1985-02-16 00:00:00+00:00,Wham!,21.0,Careless Whisper,Pop,300,Dm,Lost Love,0,Pop,1985,1980,['Lost Love']
+1985-03-09 00:00:00+00:00,REO Speedwagon,33.0,Can't Fight This Feeling,Rock,295,A,Longing for Love,0,Rock,1985,1980,['Longing for Love']
+1985-03-30 00:00:00+00:00,Phil Collins,34.0,One More Night,Rock,262,Multiple Keys,Lost Love,0,Rock,1985,1980,['Lost Love']
+1985-04-13 00:00:00+00:00,USA for Africa,31.0,We Are the World,Pop,382,E,Redemption;Respect,0,Pop,1985,1980,"['Redemption', 'Respect']"
+1985-05-11 00:00:00+00:00,Madonna,26.0,Crazy for You,Pop,224,E,Lust/Sex,0,Pop,1985,1980,['Lust/Sex']
+1985-05-18 00:00:00+00:00,Simple Minds,25.0,Don't You (Forget About Me),Rock;Pop;Stage & Screen,263,D,Lust/Sex,0,Rock,1985,1980,['Lust/Sex']
+1985-05-25 00:00:00+00:00,Wham!,21.0,Everything She Wants,Electronic,302,Gbm,Marriage;Bad Relationships,1,Electronic,1985,1980,"['Marriage', 'Bad Relationships']"
+1985-06-08 00:00:00+00:00,Tears for Fears,23.0,Everybody Wants to Rule the World,Rock;Pop,251,D,Lost Innocence;Violence;War,0,Rock,1985,1980,"['Lost Innocence', 'Violence', 'War']"
+1985-06-22 00:00:00+00:00,Bryan Adams,25.0,Heaven,Rock;Pop,243,Am,Love,0,Rock,1985,1980,['Love']
+1985-07-06 00:00:00+00:00,Phil Collins,34.0,Sussudio,Rock;Pop,263,F,Love,0,Rock,1985,1980,['Love']
+1985-07-13 00:00:00+00:00,Duran Duran,33.0,A View to a Kill,Rock;Pop;Stage & Screen,207,Multiple Keys,Murder;Death,0,Rock,1985,1980,"['Murder', 'Death']"
+1985-07-27 00:00:00+00:00,Paul Young,29.0,Everytime You Go Away,Rock;Pop,260,F,Lost Love,0,Rock,1985,1980,['Lost Love']
+1985-08-03 00:00:00+00:00,Tears for Fears,23.0,Shout,Electronic;Rock;Pop,246,Gm,Anger;Escape,1,Electronic,1985,1980,"['Anger', 'Escape']"
+1985-08-24 00:00:00+00:00,Huey Lewis & the News,35.0,The Power of Love,Rock;Stage & Screen,234,F,Love,0,Rock,1985,1980,['Love']
+1985-09-07 00:00:00+00:00,John Parr,32.0,St. Elmo's Fire (Man in Motion),Rock;Stage & Screen,251,Multiple Keys,Dreaming;Empowerment,0,Rock,1985,1980,"['Dreaming', 'Empowerment']"
+1985-09-21 00:00:00+00:00,Dire Straits,36.0,Money for Nothing,Rock,249,Gm,Band;Racism;Materialism,1,Rock,1985,1980,"['Band', 'Racism', 'Materialism']"
+1985-10-19 00:00:00+00:00,a-ha,26.0,Take on Me,Electronic;Pop,225,Gbm,Longing for Love,0,Electronic,1985,1980,['Longing for Love']
+1985-10-26 00:00:00+00:00,Whitney Houston,22.0,Saving All My Love for You,Funk/Soul;Pop,218,Gbm,Forbidden Love;Infidelity;Lust/Sex,0,Funk/Soul,1985,1980,"['Forbidden Love', 'Infidelity', 'Lust/Sex']"
+1985-11-02 00:00:00+00:00,Stevie Wonder,35.0,Part-Time Lover,Electronic;Funk/Soul;Pop,222,Bbm,Forbidden Love;Infidelity;Lust/Sex,0,Electronic,1985,1980,"['Forbidden Love', 'Infidelity', 'Lust/Sex']"
+1985-11-16 00:00:00+00:00,Starship,40.5,We Built This City,Rock;Pop,277,F,Playing Music,0,Rock,1985,1980,['Playing Music']
+1985-11-30 00:00:00+00:00,Phil Collins & Marilyn Martin,32.5,Separate Lives,Pop;Stage & Screen,269,E,Lost Love,0,Pop,1985,1980,['Lost Love']
+1985-12-07 00:00:00+00:00,Mr. Mister,32.0,Broken Wings,Rock;Pop,275,Dbm,Getting Back Together;Love;Lost Love,0,Rock,1985,1980,"['Getting Back Together', 'Love', 'Lost Love']"
+1985-12-21 00:00:00+00:00,Lionel Richie,36.0,"Say You, Say Me",Electronic;Funk/Soul;Stage & Screen,241,Ab,Love,0,Electronic,1985,1980,['Love']
+1986-01-18 00:00:00+00:00,Dionne & Friends,45.0,That's What Friends are For,Funk/Soul,256,Eb,Appreciation;Friendship,0,Funk/Soul,1986,1980,"['Appreciation', 'Friendship']"
+1986-02-15 00:00:00+00:00,Whitney Houston,22.0,How Will I Know,Electronic;Funk/Soul,275,Multiple Keys,Longing for Love,0,Electronic,1986,1980,['Longing for Love']
+1986-03-01 00:00:00+00:00,Mr. Mister,32.0,Kyrie,Rock;Pop,257,C,God;Faithfulness,0,Rock,1986,1980,"['God', 'Faithfulness']"
+1986-03-15 00:00:00+00:00,Starship,41.0,Sara,Rock;Pop,292,Bb,Lost Love,0,Rock,1986,1980,['Lost Love']
+1986-03-22 00:00:00+00:00,Heart,33.5,These Dreams,Rock,228,B,Dreaming,0,Rock,1986,1980,['Dreaming']
+1986-03-29 00:00:00+00:00,Falco,29.0,Rock Me Amadeus,Electronic;Hip Hop,202,Am,Playing Music,0,Electronic,1986,1980,['Playing Music']
+1986-04-19 00:00:00+00:00,Prince,27.0,Kiss,Funk/Soul;Pop,226,A,Lust/Sex,0,Funk/Soul,1986,1980,['Lust/Sex']
+1986-05-03 00:00:00+00:00,Robert Palmer,37.0,Addicted to Love,Rock,235,A,Lust/Sex,0,Rock,1986,1980,['Lust/Sex']
+1986-05-10 00:00:00+00:00,Pet Shop Boys,28.5,West End Girls,Electronic;Pop,240,Em,Materialism;Poverty;Lust/Sex,0,Electronic,1986,1980,"['Materialism', 'Poverty', 'Lust/Sex']"
+1986-05-17 00:00:00+00:00,Whitney Houston,22.0,Greatest Love of All,Rock;Pop,291,A,Love;Appreciation;Respect,0,Rock,1986,1980,"['Love', 'Appreciation', 'Respect']"
+1986-06-07 00:00:00+00:00,Madonna,27.0,Live to Tell,Electronic;Pop,353,Dm,Survival;Secrets,0,Electronic,1986,1980,"['Survival', 'Secrets']"
+1986-06-14 00:00:00+00:00,Patti LaBelle & Michael McDonald,38.0,On My Own,Funk/Soul;Pop,290,F,Lost Love,0,Funk/Soul,1986,1980,['Lost Love']
+1986-07-05 00:00:00+00:00,Billy Ocean,36.0,There'll Be Sad Songs (To Make You Cry),Electronic,292,Multiple Keys,Love,0,Electronic,1986,1980,['Love']
+1986-07-12 00:00:00+00:00,Simply Red,26.0,Holding Back the Years,Rock;Funk/Soul;Pop,266,Am,Lost Love,0,Rock,1986,1980,['Lost Love']
+1986-07-19 00:00:00+00:00,Genesis,35.0,Invisible Touch,Rock;Pop,209,Multiple Keys,Love;Bad Relationships,0,Rock,1986,1980,"['Love', 'Bad Relationships']"
+1986-07-26 00:00:00+00:00,Peter Gabriel,36.0,Sledgehammer,Rock,291,Eb,Lust/Sex,0,Rock,1986,1980,['Lust/Sex']
+1986-08-02 00:00:00+00:00,Peter Cetera,41.0,Glory of Love,Pop,288,F,Love,0,Pop,1986,1980,['Love']
+1986-08-16 00:00:00+00:00,Madonna,28.0,Papa Don't Preach,Electronic,269,Fm,Illigitimacy;Child Birth;Growing Up,0,Electronic,1986,1980,"['Illigitimacy', 'Child Birth', 'Growing Up']"
+1986-08-30 00:00:00+00:00,Steve Winwood,38.0,Higher Love,Rock;Funk/Soul,252,F,Longing for Love,0,Rock,1986,1980,['Longing for Love']
+1986-09-06 00:00:00+00:00,Bananarama,25.666666666666668,Venus,Electronic;Pop,229,G,Lust/Sex,0,Electronic,1986,1980,['Lust/Sex']
+1986-09-13 00:00:00+00:00,Berlin,25.0,Take My Breath Away,Electronic;Pop;Stage & Screen,242,Ab,Love,0,Electronic,1986,1980,['Love']
+1986-09-20 00:00:00+00:00,Huey Lewis & the News,36.0,Stuck with You,Rock,269,C,Love,0,Rock,1986,1980,['Love']
+1986-10-11 00:00:00+00:00,Janet Jackson,20.0,When I Think of You,Hip Hop;Pop,235,A,Love,0,Hip Hop,1986,1980,['Love']
+1986-10-25 00:00:00+00:00,Cyndi Lauper,33.0,True Colors,Electronic;Pop,226,C,Appreciation,0,Electronic,1986,1980,['Appreciation']
+1986-11-08 00:00:00+00:00,Boston,39.0,Amanda,Rock,256,G,Longing for Love,0,Rock,1986,1980,['Longing for Love']
+1986-11-22 00:00:00+00:00,The Human League,31.0,Human,Electronic,229,Ab,Infidelity,0,Electronic,1986,1980,['Infidelity']
+1986-11-29 00:00:00+00:00,Bon Jovi,24.0,You Give Love a Bad Name,Rock,222,Cm,Lost Love;Bad Relationships,1,Rock,1986,1980,"['Lost Love', 'Bad Relationships']"
+1986-12-06 00:00:00+00:00,Peter Cetera & Amy Grant,34.0,The Next Time I Fall,Rock;Pop,225,Ab,Longing for Love,0,Rock,1986,1980,['Longing for Love']
+1986-12-13 00:00:00+00:00,Bruce Hornsby & the Range,32.0,The Way It Is,Rock,298,G,Racism;Jobs,0,Rock,1986,1980,"['Racism', 'Jobs']"
+1986-12-20 00:00:00+00:00,The Bangles,27.75,Walk Like an Egyptian,Rock;Pop,204,B,Dancing,0,Rock,1986,1980,['Dancing']
+1987-01-17 00:00:00+00:00,Gregory Abbott,32.0,Shake You Down,Electronic;Funk/Soul,245,D,Lust/Sex,0,Electronic,1987,1980,['Lust/Sex']
+1987-01-24 00:00:00+00:00,Billy Vera & the Beaters,42.0,At This Moment,Rock;Pop,261,Gb,Lost Love;Longing for Love,0,Rock,1987,1980,"['Lost Love', 'Longing for Love']"
+1987-02-07 00:00:00+00:00,Madonna,28.0,Open Your Heart,Electronic,253,F,Lust/Sex,0,Electronic,1987,1980,['Lust/Sex']
+1987-02-24 00:00:00+00:00,Bon Jovi,24.0,Livin' on a Prayer,Rock,249,Multiple Keys,Survival;Love,0,Rock,1987,1980,"['Survival', 'Love']"
+1987-03-14 00:00:00+00:00,Huey Lewis & the News,36.0,Jacob's Ladder,Rock,213,F,Empowerment;Better Days,0,Rock,1987,1980,"['Empowerment', 'Better Days']"
+1987-04-04 00:00:00+00:00,Starship,42.0,Nothing's Gonna Stop Us Now,Rock,270,Gb,Love,0,Rock,1987,1980,['Love']
+1987-04-18 00:00:00+00:00,Aretha Franklin & George Michael,34.0,I Knew You Were Waiting (For Me),Electronic;Funk/Soul;Pop,238,E,Love,0,Electronic,1987,1980,['Love']
+1987-05-02 00:00:00+00:00,Cutting Crew,28.0,(I Just) Died in Your Arms,Rock;Pop,280,Bm,Lust/Sex;Bad Relationships,0,Rock,1987,1980,"['Lust/Sex', 'Bad Relationships']"
+1987-05-16 00:00:00+00:00,U2,27.0,With or Without You,Rock,354,D,Lost Love;Bad Relationships,0,Rock,1987,1980,"['Lost Love', 'Bad Relationships']"
+1987-06-06 00:00:00+00:00,Kim Wilde,26.0,You Keep Me Hangin' On,Pop,255,Multiple Keys,Bad Relationships,0,Pop,1987,1980,['Bad Relationships']
+1987-06-13 00:00:00+00:00,Atlantic Starr,23.0,Always,Funk/Soul;Pop,239,G,Love,0,Funk/Soul,1987,1980,['Love']
+1987-06-20 00:00:00+00:00,Lisa Lisa & Cult Jam,20.0,Head to Toe,Electronic,241,Bm,Love;Lust/Sex,0,Electronic,1987,1980,"['Love', 'Lust/Sex']"
+1987-07-27 00:00:00+00:00,Whitney Houston,23.0,I Wanna Dance with Somebody (Who Loves Me),Electronic;Funk/Soul;Pop,291,Gb,Dancing;Longing for Love,0,Electronic,1987,1980,"['Dancing', 'Longing for Love']"
+1987-07-11 00:00:00+00:00,Heart,34.5,Alone,Rock,219,Db,Lust/Sex,0,Rock,1987,1980,['Lust/Sex']
+1987-08-01 00:00:00+00:00,Bob Seger,42.0,Shakedown,Rock;Stage & Screen,241,E,Fighting,0,Rock,1987,1980,['Fighting']
+1987-08-08 00:00:00+00:00,U2,27.0,I Still Haven't Found What I'm Looking For,Rock,277,Db,God;Faithfulness;Doubt,0,Rock,1987,1980,"['God', 'Faithfulness', 'Doubt']"
+1987-08-22 00:00:00+00:00,Madonna,29.0,Who's That Girl,Electronic;Stage & Screen,239,Am,Bad Relationships,0,Electronic,1987,1980,['Bad Relationships']
+1987-08-29 00:00:00+00:00,Los Lobos,32.0,La Bamba,Rock;Latin;Stage & Screen,174,C,Dancing,0,Rock,1987,1980,['Dancing']
+1987-09-19 00:00:00+00:00,Michael Jackson & Siedah Garrett,28.0,I Just Can't Stop Loving You,Pop,251,C,Love,0,Pop,1987,1980,['Love']
+1987-09-26 00:00:00+00:00,Whitney Houston,24.0,Didn't We Almost Have It All,Electronic,278,Multiple Keys,Lost Love,0,Electronic,1987,1980,['Lost Love']
+1987-10-10 00:00:00+00:00,Whitesnake,36.0,Here I Go Again,Rock,275,G,Empowerment;Redemption,0,Rock,1987,1980,"['Empowerment', 'Redemption']"
+1987-10-17 00:00:00+00:00,Lisa Lisa & Cult Jam,20.0,Lost in Emotion,Electronic;Funk/Soul;Pop,289,C,Longing for Love,0,Electronic,1987,1980,['Longing for Love']
+1987-10-24 00:00:00+00:00,Michael Jackson,29.0,Bad,Electronic,247,Multiple Keys,Anger;Fighting;Badassery,0,Electronic,1987,1980,"['Anger', 'Fighting', 'Badassery']"
+1987-11-07 00:00:00+00:00,Tiffany,16.0,I Think We're Alone Now,Electronic;Rock;Pop,228,D,Lust/Sex;Growing Up,0,Electronic,1987,1980,"['Lust/Sex', 'Growing Up']"
+1987-11-21 00:00:00+00:00,Billy Idol,31.0,Mony Mony,Rock,246,F,Lust/Sex,0,Rock,1987,1980,['Lust/Sex']
+1987-11-28 00:00:00+00:00,Bill Medley & Jennifer Warnes,43.5,(I've Had) The Time of My Life,Rock;Funk/Soul;Pop,290,E,Love;Longing for Love,0,Rock,1987,1980,"['Love', 'Longing for Love']"
+1987-12-05 00:00:00+00:00,Belinda Carlisle,29.0,Heaven Is a Place on Earth,Electronic;Rock,247,E,Love,0,Electronic,1987,1980,['Love']
+1987-12-12 00:00:00+00:00,George Michael,24.0,Faith,Electronic;Rock;Pop,194,B,Lust/Sex;Love,0,Electronic,1987,1980,"['Lust/Sex', 'Love']"
+1988-01-09 00:00:00+00:00,Whitney Houston,24.0,So Emotional,Electronic;Pop,276,Bm,Lust/Sex,0,Electronic,1988,1980,['Lust/Sex']
+1988-01-16 00:00:00+00:00,George Harrison,47.0,Got My Mind Set On You,Rock,234,E,Longing for Love,0,Rock,1988,1980,['Longing for Love']
+1988-01-23 00:00:00+00:00,Michael Jackson,29.0,The Way You Make Me Feel,Electronic;Rock;Funk/Soul,266,E,Love;Lust/Sex,0,Electronic,1988,1980,"['Love', 'Lust/Sex']"
+1988-01-30 00:00:00+00:00,INXS,28.0,Need You Tonight,Electronic;Rock;Pop,181,Cm,Lust/Sex,0,Electronic,1988,1980,['Lust/Sex']
+1988-02-06 00:00:00+00:00,Tiffany,16.0,Could've Been,Electronic;Rock,213,Db,Lost Love,0,Electronic,1988,1980,['Lost Love']
+1988-02-20 00:00:00+00:00,Exposé,23.33333333333333,Seasons Change,Electronic;Funk/Soul,256,Am,Lost Love,0,Electronic,1988,1980,['Lost Love']
+1988-02-27 00:00:00+00:00,George Michael,24.0,Father Figure,Funk/Soul;Pop,340,Abm,Lust/Sex,0,Funk/Soul,1988,1980,['Lust/Sex']
+1988-03-12 00:00:00+00:00,Rick Astley,22.0,Never Gonna Give You Up,Electronic;Pop,213,Db,Love;Faithfulness,0,Electronic,1988,1980,"['Love', 'Faithfulness']"
+1988-03-26 00:00:00+00:00,Michael Jackson,29.0,Man in the Mirror,Electronic;Pop,318,G,Growing Up;Enlightenment,0,Electronic,1988,1980,"['Growing Up', 'Enlightenment']"
+1988-04-09 00:00:00+00:00,Billy Ocean,38.0,"Get Outta My Dreams, Get Into My Car",Funk/Soul;Pop,284,Multiple Keys,Longing for Love;Lust/Sex,0,Funk/Soul,1988,1980,"['Longing for Love', 'Lust/Sex']"
+1988-04-23 00:00:00+00:00,Whitney Houston,24.0,Where Do Broken Hearts Go,Funk/Soul,277,D,Lost Love,0,Funk/Soul,1988,1980,['Lost Love']
+1988-05-07 00:00:00+00:00,Terence Trent D'Arby,26.0,Wishing Well,Rock;Funk/Soul;Pop,210,Bb,Lust/Sex,0,Rock,1988,1980,['Lust/Sex']
+1988-05-14 00:00:00+00:00,Gloria Estefan & Miami Sound Machine,30.0,Anything for You,Latin;Pop,243,Gb,Lost Love,0,Latin,1988,1980,['Lost Love']
+1988-05-28 00:00:00+00:00,George Michael,24.0,One More Try,Electronic;Pop,353,F,Lost Love,0,Electronic,1988,1980,['Lost Love']
+1988-06-18 00:00:00+00:00,Rick Astley,22.0,Together Forever,Pop,201,D,Longing for Love,0,Pop,1988,1980,['Longing for Love']
+1988-06-25 00:00:00+00:00,Debbie Gibson,17.0,Foolish Beat,Electronic;Pop,202,Bbm,Lost Love,0,Electronic,1988,1980,['Lost Love']
+1988-07-02 00:00:00+00:00,Michael Jackson,29.0,Dirty Diana,Rock;Pop,280,Gm,Lust/Sex;Bad Relationships,0,Rock,1988,1980,"['Lust/Sex', 'Bad Relationships']"
+1988-07-09 00:00:00+00:00,Cheap Trick,35.0,The Flame,Rock;Pop,281,E,Lost Love;Longing for Love,0,Rock,1988,1980,"['Lost Love', 'Longing for Love']"
+1988-07-23 00:00:00+00:00,Richard Marx,24.0,Hold On to the Nights,Rock,316,Eb,Lost Love,0,Rock,1988,1980,['Lost Love']
+1988-07-30 00:00:00+00:00,Steve Winwood,40.0,Roll With It,Rock,279,G,Better Times;Positivity,0,Rock,1988,1980,"['Better Times', 'Positivity']"
+1988-08-27 00:00:00+00:00,George Michael,25.0,Monkey,Electronic;Pop,289,Gbm,Lust/Sex;Forbidden Love,0,Electronic,1988,1980,"['Lust/Sex', 'Forbidden Love']"
+1988-09-10 00:00:00+00:00,Guns N' Roses,26.0,Sweet Child O' Mine,Rock,356,Gb,Love,0,Rock,1988,1980,['Love']
+1988-09-24 00:00:00+00:00,Bobby McFerrin,38.0,"Don't Worry, Be Happy",Jazz;Pop,294,B,Positivity,0,Jazz,1988,1980,['Positivity']
+1988-10-08 00:00:00+00:00,Def Leppard,39.0,Love Bites,Rock,346,Dm,Lost Love,1,Rock,1988,1980,['Lost Love']
+1988-10-15 00:00:00+00:00,UB40,31.0,Red Red Wine,Electronic;Reggae,183,Db,Lost Love,0,Electronic,1988,1980,['Lost Love']
+1988-10-22 00:00:00+00:00,Phil Collins,37.0,A Groovy Kind of Love,Rock;Pop;Stage & Screen,210,G,Love,0,Rock,1988,1980,['Love']
+1988-11-05 00:00:00+00:00,The Beach Boys,47.0,Kokomo,Rock;Pop;Stage & Screen,217,C,Escape,0,Rock,1988,1980,['Escape']
+1988-11-12 00:00:00+00:00,The Escape Club,30.0,Wild Wild West,Electronic,244,E,Dystopia,0,Electronic,1988,1980,['Dystopia']
+1988-11-19 00:00:00+00:00,Bon Jovi,26.0,Bad Medicine,Rock,238,Em,Lust/Sex,0,Rock,1988,1980,['Lust/Sex']
+1988-12-03 00:00:00+00:00,Will to Power,28.0,"Baby, I Love Your Way / Freebird Medley",Electronic,247,G,Love;Lost Love,0,Electronic,1988,1980,"['Love', 'Lost Love']"
+1988-12-10 00:00:00+00:00,Chicago,41.0,Look Away,Rock;Pop,240,A,Lost Love,0,Rock,1988,1980,['Lost Love']
+1988-12-24 00:00:00+00:00,Poison,25.0,Every Rose Has Its Thorn,Rock,260,Gb,Lost Love,0,Rock,1988,1980,['Lost Love']
+1989-01-14 00:00:00+00:00,Bobby Brown,19.0,My Prerogative,Hip Hop,271,Am,Badassery;Lust/Sex,1,Hip Hop,1989,1980,"['Badassery', 'Lust/Sex']"
+1989-01-21 00:00:00+00:00,Phil Collins,37.0,Two Hearts,Rock;Stage & Screen,204,Multiple Keys,Love,0,Rock,1989,1980,['Love']
+1989-02-04 00:00:00+00:00,Sheriff,26.0,When I'm With You,Rock,233,A,Love,0,Rock,1989,1980,['Love']
+1989-02-11 00:00:00+00:00,Paula Abdul,26.0,Straight Up,Electronic;Pop,231,Dm,Longing for Love;Bad Relationships;Lost Love,0,Electronic,1989,1980,"['Longing for Love', 'Bad Relationships', 'Lost Love']"
+1989-03-04 00:00:00+00:00,Debbie Gibson,18.0,Lost in Your Eyes,Electronic,213,C,Love,0,Electronic,1989,1980,['Love']
+1989-03-25 00:00:00+00:00,Mike & the Mechanics,38.0,The Living Years,Rock,330,Ab,Death;Family;Regret;Time,0,Rock,1989,1980,"['Death', 'Family', 'Regret', 'Time']"
+1989-04-01 00:00:00+00:00,The Bangles,30.0,Eternal Flame,Rock,238,G,Love;Longing for Love,0,Rock,1989,1980,"['Love', 'Longing for Love']"
+1989-04-08 00:00:00+00:00,Roxette,30.0,The Look,Electronic;Rock,237,A,Lust/Sex,0,Electronic,1989,1980,['Lust/Sex']
+1989-04-15 00:00:00+00:00,Fine Young Cannibals,27.0,She Drives Me Crazy,Electronic;Pop,215,D,Lust/Sex,0,Electronic,1989,1980,['Lust/Sex']
+1989-04-22 00:00:00+00:00,Madonna,30.0,Like a Prayer,Electronic;Pop,340,F,Lust/Sex,0,Electronic,1989,1980,['Lust/Sex']
+1989-05-13 00:00:00+00:00,Bon Jovi,29.0,I'll Be There for You,Rock,346,D,Love,0,Rock,1989,1980,['Love']
+1989-05-20 00:00:00+00:00,Paula Abdul,26.0,Forever Your Girl,Electronic;Funk/Soul;Pop,300,D,Love,0,Electronic,1989,1980,['Love']
+1989-06-03 00:00:00+00:00,Michael Damian,27.0,Rock On,Rock,202,Dbm,Playing Music;Dancing;Bands,0,Rock,1989,1980,"['Playing Music', 'Dancing', 'Bands']"
+1989-06-10 00:00:00+00:00,Bette Midler,43.0,Wind Beneath My Wings,Pop;Stage & Screen,293,Bb,Appreciation;Friendship,0,Pop,1989,1980,"['Appreciation', 'Friendship']"
+1989-06-17 00:00:00+00:00,New Kids on the Block,19.0,I'll Be Loving You (Forever),Electronic,263,Multiple Keys,Love,0,Electronic,1989,1980,['Love']
+1989-06-24 00:00:00+00:00,Richard Marx,25.0,Satisfied,Rock,254,Eb,Lust/Sex,0,Rock,1989,1980,['Lust/Sex']
+1989-07-01 00:00:00+00:00,Milli Vanilli,23.5,Baby Don't Forget My Number,Electronic;Pop,249,E,Love;Lust/Sex,0,Electronic,1989,1980,"['Love', 'Lust/Sex']"
+1989-07-08 00:00:00+00:00,Fine Young Cannibals,28.0,Good Thing,Electronic;Rock;Pop,202,D,Lost Love,0,Electronic,1989,1980,['Lost Love']
+1989-07-15 00:00:00+00:00,Simply Red,29.0,If You Don't Know Me By Now,Funk/Soul;Pop,204,Multiple Keys,Lost Love;Infidelity,0,Funk/Soul,1989,1980,"['Lost Love', 'Infidelity']"
+1989-07-22 00:00:00+00:00,Martika,20.0,Toy Soldiers,Rock,260,Dbm,Addiction,0,Rock,1989,1980,['Addiction']
+1989-08-05 00:00:00+00:00,Prince,31.0,Batdance,Electronic;Funk/Soul,247,Multiple Keys,Lust/Sex;Batman,1,Electronic,1989,1980,"['Lust/Sex', 'Batman']"
+1989-08-12 00:00:00+00:00,Richard Marx,25.0,Right Here Waiting,Rock,264,C,Love,0,Rock,1989,1980,['Love']
+1989-09-02 00:00:00+00:00,Paula Abdul,27.0,Cold Hearted,Electronic;Pop,231,Gm,Bad Relationships,0,Electronic,1989,1980,['Bad Relationships']
+1989-09-09 00:00:00+00:00,New Kids on the Block,20.0,Hangin' Tough,Electronic;Hip Hop,231,Dbm,Badassery;Dancing,0,Electronic,1989,1980,"['Badassery', 'Dancing']"
+1989-09-16 00:00:00+00:00,Gloria Estefan,32.0,Don't Wanna Lose You,Pop,250,F,Love;Lost Love,0,Pop,1989,1980,"['Love', 'Lost Love']"
+1989-09-23 00:00:00+00:00,Milli Vanilli,23.5,Girl I'm Gonna Miss You,Funk/Soul;Pop,238,A,Lost Love,0,Funk/Soul,1989,1980,['Lost Love']
+1989-10-07 00:00:00+00:00,Janet Jackson,23.0,Miss You Much,Funk/Soul;Pop,252,Abm,Lust/Sex,0,Funk/Soul,1989,1980,['Lust/Sex']
+1989-11-04 00:00:00+00:00,Roxette,30.5,Listen to Your Heart,Rock;Pop,315,Multiple Keys,Lost Love,0,Rock,1989,1980,['Lost Love']
+1989-11-11 00:00:00+00:00,Bad English,37.0,When I See You Smile,Rock,257,G,Love,0,Rock,1989,1980,['Love']
+1989-11-25 00:00:00+00:00,Milli Vanilli,23.5,Blame it On the Rain,Electronic;Pop,248,Bb,Lost Love,0,Electronic,1989,1980,['Lost Love']
+1989-12-09 00:00:00+00:00,Billy Joel,40.0,We Didn't Start the Fire,Rock,245,G,Growing Up;War;Restlessness,0,Rock,1989,1980,"['Growing Up', 'War', 'Restlessness']"
+1989-12-23 00:00:00+00:00,Phil Collins,39.0,Another Day in Paradise,Electronic;Rock,289,Gbm,Homelessness,0,Electronic,1989,1980,['Homelessness']
+1990-01-20 00:00:00+00:00,Michael Bolton,36.0,How Am I Supposed to Live Without You,Rock;Pop,245,Bb,Lost Love,0,Rock,1990,1990,['Lost Love']
+1990-02-10 00:00:00+00:00,Paula Abdul & Wild Pair,27.0,Opposites Attract,Electronic,230,Bb,Love,0,Electronic,1990,1990,['Love']
+1990-03-03 00:00:00+00:00,Janet Jackson,23.0,Escapade,Electronic;Hip Hop;Pop,283,Ab,Lust/Sex,0,Electronic,1990,1990,['Lust/Sex']
+1990-03-24 00:00:00+00:00,Alannah Myles,31.0,Black Velvet,Rock,287,Ebm,Death;Music,0,Rock,1990,1990,"['Death', 'Music']"
+1990-04-07 00:00:00+00:00,Taylor Dayne,28.0,Love Will Lead You Back,Electronic,277,Ab,Lost Love,0,Electronic,1990,1990,['Lost Love']
+1990-04-14 00:00:00+00:00,Tommy Page,20.0,I'll Be Your Everything,Pop,244,F,Longing For Love;Love,0,Pop,1990,1990,"['Longing For Love', 'Love']"
+1990-04-21 00:00:00+00:00,Sinead O'Connor,23.0,Nothing Compares 2 U,Electronic;Rock;Funk/Soul,280,F,Lost Love,0,Electronic,1990,1990,['Lost Love']
+1990-05-19 00:00:00+00:00,Madonna,31.0,Vogue,Electronic;Pop,289,Ab,Dancing,0,Electronic,1990,1990,['Dancing']
+1990-06-09 00:00:00+00:00,Wilson Phillips,21.33333333333333,Hold On,Electronic;Rock;Pop,221,F,Positivity;Empowerment,0,Electronic,1990,1990,"['Positivity', 'Empowerment']"
+1990-06-16 00:00:00+00:00,Roxette,31.5,It Must Have Been Love,Rock;Pop;Stage & Screen,258,F,Lost Love,0,Rock,1990,1990,['Lost Love']
+1990-06-30 00:00:00+00:00,New Kids on the Block,20.0,Step by Step,Electronic;Pop,267,Em,Longing for Love,0,Electronic,1990,1990,['Longing for Love']
+1990-07-21 00:00:00+00:00,Glenn Medeiros ft. Bobby Brown,20.0,She Ain't Worth It,Electronic;Hip Hop;Funk/Soul,218,Gm,Bad Relationships,0,Electronic,1990,1990,['Bad Relationships']
+1990-08-04 00:00:00+00:00,Mariah Carey,21.0,Vision of Love,Electronic;Pop,209,F,Longing for Love,0,Electronic,1990,1990,['Longing for Love']
+1990-09-08 00:00:00+00:00,Jon Bon Jovi,28.0,Blaze of Glory,Rock;Stage & Screen,340,Dm,Badassery;Survival;Violence,0,Rock,1990,1990,"['Badassery', 'Survival', 'Violence']"
+1990-09-15 00:00:00+00:00,Wilson Phillips,21.33333333333333,Release Me,Pop,231,C,Lost Love,0,Pop,1990,1990,['Lost Love']
+1990-09-29 00:00:00+00:00,Nelson,33.0,(Can't Live Without Your) Love and Affection,Rock,244,Db,Longing For Love,0,Rock,1990,1990,['Longing For Love']
+1990-10-06 00:00:00+00:00,Maxi Priest,29.0,Close to You,Reggae;Pop,243,Ebm,Longing for Love;Bad Relationships,0,Reggae,1990,1990,"['Longing for Love', 'Bad Relationships']"
+1990-10-13 00:00:00+00:00,George Michael,27.0,Praying For Time,Funk/Soul;Pop,281,Bb,Materialism;Poverty;God,0,Funk/Soul,1990,1990,"['Materialism', 'Poverty', 'God']"
+1990-10-20 00:00:00+00:00,James Ingram,38.0,I Don't Have the Heart,Electronic;Pop,253,D,Lost Love,0,Electronic,1990,1990,['Lost Love']
+1990-10-27 00:00:00+00:00,Janet Jackson,24.0,Black Cat,Electronic,290,Em,Bad Behavior;Violence,1,Electronic,1990,1990,"['Bad Behavior', 'Violence']"
+1990-11-03 00:00:00+00:00,Vanilla Ice,23.0,Ice Ice Baby,Hip Hop,270,Dm,Bragging;Playing Music;Partying,1,Hip Hop,1990,1990,"['Bragging', 'Playing Music', 'Partying']"
+1990-11-10 00:00:00+00:00,Mariah Carey,20.0,Love Takes Time,Pop,229,B,Lost Love,0,Pop,1990,1990,['Lost Love']
+1990-12-01 00:00:00+00:00,Whitney Houston,27.0,I'm Your Baby Tonight,Electronic;Hip Hop,299,Abm,Lust/Sex,0,Electronic,1990,1990,['Lust/Sex']
+1990-12-08 00:00:00+00:00,Stevie B,32.0,Because I Love You (The Postman Song),Electronic,246,Db,Lost Love,0,Electronic,1990,1990,['Lost Love']
+1991-01-05 00:00:00+00:00,Madonna,32.0,Justify My Love,Electronic;Pop,296,Gbm,Lust/Sex,1,Electronic,1991,1990,['Lust/Sex']
+1991-01-19 00:00:00+00:00,Janet Jackson,24.0,Love Will Never Do (Without You),Electronic,273,Ab,Love,0,Electronic,1991,1990,['Love']
+1991-01-26 00:00:00+00:00,Surface,27.0,The First Time,Funk/Soul;Pop,255,Multiple Keys,Love,0,Funk/Soul,1991,1990,['Love']
+1991-02-09 00:00:00+00:00,C+C Music Factory ft. Freedom Williams,37.0,Gonna Make You Sweat (Everybody Dance Now),Electronic,244,Bb,Dancing,0,Electronic,1991,1990,['Dancing']
+1991-02-23 00:00:00+00:00,Whitney Houston,27.0,All the Man that I Need,Hip Hop;Funk/Soul,251,Fm,Love,0,Hip Hop,1991,1990,['Love']
+1991-03-09 00:00:00+00:00,Mariah Carey,20.0,Someday,Electronic;Hip Hop;Funk/Soul;Pop,246,Dbm,Lost Love;Empowerment,0,Electronic,1991,1990,"['Lost Love', 'Empowerment']"
+1991-03-23 00:00:00+00:00,Timmy T,23.0,One More Try,Electronic,209,A,Lost Love,0,Electronic,1991,1990,['Lost Love']
+1991-03-30 00:00:00+00:00,Gloria Estefan,33.0,Coming Out of the Dark,Pop,242,E,Empowerment;Redemption,0,Pop,1991,1990,"['Empowerment', 'Redemption']"
+1991-04-13 00:00:00+00:00,Londonbeat,49.0,I've Been Thinking About You,Electronic,230,Bm,Lost Love,0,Electronic,1991,1990,['Lost Love']
+1991-04-20 00:00:00+00:00,Wilson Phillips,22.0,You're in Love,Rock;Pop,247,Multiple Keys,Lost Love,0,Rock,1991,1990,['Lost Love']
+1991-04-27 00:00:00+00:00,Amy Grant,30.0,Baby Baby,Electronic;Rock,244,Gb,Love,0,Electronic,1991,1990,['Love']
+1991-05-11 00:00:00+00:00,Roxette,32.0,Joyride,Rock;Pop,241,A,Love,0,Rock,1991,1990,['Love']
+1991-05-18 00:00:00+00:00,Hi-Five,15.0,I Like The Way (Kissing Game),Hip Hop,270,Db,Love;Lust/Sex,0,Hip Hop,1991,1990,"['Love', 'Lust/Sex']"
+1991-05-25 00:00:00+00:00,Mariah Carey,21.0,I Don't Wanna Cry,Funk/Soul;Pop,288,A,Lost Love,0,Funk/Soul,1991,1990,['Lost Love']
+1991-06-08 00:00:00+00:00,Extreme,29.0,More Than Words,Rock,238,Gb,Love;Lost Love,0,Rock,1991,1990,"['Love', 'Lost Love']"
+1991-06-15 00:00:00+00:00,Paula Abdul,28.0,Rush Rush,Electronic,298,E,Longing for Love;Love,0,Electronic,1991,1990,"['Longing for Love', 'Love']"
+1991-07-27 00:00:00+00:00,Bryan Adams,31.0,(Everything I Do) I Do It For You,Rock;Pop,250,Db,Love,0,Rock,1991,1990,['Love']
+1991-09-14 00:00:00+00:00,Paula Abdul,29.0,The Promise of a New Day,Pop,272,Db,Empowerment;Redemption;Better Days,0,Pop,1991,1990,"['Empowerment', 'Redemption', 'Better Days']"
+1991-09-21 00:00:00+00:00,Color Me Badd,21.0,I Adore Mi Amor,Hip Hop;Funk/Soul,289,Ebm,Love,0,Hip Hop,1991,1990,['Love']
+1991-10-05 00:00:00+00:00,Marky Mark & the Funky Bunch ft. Loleatta Holloway,20.0,Good Vibrations,Electronic;Hip Hop,269,Db,Dancing;Partying,1,Electronic,1991,1990,"['Dancing', 'Partying']"
+1991-10-12 00:00:00+00:00,Mariah Carey,22.0,Emotions,Electronic;Funk/Soul;Pop,248,Am,Love,0,Electronic,1991,1990,['Love']
+1991-11-02 00:00:00+00:00,Karyn White,26.0,Romantic,Electronic;Funk/Soul,247,Dbm,Lust/Sex,0,Electronic,1991,1990,['Lust/Sex']
+1991-11-09 00:00:00+00:00,Prince & the New Power Generation,33.0,Cream,Rock;Funk/Soul,253,Bbm,Lust/Sex,0,Rock,1991,1990,['Lust/Sex']
+1991-11-23 00:00:00+00:00,Michael Bolton,38.0,When a Man Loves a Woman,Rock,231,Db,Love,0,Rock,1991,1990,['Love']
+1991-11-30 00:00:00+00:00,P.M. Dawn,21.0,Set Adrift on Memory Bliss,Electronic;Hip Hop,235,G,Lost Love,1,Electronic,1991,1990,['Lost Love']
+1991-12-07 00:00:00+00:00,Michael Jackson,33.0,Black or White,Funk/Soul;Pop,202,E,Racism,0,Funk/Soul,1991,1990,['Racism']
+1992-01-25 00:00:00+00:00,Color Me Badd,21.0,All 4 Love,Hip Hop,211,D,Love,0,Hip Hop,1992,1990,['Love']
+1992-02-01 00:00:00+00:00,George Michael & Elton John,36.0,Don't Let the Sun Go Down on Me,Electronic;Pop,346,C,Lost Love,0,Electronic,1992,1990,['Lost Love']
+1992-02-08 00:00:00+00:00,Right Said Fred,33.0,I'm Too Sexy,Electronic;Pop,170,E,Lust/Sex,0,Electronic,1992,1990,['Lust/Sex']
+1992-02-29 00:00:00+00:00,Mr. Big,31.0,To Be With You,Rock,207,Multiple Keys,Love;Longing for Love,0,Rock,1992,1990,"['Love', 'Longing for Love']"
+1992-03-21 00:00:00+00:00,Vanessa Williams,29.0,Save the Best for Last,Electronic;Hip Hop;Pop,218,Eb,Bad Relationships;Longing for Love;Love,0,Electronic,1992,1990,"['Bad Relationships', 'Longing for Love', 'Love']"
+1992-04-25 00:00:00+00:00,Kris Kross,12.5,Jump,Hip Hop,193,Bm,Bragging;Dancing;Partying;Playing Music,0,Hip Hop,1992,1990,"['Bragging', 'Dancing', 'Partying', 'Playing Music']"
+1992-06-20 00:00:00+00:00,Mariah Carey,23.0,I'll Be There,Funk/Soul;Pop,264,F,Love,0,Funk/Soul,1992,1990,['Love']
+1992-07-04 00:00:00+00:00,Sir Mix-a-Lot,28.0,Baby Got Back,Electronic;Hip Hop,262,Cm,Lust/Sex,1,Electronic,1992,1990,['Lust/Sex']
+1992-08-08 00:00:00+00:00,Madonna,33.0,This Used to Be My Playground,Electronic;Pop;Stage & Screen,310,Gm,Better Times;Lost Love,0,Electronic,1992,1990,"['Better Times', 'Lost Love']"
+1992-08-15 00:00:00+00:00,Boyz II Men,19.5,End of the Road,Hip Hop,254,Eb,Lost Love,0,Hip Hop,1992,1990,['Lost Love']
+1992-11-14 00:00:00+00:00,The Heights,23.0,How Do You Talk to an Angel,Rock;Pop,227,A,Longing for Love,0,Rock,1992,1990,['Longing for Love']
+1992-11-28 00:00:00+00:00,Whitney Houston,29.0,I Will Always Love You,Funk/Soul;Pop,271,A,Lost Love,0,Funk/Soul,1992,1990,['Lost Love']
+1993-03-06 00:00:00+00:00,Peabo Bryson & Regina Belle,35.0,A Whole New World,Funk/Soul;Pop,243,Multiple Keys,Dreaming;Love;Positivity;Flying,0,Funk/Soul,1993,1990,"['Dreaming', 'Love', 'Positivity', 'Flying']"
+1993-03-13 00:00:00+00:00,Snow,23.0,Informer,Hip Hop,268,Gbm,Violence;Police,0,Hip Hop,1993,1990,"['Violence', 'Police']"
+1993-05-15 00:00:00+00:00,Janet Jackson,26.0,That's the Way Love Goes,Electronic;Hip Hop,265,Bb,Lust/Sex,1,Electronic,1993,1990,['Lust/Sex']
+1993-07-24 00:00:00+00:00,UB40,34.0,(I Can't Help) Falling in Love With You,Electronic;Reggae,207,D,Love,0,Electronic,1993,1990,['Love']
+1993-09-11 00:00:00+00:00,Mariah Carey,24.0,Dreamlover,Electronic;Pop,232,F,Love;Longing for Love,0,Electronic,1993,1990,"['Love', 'Longing for Love']"
+1993-11-06 00:00:00+00:00,Meat Loaf,46.0,I'd Do Anything For Love (But I Won't Do That),Rock,316,D,Love;Doubt;Escape,1,Rock,1993,1990,"['Love', 'Doubt', 'Escape']"
+1993-12-11 00:00:00+00:00,Janet Jackson,27.0,Again,Hip Hop,227,C,Bad Relationships;Longing for Love;Lost Love,0,Hip Hop,1993,1990,"['Bad Relationships', 'Longing for Love', 'Lost Love']"
+1993-12-25 00:00:00+00:00,Mariah Carey,24.0,Hero,Electronic;Pop,257,Multiple Keys,Empowerment;Appreciation,0,Electronic,1993,1990,"['Empowerment', 'Appreciation']"
+1994-01-22 00:00:00+00:00,"Bryan Adams, Rod Stewart, & Sting",41.66666666666666,All For Love,Rock,283,D,Longing for Love;Love,0,Rock,1994,1990,"['Longing for Love', 'Love']"
+1994-02-12 00:00:00+00:00,Céline Dion,25.0,The Power of Love,Pop,286,Ab,Love,0,Pop,1994,1990,['Love']
+1994-03-12 00:00:00+00:00,Ace of Base,23.0,The Sign,Electronic,191,Multiple Keys,Bad Relationships,0,Electronic,1994,1990,['Bad Relationships']
+1994-04-09 00:00:00+00:00,R. Kelly,27.0,Bump n' Grind,Hip Hop,256,E,Lust/Sex,1,Hip Hop,1994,1990,['Lust/Sex']
+1994-05-21 00:00:00+00:00,All-4-One,21.0,I Swear,Hip Hop;Funk/Soul;Pop,259,D,Love,0,Hip Hop,1994,1990,['Love']
+1994-08-06 00:00:00+00:00,Lisa Loeb & Nine Stories,26.0,Stay (I Missed You),Rock,184,Db,Lost Love,0,Rock,1994,1990,['Lost Love']
+1994-08-27 00:00:00+00:00,Boyz II Men,21.75,I'll Make Love to You,Hip Hop,236,D,Lust/Sex,1,Hip Hop,1994,1990,['Lust/Sex']
+1994-12-03 00:00:00+00:00,Boyz II Men,22.0,On Bended Knee,Hip Hop;Funk/Soul,329,Eb,Lost Love;Redemption,0,Hip Hop,1994,1990,"['Lost Love', 'Redemption']"
+1994-12-17 00:00:00+00:00,Ini Kamoze,37.0,Here Comes the Hotstepper,Hip Hop,253,Bm,Bragging;Badassery,1,Hip Hop,1994,1990,"['Bragging', 'Badassery']"
+1995-01-28 00:00:00+00:00,TLC,24.0,Creep,Hip Hop;Funk/Soul,266,Cm,Lust/Sex;Bad Relationships;Infidelity,0,Hip Hop,1995,1990,"['Lust/Sex', 'Bad Relationships', 'Infidelity']"
+1995-02-25 00:00:00+00:00,Madonna,36.0,Take a Bow,Electronic,320,Ab,Lost Love,0,Electronic,1995,1990,['Lost Love']
+1995-04-15 00:00:00+00:00,Montell Jordan,26.0,This Is How We Do It,Hip Hop,237,Fm,Partying;Bragging,0,Hip Hop,1995,1990,"['Partying', 'Bragging']"
+1995-06-03 00:00:00+00:00,Bryan Adams,35.0,Have You Ever Really Loved a Woman?,Rock;Pop,291,G,Love,0,Rock,1995,1990,['Love']
+1995-07-08 00:00:00+00:00,TLC,25.0,Waterfalls,Funk/Soul;Pop,279,Eb,Addiction;Death;Poverty;Violence,0,Funk/Soul,1995,1990,"['Addiction', 'Death', 'Poverty', 'Violence']"
+1995-08-26 00:00:00+00:00,Seal,32.0,Kiss From a Rose,Electronic,214,Multiple Keys,Love,0,Electronic,1995,1990,['Love']
+1995-09-02 00:00:00+00:00,Michael Jackson,37.0,You Are Not Alone,Electronic;Hip Hop,346,Multiple Keys,Lost Love;God;Faithfulness,0,Electronic,1995,1990,"['Lost Love', 'God', 'Faithfulness']"
+1995-09-09 00:00:00+00:00,Coolio ft. LV,32.0,Gangsta's Paradise,Hip Hop,240,Cm,Poverty;Death;Violence,0,Hip Hop,1995,1990,"['Poverty', 'Death', 'Violence']"
+1995-09-30 00:00:00+00:00,Mariah Carey,26.0,Fantasy,Hip Hop;Pop,243,G,Lust/Sex,0,Hip Hop,1995,1990,['Lust/Sex']
+1995-11-25 00:00:00+00:00,Whitney Houston,32.0,Exhale (Shoop Shoop),Hip Hop;Funk/Soul,204,Db,Calming Down,0,Hip Hop,1995,1990,['Calming Down']
+1995-12-02 00:00:00+00:00,Mariah Carey & Boyz II Men,31.6,One Sweet Day,Electronic;Hip Hop,281,Multiple Keys,Death;Faithfulness,0,Electronic,1995,1990,"['Death', 'Faithfulness']"
+1996-03-23 00:00:00+00:00,Céline Dion,27.0,Because You Loved Me,Pop,274,Db,Love,0,Pop,1996,1990,['Love']
+1996-05-04 00:00:00+00:00,Mariah Carey,27.0,Always Be My Baby,Electronic;Funk/Soul,258,E,Getting Back Together;Love;Lost Love,0,Electronic,1996,1990,"['Getting Back Together', 'Love', 'Lost Love']"
+1996-05-18 00:00:00+00:00,Bone Thugs-N-Harmony,21.0,Tha Crossroads,Hip Hop,223,E,Death,1,Hip Hop,1996,1990,['Death']
+1996-07-13 00:00:00+00:00,2Pac ft. K-Ci & Jojo,24.0,How Do U Want It,Hip Hop,239,Bbm,Lust/Sex;Bragging;Badassery,1,Hip Hop,1996,1990,"['Lust/Sex', 'Bragging', 'Badassery']"
+1996-07-27 00:00:00+00:00,Toni Braxton,28.0,You're Makin' Me High,Hip Hop;Funk/Soul,246,Bbm,Lust/Sex;Masturbation,1,Hip Hop,1996,1990,"['Lust/Sex', 'Masturbation']"
+1996-08-03 00:00:00+00:00,Los del Río,48.0,Macarena (Bayside Boys Mix),Electronic;Latin,251,Ab,Lust/Sex;Bad Relationships;Infidelity,0,Electronic,1996,1990,"['Lust/Sex', 'Bad Relationships', 'Infidelity']"
+1996-11-09 00:00:00+00:00,BLACKstreet ft. Dr. Dre,29.0,No Diggity,Hip Hop,306,Gbm,Lust/Sex;Partying,1,Hip Hop,1996,1990,"['Lust/Sex', 'Partying']"
+1996-12-07 00:00:00+00:00,Toni Braxton,29.0,Un-Break My Heart,Funk/Soul;Pop,270,Multiple Keys,Lost Love;Longing for Love,0,Funk/Soul,1996,1990,"['Lost Love', 'Longing for Love']"
+1997-02-22 00:00:00+00:00,Spice Girls,22.2,Wannabe,Electronic;Pop;Rock,173,B,Empowerment;Friendship;Love,0,Electronic,1997,1990,"['Empowerment', 'Friendship', 'Love']"
+1997-03-22 00:00:00+00:00,Puff Daddy ft. Mase,27.0,Can't Nobody Hold Me Down,Hip Hop,231,Gm,Bragging;Materialism;Badassery,1,Hip Hop,1997,1990,"['Bragging', 'Materialism', 'Badassery']"
+1997-05-03 00:00:00+00:00,The Notorious B.I.G.,24.0,Hypnotize,Hip Hop,230,Em,Bragging;Materialism;Badassery;Lust/Sex,1,Hip Hop,1997,1990,"['Bragging', 'Materialism', 'Badassery', 'Lust/Sex']"
+1997-05-24 00:00:00+00:00,Hanson,14.0,MMMBop,Rock,238,A,Lost Love;Time,0,Rock,1997,1990,"['Lost Love', 'Time']"
+1997-06-14 00:00:00+00:00,"Puff Daddy, Faith Evans, & 112",25.5,I'll Be Missing You,Hip Hop;Pop,300,G,Death;Regret;Time,1,Hip Hop,1997,1990,"['Death', 'Regret', 'Time']"
+1997-08-30 00:00:00+00:00,The Notorious B.I.G. ft. Puff Daddy & Mase,25.0,Mo Money Mo Problems,Electronic;Hip Hop,257,Dbm,Bragging;Materialism;Badassery;Lust/Sex,1,Electronic,1997,1990,"['Bragging', 'Materialism', 'Badassery', 'Lust/Sex']"
+1997-09-13 00:00:00+00:00,Mariah Carey,28.0,Honey,Electronic;Hip Hop,299,Cm,Lust/Sex,0,Electronic,1997,1990,['Lust/Sex']
+1997-10-04 00:00:00+00:00,Boyz II Men,25.0,4 Seasons of Loneliness,Hip Hop,292,Db,Lost Love,0,Hip Hop,1997,1990,['Lost Love']
+1997-10-11 00:00:00+00:00,Elton John,50.0,Candle in the Wind 1997,Rock,250,E,Death,0,Rock,1997,1990,['Death']
+1998-01-17 00:00:00+00:00,Savage Garden,25.0,Truly Madly Deeply,Electronic;Pop,277,C,Love,0,Electronic,1998,1990,['Love']
+1998-01-31 00:00:00+00:00,Janet Jackson,31.0,Together Again,Electronic;Hip Hop,301,C,Hope;Faithfulness;Friendship,0,Electronic,1998,1990,"['Hope', 'Faithfulness', 'Friendship']"
+1998-02-14 00:00:00+00:00,Usher,19.0,Nice & Slow,Hip Hop,227,Fm,Lust/Sex,1,Hip Hop,1998,1990,['Lust/Sex']
+1998-02-28 00:00:00+00:00,Céline Dion,29.0,My Heart Will Go On,Pop,280,Multiple Keys,Love;Faithfulness;Death,0,Pop,1998,1990,"['Love', 'Faithfulness', 'Death']"
+1998-03-14 00:00:00+00:00,Will Smith,29.0,Gettin' Jiggy wit It,Hip Hop,227,Gb,Bragging;Badassery;Dancing;Partying;Lust/Sex,0,Hip Hop,1998,1990,"['Bragging', 'Badassery', 'Dancing', 'Partying', 'Lust/Sex']"
+1998-04-04 00:00:00+00:00,K-Ci & JoJo,27.0,All My Life,Hip Hop,221,Db,Longing for Love,0,Hip Hop,1998,1990,['Longing for Love']
+1998-04-25 00:00:00+00:00,Next,21.0,Too Close,Hip Hop,259,D,Lust/Sex,1,Hip Hop,1998,1990,['Lust/Sex']
+1998-05-23 00:00:00+00:00,Mariah Carey,28.0,My All,Electronic;Hip Hop;Pop,230,Gm,Lost Love,0,Electronic,1998,1990,['Lost Love']
+1998-06-06 00:00:00+00:00,Brandy & Monica,18.0,The Boy is Mine,Hip Hop,240,Dbm,Lust/Sex;Fighting,0,Hip Hop,1998,1990,"['Lust/Sex', 'Fighting']"
+1998-09-05 00:00:00+00:00,Aerosmith,50.0,I Don't Want to Miss a Thing,Electronic;Rock,298,D,Love,0,Electronic,1998,1990,['Love']
+1998-10-03 00:00:00+00:00,Monica,17.0,The First Night,Hip Hop;Funk/Soul,235,Ebm,Lust/Sex;Restraint,0,Hip Hop,1998,1990,"['Lust/Sex', 'Restraint']"
+1998-10-17 00:00:00+00:00,Barenaked Ladies,27.0,One Week,Rock,229,A,Fighting;Getting Back Together,0,Rock,1998,1990,"['Fighting', 'Getting Back Together']"
+1998-11-14 00:00:00+00:00,Lauryn Hill,23.0,Doo Wop (That Thing),Hip Hop,240,Am,Lust/Sex;Bad Relationships;Materialism,0,Hip Hop,1998,1990,"['Lust/Sex', 'Bad Relationships', 'Materialism']"
+1998-12-05 00:00:00+00:00,R. Kelly & Céline Dion,30.5,I'm Your Angel,Pop,332,C,Love;Faithfulness,0,Pop,1998,1990,"['Love', 'Faithfulness']"
+1999-01-16 00:00:00+00:00,Brandy,19.0,Have You Ever?,Funk/Soul,273,A,Love,0,Funk/Soul,1999,1990,['Love']
+1999-01-30 00:00:00+00:00,Britney Spears,17.0,…Baby One More Time,Pop,211,Cm,Lost Love,1,Pop,1999,1990,['Lost Love']
+1999-02-13 00:00:00+00:00,Monica,18.0,Angel of Mine,Funk/Soul,250,Bbm,Love,0,Funk/Soul,1999,1990,['Love']
+1999-03-13 00:00:00+00:00,Cher,52.0,Believe,Electronic;Pop,239,Gb,Lost Love;Empowerment,0,Electronic,1999,1990,"['Lost Love', 'Empowerment']"
+1999-04-10 00:00:00+00:00,TLC,27.0,No Scrubs,Hip Hop,214,Abm,Bad Relationships;Empowerment,0,Hip Hop,1999,1990,"['Bad Relationships', 'Empowerment']"
+1999-05-08 00:00:00+00:00,Ricky Martin,27.0,Livin' la Vida Loca,Electronic;Hip Hop;Pop,243,Dbm,Bad Relationships,0,Electronic,1999,1990,['Bad Relationships']
+1999-06-12 00:00:00+00:00,Jennifer Lopez,29.0,If You Had My Love,Electronic;Hip Hop;Latin,266,Bm,Love;Bad Relationships,0,Electronic,1999,1990,"['Love', 'Bad Relationships']"
+1999-07-17 00:00:00+00:00,Destiny's Child,17.0,"Bills, Bills, Bills",Hip Hop;Funk/Soul,256,Bm,Lost Love;Empowerment;Poverty,0,Hip Hop,1999,1990,"['Lost Love', 'Empowerment', 'Poverty']"
+1999-07-24 00:00:00+00:00,Will Smith ft. Dru Hill & Kool Moe Dee,30.0,Wild Wild West,Hip Hop,245,Ebm,Bragging;Lust/Sex;Murder,1,Hip Hop,1999,1990,"['Bragging', 'Lust/Sex', 'Murder']"
+1999-07-31 00:00:00+00:00,Christina Aguilera,18.0,Genie in a Bottle,Electronic;Pop,217,Fm,Lust/Sex,1,Electronic,1999,1990,['Lust/Sex']
+1999-09-04 00:00:00+00:00,Enrique Iglesias,24.0,Bailamos,Latin;Pop,214,Am,Dancing,0,Latin,1999,1990,['Dancing']
+1999-09-18 00:00:00+00:00,TLC,29.0,Unpretty,Electronic;Hip Hop,240,C,Pain;Bad Relationships,1,Electronic,1999,1990,"['Pain', 'Bad Relationships']"
+1999-10-09 00:00:00+00:00,Mariah Carey ft. Jay-Z,30.0,Heartbreaker,Hip Hop,285,C,Lost Love,1,Hip Hop,1999,1990,['Lost Love']
+1999-10-23 00:00:00+00:00,Santana ft. Rob Thomas,52.0,Smooth,Electronic,241,Am,Lust/Sex,0,Electronic,1999,1990,['Lust/Sex']
+2000-01-15 00:00:00+00:00,Christina Aguilera,19.0,What a Girl Wants,Pop,215,C,Love,0,Pop,2000,2000,['Love']
+2000-01-29 00:00:00+00:00,Savage Garden,27.0,I Knew I Loved You,Pop,250,A,Love,0,Pop,2000,2000,['Love']
+2000-02-19 00:00:00+00:00,Mariah Carey ft. Joe & 98 Degrees,28.0,Thank God I Found You,Hip Hop;Pop,257,Multiple Keys,Love,0,Hip Hop,2000,2000,['Love']
+2000-03-04 00:00:00+00:00,Lonestar,38.0,Amazed,Rock,239,Multiple Keys,Love,0,Rock,2000,2000,['Love']
+2000-03-18 00:00:00+00:00,Destiny's Child,18.0,Say My Name,Hip Hop;Funk/Soul;Pop,240,Fm,Infidelity;Bad Relationships,0,Hip Hop,2000,2000,"['Infidelity', 'Bad Relationships']"
+2000-04-08 00:00:00+00:00,Santana ft. The Product G&B,52.0,Maria Maria,Electronic;Rock,261,Am,Love;Playing Music,0,Electronic,2000,2000,"['Love', 'Playing Music']"
+2000-06-17 00:00:00+00:00,Aaliyah,21.0,Try Again,Electronic;Hip Hop;Stage & Screen,287,Abm,Lust/Sex,0,Electronic,2000,2000,['Lust/Sex']
+2000-06-24 00:00:00+00:00,Enrique Iglesias,25.0,Be with You,Electronic,220,Dbm,Longing for Love;Lost Love,0,Electronic,2000,2000,"['Longing for Love', 'Lost Love']"
+2000-07-15 00:00:00+00:00,Vertical Horizon,30.0,Everything You Want,Rock,257,Ebm,Lost Love;Bad Relationships;Restlessness,0,Rock,2000,2000,"['Lost Love', 'Bad Relationships', 'Restlessness']"
+2000-07-22 00:00:00+00:00,Matchbox Twenty,28.0,Bent,Rock,256,Gbm,Pain;Bad Behavior;Restlessness,0,Rock,2000,2000,"['Pain', 'Bad Behavior', 'Restlessness']"
+2000-07-29 00:00:00+00:00,NSYNC,19.0,It's Gonna Be Me,Electronic;Pop,192,Cm,Bad Relationships;Lost Love;Longing for Love,0,Electronic,2000,2000,"['Bad Relationships', 'Lost Love', 'Longing for Love']"
+2000-08-12 00:00:00+00:00,Sisqó,21.0,Incomplete,Electronic,274,B,Longing for Love,0,Electronic,2000,2000,['Longing for Love']
+2000-08-26 00:00:00+00:00,Janet Jackson,34.0,Doesn't Really Matter,Electronic;Hip Hop,297,Fm,Love;Appreciation;Respect,0,Electronic,2000,2000,"['Love', 'Appreciation', 'Respect']"
+2000-09-16 00:00:00+00:00,Madonna,42.0,Music,Electronic;Pop,225,Gm,Dancing,0,Electronic,2000,2000,['Dancing']
+2000-10-14 00:00:00+00:00,Christina Aguilera,19.0,Come On Over Baby (All I Want Is You),Pop,203,Eb,Lust/Sex,1,Pop,2000,2000,['Lust/Sex']
+2000-11-11 00:00:00+00:00,Christina Aguilera,27.0,With Arms Wide Open,Rock,273,C,Child Birth;Family;Redemption,0,Rock,2000,2000,"['Child Birth', 'Family', 'Redemption']"
+2000-11-18 00:00:00+00:00,Destiny's Child,19.0,"Independent Women, Part 1",Electronic;Funk / Soul;Stage & Screen,216,Gbm,Empowerment;Bragging;Badassery,0,Electronic,2000,2000,"['Empowerment', 'Bragging', 'Badassery']"
+2001-02-03 00:00:00+00:00,"Shaggy ft. Ricardo ""RikRok"" Ducent",33.0,It Wasn't Me,Hip Hop;Reggae;Pop,227,C,Infidelity,1,Hip Hop,2001,2000,['Infidelity']
+2001-02-17 00:00:00+00:00,Outkast,25.5,Ms. Jackson,Hip Hop,238,Am,Lost Love;Bad Relationships,1,Hip Hop,2001,2000,"['Lost Love', 'Bad Relationships']"
+2001-02-24 00:00:00+00:00,Joe ft. Mystikal,27.0,Stutter,Hip Hop;Funk/Soul,213,Bbm,Infidelity;Bad Relationships,1,Hip Hop,2001,2000,"['Infidelity', 'Bad Relationships']"
+2001-03-24 00:00:00+00:00,Crazy Town,28.0,Butterfly,Rock,215,Am,Lust/Sex,1,Rock,2001,2000,['Lust/Sex']
+2001-03-31 00:00:00+00:00,Shaggy ft. Rayvon,33.0,Angel,Hip Hop,235,Gb,Love;Longing for Love;Appreciation,1,Hip Hop,2001,2000,"['Love', 'Longing for Love', 'Appreciation']"
+2001-04-14 00:00:00+00:00,Janet Jackson,34.0,All for You,Electronic;Hip Hop,272,G,Lust/Sex,1,Electronic,2001,2000,['Lust/Sex']
+2001-06-02 00:00:00+00:00,"Christina Aguilera, Lil' Kim, Mýa, & Pink",21.75,Lady Marmalade,Electronic;Hip Hop;Pop;Stage & Screen,264,Dm,Lust/Sex,1,Electronic,2001,2000,['Lust/Sex']
+2001-07-07 00:00:00+00:00,Usher,22.0,U Remind Me,Hip Hop,266,Gb,Bad Relationships;Longing for Love;Lost Love;Infidelity,1,Hip Hop,2001,2000,"['Bad Relationships', 'Longing for Love', 'Lost Love', 'Infidelity']"
+2001-08-04 00:00:00+00:00,Destiny's Child,19.0,Bootylicious,Electronic;Hip Hop,207,Ebm,Lust/Sex;Empowerment,1,Electronic,2001,2000,"['Lust/Sex', 'Empowerment']"
+2001-08-18 00:00:00+00:00,Alicia Keys,20.0,Fallin',Hip Hop;Latin;Pop,195,Em,Love;Bad Relationships,0,Hip Hop,2001,2000,"['Love', 'Bad Relationships']"
+2001-09-08 00:00:00+00:00,Jennifer Lopez ft. Ja Rule,28.5,I'm Real (Murder Remix),Electronic;Hip Hop;Funk/Soul,266,Bm,Lust/Sex,1,Electronic,2001,2000,['Lust/Sex']
+2001-11-03 00:00:00+00:00,Mary J. Blige,30.0,Family Affair,Hip Hop,244,Abm,Partying;Dancing,1,Hip Hop,2001,2000,"['Partying', 'Dancing']"
+2001-12-15 00:00:00+00:00,Usher,23.0,U Got It Bad,Hip Hop;Pop,247,Db,Lost Love,1,Hip Hop,2001,2000,['Lost Love']
+2001-12-22 00:00:00+00:00,Nickelback,27.0,How You Remind Me,Rock,223,Gm,Lost Love,1,Rock,2001,2000,['Lost Love']
+2002-02-23 00:00:00+00:00,Ja Rule ft. Ashanti,23.0,Always on Time,Hip Hop,245,Cm,Lust/Sex,1,Hip Hop,2002,2000,['Lust/Sex']
+2002-03-09 00:00:00+00:00,Jennifer Lopez ft. Ja Rule & Caddillac Tah,29.0,Ain't it Funny (Murder Remix),Electronic;Latin;Pop,231,Gm,Lost Love;Empowerment,1,Electronic,2002,2000,"['Lost Love', 'Empowerment']"
+2002-04-20 00:00:00+00:00,Ashanti,21.0,Foolish,Funk/Soul,227,C,Bad Relationships,1,Funk/Soul,2002,2000,['Bad Relationships']
+2002-06-29 00:00:00+00:00,Nelly,27.0,Hot in Herre,Hip Hop,228,Em,Lust/Sex,1,Hip Hop,2002,2000,['Lust/Sex']
+2002-08-17 00:00:00+00:00,Nelly ft. Kelly Rowland,24.0,Dilemma,Electronic;Hip Hop;Funk/Soul,289,F,Infidelity;Lust/Sex,1,Electronic,2002,2000,"['Infidelity', 'Lust/Sex']"
+2002-10-05 00:00:00+00:00,Kelly Clarkson,20.0,A Moment Like This,Pop,228,Multiple Keys,Love;Dreaming,0,Pop,2002,2000,"['Love', 'Dreaming']"
+2002-11-09 00:00:00+00:00,Eminem,30.0,Lose Yourself,Hip Hop,321,Dm,Dreaming;Doubt;Redemption;Survival,1,Hip Hop,2002,2000,"['Dreaming', 'Doubt', 'Redemption', 'Survival']"
+2003-02-01 00:00:00+00:00,B2K ft. P. Diddy,25.5,"Bump, Bump, Bump",Hip Hop,282,Dbm,Lust/Sex,1,Hip Hop,2003,2000,['Lust/Sex']
+2003-02-08 00:00:00+00:00,Jennifer Lopez ft. LL Cool J,33.5,All I Have,Electronic;Hip Hop,254,C,Lost Love,1,Electronic,2003,2000,['Lost Love']
+2003-03-08 00:00:00+00:00,50 Cent,27.0,In da Club,Hip Hop,193,Gbm,Partying;Bragging;Lust/Sex,1,Hip Hop,2003,2000,"['Partying', 'Bragging', 'Lust/Sex']"
+2003-05-10 00:00:00+00:00,Sean Paul,30.0,Get Busy,Reggae,211,Fm,Lust/Sex;Dancing,1,Reggae,2003,2000,"['Lust/Sex', 'Dancing']"
+2003-05-31 00:00:00+00:00,50 Cent ft. Nate Dogg,30.0,21 Questions,Hip Hop,224,Gbm,Love;Faithfulness,1,Hip Hop,2003,2000,"['Love', 'Faithfulness']"
+2003-06-28 00:00:00+00:00,Clay Aiken,24.0,This is the Night,Pop,212,E,Love,0,Pop,2003,2000,['Love']
+2003-07-12 00:00:00+00:00,Beyoncé ft. Jay-Z,27.0,Crazy in Love,Hip Hop,236,Dm,Bad Relationships,0,Hip Hop,2003,2000,['Bad Relationships']
+2003-09-06 00:00:00+00:00,"Nelly, P. Diddy, & Murphy Lee",30.5,Shake Ya Tailfeather,Hip Hop,295,Fm,Lust/Sex;Dancing,1,Hip Hop,2003,2000,"['Lust/Sex', 'Dancing']"
+2003-10-04 00:00:00+00:00,Beyoncé ft. Sean Paul,26.0,Baby Boy,Hip Hop;Pop,244,Cm,Lust/Sex,0,Hip Hop,2003,2000,['Lust/Sex']
+2003-12-06 00:00:00+00:00,Ludacris ft. Shawnna,25.5,Stand Up,Hip Hop,213,Ebm,Lust/Sex;Bragging;Dancing,1,Hip Hop,2003,2000,"['Lust/Sex', 'Bragging', 'Dancing']"
+2003-12-13 00:00:00+00:00,Outkast,28.0,Hey Ya!,Electronic;Hip Hop,235,Em,Longing for Love;Restlessness,1,Electronic,2003,2000,"['Longing for Love', 'Restlessness']"
+2004-02-14 00:00:00+00:00,Outkast ft. Sleepy Brown,28.5,The Way You Move,Hip Hop,234,Fm,Lust/Sex;Dancing,1,Hip Hop,2004,2000,"['Lust/Sex', 'Dancing']"
+2004-02-21 00:00:00+00:00,Twista ft. Kanye West & Jamie Foxx,30.666666666666668,Slow Jamz,Hip Hop,212,Dm,Lust/Sex,1,Hip Hop,2004,2000,['Lust/Sex']
+2004-02-28 00:00:00+00:00,Usher ft. Lil Jon & Ludacris,45.5,Yeah!,Hip Hop;Funk/Soul,250,Gm,Lust/Sex;Dancing,1,Hip Hop,2004,2000,"['Lust/Sex', 'Dancing']"
+2004-05-22 00:00:00+00:00,Usher,25.0,Burn,Electronic;Hip Hop,256,Db,Lost Love;Longing for Love,0,Electronic,2004,2000,"['Lost Love', 'Longing for Love']"
+2004-07-10 00:00:00+00:00,Fantasia,20.0,I Believe,Funk/Soul,300,Ab,Love;Dreaming,0,Funk/Soul,2004,2000,"['Love', 'Dreaming']"
+2004-07-24 00:00:00+00:00,Usher,25.0,Confession Part II,Funk/Soul,211,Ab,Infidelity,0,Funk/Soul,2004,2000,['Infidelity']
+2004-08-07 00:00:00+00:00,Juvenile ft. Soulja Slim,27.5,Slow Motion,Hip Hop,248,Cm,Lust/Sex,1,Hip Hop,2004,2000,['Lust/Sex']
+2004-08-21 00:00:00+00:00,Terror Squad,34.0,Lean Back,Hip Hop,247,Dbm,Dancing;Violence;Bragging,1,Hip Hop,2004,2000,"['Dancing', 'Violence', 'Bragging']"
+2004-09-11 00:00:00+00:00,Ciara ft. Petey Pablo,24.5,Goodies,Hip Hop;Funk/Soul,223,Fm,Lust/Sex,1,Hip Hop,2004,2000,['Lust/Sex']
+2004-10-30 00:00:00+00:00,Usher & Alicia Keys,24.5,My Boo,Hip Hop,223,F,Love;Longing for Love,0,Hip Hop,2004,2000,"['Love', 'Longing for Love']"
+2004-12-11 00:00:00+00:00,Snoop Dogg ft. Pharrell Williams,32.0,Drop It Like It's Hot,Hip Hop,269,Dbm,Partying;Dancing;Bragging;Badssery,1,Hip Hop,2004,2000,"['Partying', 'Dancing', 'Bragging', 'Badssery']"
+2005-01-01 00:00:00+00:00,Mario,18.0,Let Me Love You,Electronic;Hip Hop,256,Gm,Infidelity;Bad Relationships;Longing for Love,0,Electronic,2005,2000,"['Infidelity', 'Bad Relationships', 'Longing for Love']"
+2005-03-05 00:00:00+00:00,50 Cent ft. Olivia,27.5,Candy Shop,Hip Hop,219,Bm,Lust/Sex,1,Hip Hop,2005,2000,['Lust/Sex']
+2005-05-07 00:00:00+00:00,Gwen Stefani,35.0,Hollaback Girl,Hip Hop;Funk/Soul;Pop,199,B,Bragging;Badassery,1,Hip Hop,2005,2000,"['Bragging', 'Badassery']"
+2005-06-04 00:00:00+00:00,Mariah Carey,36.0,We Belong Together,Electronic;Hip Hop,201,C,Lost Love;Longing for Love,1,Electronic,2005,2000,"['Lost Love', 'Longing for Love']"
+2005-07-02 00:00:00+00:00,Carrie Underwood,22.0,Inside Your Heaven,"Rock;Pop;Folk, World, & Country",225,G,Longing for Love,0,Rock,2005,2000,['Longing for Love']
+2005-09-17 00:00:00+00:00,Kanye West ft. Jamie Foxx,32.5,Gold Digger,Hip Hop,197,Abm,Materialism;Bad Relationships,1,Hip Hop,2005,2000,"['Materialism', 'Bad Relationships']"
+2005-11-26 00:00:00+00:00,Chris Brown ft. Juelz Santana,19.5,Run It!,Hip Hop,229,Dbm,Dancing;Lust/Sex,1,Hip Hop,2005,2000,"['Dancing', 'Lust/Sex']"
+2005-12-31 00:00:00+00:00,Mariah Carey,36.0,Don't Forget About Us,Electronic;Hip Hop,233,Gm,Lost Love,0,Electronic,2005,2000,['Lost Love']
+2006-01-14 00:00:00+00:00,D4L,29.0,Laffy Taffy,Hip Hop,224,Gm,Lust/Sex;Dancing,1,Hip Hop,2006,2000,"['Lust/Sex', 'Dancing']"
+2006-01-21 00:00:00+00:00,"Nelly ft. Paul Wall, Ali & Gipp",29.75,Grillz,Hip Hop,271,Gbm,Bragging;Badassery;Jewelry,1,Hip Hop,2006,2000,"['Bragging', 'Badassery', 'Jewelry']"
+2006-02-04 00:00:00+00:00,Beyoncé ft. Bun B & Slim Thug,27.0,Check on It,Hip Hop,210,D,Dancing;Lust/Sex,0,Hip Hop,2006,2000,"['Dancing', 'Lust/Sex']"
+2006-03-11 00:00:00+00:00,James Blunt,32.0,You're Beautiful,Rock;Pop,209,Eb,Longing for Love,1,Rock,2006,2000,['Longing for Love']
+2006-03-18 00:00:00+00:00,Ne-Yo,26.0,So Sick,Hip Hop;Pop,197,Gb,Lost Love,0,Hip Hop,2006,2000,['Lost Love']
+2006-04-01 00:00:00+00:00,Sean Paul,33.0,Temperature,Reggae,218,Bbm,Lust/Sex,0,Reggae,2006,2000,['Lust/Sex']
+2006-04-08 00:00:00+00:00,Daniel Powter,35.0,Bad Day,Rock;Pop,233,Eb,Failure,0,Rock,2006,2000,['Failure']
+2006-05-13 00:00:00+00:00,Rihanna,18.0,SOS,Electronic;Hip Hop,238,Gb,Longing for Love;Lust/Sex,0,Electronic,2006,2000,"['Longing for Love', 'Lust/Sex']"
+2006-06-03 00:00:00+00:00,Chamillionaire ft. Krayzie Bone,29.0,Ridin',Hip Hop,303,Abm,Badassery;Survival;Violence;Police,1,Hip Hop,2006,2000,"['Badassery', 'Survival', 'Violence', 'Police']"
+2006-06-17 00:00:00+00:00,Shakira ft. Wyclef Jean,32.5,Hips Don't Lie,Hip Hop;Rock;Pop,218,Bbm,Lust/Sex;Dancing,0,Hip Hop,2006,2000,"['Lust/Sex', 'Dancing']"
+2006-07-01 00:00:00+00:00,Taylor Hicks,29.0,Do I Make You Proud,Rock;Funk/Soul;Pop,248,Db,Love;Dreaming;Appreciation,0,Rock,2006,2000,"['Love', 'Dreaming', 'Appreciation']"
+2006-07-08 00:00:00+00:00,Nelly Furtado ft. Timbaland,30.5,Promiscuous,Hip Hop,242,Bbm,Lust/Sex,0,Hip Hop,2006,2000,['Lust/Sex']
+2006-08-19 00:00:00+00:00,Fergie,31.0,London Bridge,Hip Hop;Pop,202,Bbm,Lust/Sex;Partying;Dancing;Bragging,1,Hip Hop,2006,2000,"['Lust/Sex', 'Partying', 'Dancing', 'Bragging']"
+2006-09-09 00:00:00+00:00,Justin Timberlake,25.0,SexyBack,Electronic;Pop,242,Gm,Lust/Sex;Bragging,1,Electronic,2006,2000,"['Lust/Sex', 'Bragging']"
+2006-10-28 00:00:00+00:00,Ludacris ft. Pharrell Williams,31.0,Money Maker,Hip Hop,230,Cm,Dancing;Lust/Sex,1,Hip Hop,2006,2000,"['Dancing', 'Lust/Sex']"
+2006-11-11 00:00:00+00:00,Justin Timberlake ft. T.I.,25.5,My Love,Electronic;Pop,281,Em,Love,0,Electronic,2006,2000,['Love']
+2006-12-02 00:00:00+00:00,Akon ft. Snoop Dogg,34.0,I Wanna Love You,Hip Hop,247,Am,Lust/Sex,1,Hip Hop,2006,2000,['Lust/Sex']
+2006-12-16 00:00:00+00:00,Beyoncé,25.0,Irreplaceable,Funk/Soul;Pop,227,Gm,Lost Love,0,Funk/Soul,2006,2000,['Lost Love']
+2007-02-24 00:00:00+00:00,Nelly Furtado,28.0,Say It Right,Hip Hop;Pop,223,Ab,Lost Love,0,Hip Hop,2007,2000,['Lost Love']
+2007-03-03 00:00:00+00:00,Justin Timberlake,26.0,What Goes Around … Comes Around,Electronic;Pop,313,G,Bad Relationships;Infidelity;Lost Love,0,Electronic,2007,2000,"['Bad Relationships', 'Infidelity', 'Lost Love']"
+2007-03-10 00:00:00+00:00,MiMS,25.0,This Is Why I'm Hot,Hip Hop,259,Cm,Badassery;Bragging;Partying,1,Hip Hop,2007,2000,"['Badassery', 'Bragging', 'Partying']"
+2007-03-24 00:00:00+00:00,Fergie ft. Ludacris,30.0,Glamorous,Hip Hop,246,C,Fame;Materialism,1,Hip Hop,2007,2000,"['Fame', 'Materialism']"
+2007-04-07 00:00:00+00:00,Akon,33.0,Don't Matter,Hip Hop;Pop,249,A,Love;Forbidden Love;Infidelity,1,Hip Hop,2007,2000,"['Love', 'Forbidden Love', 'Infidelity']"
+2007-04-21 00:00:00+00:00,Timbaland ft. Nelly Furtado & Justin Timberlake,29.666666666666668,Give It To Me,Hip Hop;Funk/Soul,236,Abm,Bragging,1,Hip Hop,2007,2000,['Bragging']
+2007-05-05 00:00:00+00:00,Avril Lavigne,22.0,Girlfriend,Rock;Pop,216,D,Love,1,Rock,2007,2000,['Love']
+2007-05-12 00:00:00+00:00,Maroon 5,28.0,Makes Me Wonder,Rock;Pop,211,D,Lost Love;Bad Relationships,1,Rock,2007,2000,"['Lost Love', 'Bad Relationships']"
+2007-05-26 00:00:00+00:00,T-Pain ft. Yung Joc,24.0,Buy U a Drank (Shawty Snappin'),Hip Hop,227,Db,Lust/Sex,1,Hip Hop,2007,2000,['Lust/Sex']
+2007-06-09 00:00:00+00:00,Rihanna ft. Jay-Z,28.0,Umbrella,Electronic;Hip Hop,275,Db,Love,0,Electronic,2007,2000,['Love']
+2007-07-28 00:00:00+00:00,Plain White-T's,28.0,Hey There Delilah,Rock;Pop,232,D,Longing for Love,0,Rock,2007,2000,['Longing for Love']
+2007-08-11 00:00:00+00:00,Sean Kingston,17.0,Beautiful Girls,Hip Hop;Pop,225,A,Longing for Love;Bad Relationships,1,Hip Hop,2007,2000,"['Longing for Love', 'Bad Relationships']"
+2007-09-08 00:00:00+00:00,Fergie,32.0,Big Girls Don't Cry,Pop,268,G,Lost Love,0,Pop,2007,2000,['Lost Love']
+2007-09-15 00:00:00+00:00,Soulja Boy Tell 'Em,17.0,Crank That (Soulja Boy),Hip Hop,221,Cm,Dancing;Lust/Sex,1,Hip Hop,2007,2000,"['Dancing', 'Lust/Sex']"
+2007-09-29 00:00:00+00:00,Kanye West,30.0,Stronger,Electronic;Hip Hop,311,Ebm,Bragging;Lust/Sex,1,Electronic,2007,2000,"['Bragging', 'Lust/Sex']"
+2007-11-10 00:00:00+00:00,Chris Brown ft. T-Pain,20.5,Kiss Kiss,Hip Hop,250,Ebm,Lust/Sex,1,Hip Hop,2007,2000,['Lust/Sex']
+2007-12-01 00:00:00+00:00,Alicia Keys,26.0,No One,Funk/Soul,253,E,Longing for Love;Love,0,Funk/Soul,2007,2000,"['Longing for Love', 'Love']"
+2008-01-05 00:00:00+00:00,Flo Rida ft. T-Pain,25.5,Low,Hip Hop,231,Ebm,Lust/Sex,0,Hip Hop,2008,2000,['Lust/Sex']
+2008-03-15 00:00:00+00:00,Usher ft. Young Jeezy,29.5,Love in This Club,Hip Hop,259,C,Lust/Sex,1,Hip Hop,2008,2000,['Lust/Sex']
+2008-04-05 00:00:00+00:00,Leona Lewis,23.0,Bleeding Love,Electronic;Funk/Soul;Pop,261,F,Lost Love,0,Electronic,2008,2000,['Lost Love']
+2008-04-12 00:00:00+00:00,Mariah Carey,39.0,Touch My Body,Electronic;Hip Hop;Pop,204,D,Lust/Sex,1,Electronic,2008,2000,['Lust/Sex']
+2008-05-03 00:00:00+00:00,Lil Wayne ft. Static Major,29.0,Lollipop,Hip Hop,299,Dm,Lust/Sex,1,Hip Hop,2008,2000,['Lust/Sex']
+2008-05-24 00:00:00+00:00,Rihanna,20.0,Take a Bow,Electronic;Pop,229,E,Infidelity,0,Electronic,2008,2000,['Infidelity']
+2008-06-28 00:00:00+00:00,Coldplay,31.0,Viva La Vida,Rock,242,Ab,Better Times;Sin;Endings/Goodbyes,0,Rock,2008,2000,"['Better Times', 'Sin', 'Endings/Goodbyes']"
+2008-07-05 00:00:00+00:00,Katy Perry,23.0,I Kissed a Girl,Rock;Pop,179,Am,Forbidden Love;Lust/Sex,1,Rock,2008,2000,"['Forbidden Love', 'Lust/Sex']"
+2008-08-23 00:00:00+00:00,Rihanna,20.0,Disturbia,Hip Hop;Funk/Soul;Pop,238,Bm,Paranoia;Reslessness;Superstition,1,Hip Hop,2008,2000,"['Paranoia', 'Reslessness', 'Superstition']"
+2008-09-06 00:00:00+00:00,T.I.,27.0,Whatever You Like,Hip Hop,249,F,Lust/Sex;Materialism,1,Hip Hop,2008,2000,"['Lust/Sex', 'Materialism']"
+2008-09-27 00:00:00+00:00,P!nk,29.0,So What,Rock;Pop,215,Gbm,Lost Love;Empowerment,1,Rock,2008,2000,"['Lost Love', 'Empowerment']"
+2008-10-18 00:00:00+00:00,T.I. ft. Rihanna,24.0,Live Your Life,Hip Hop;Pop,338,Bm,Empowerment,1,Hip Hop,2008,2000,['Empowerment']
+2008-10-25 00:00:00+00:00,Britney Spears,26.0,Womanizer,Electronic;Pop,224,Dbm,Bad Relationships;Infidelity;Empowerment,0,Electronic,2008,2000,"['Bad Relationships', 'Infidelity', 'Empowerment']"
+2008-12-13 00:00:00+00:00,Beyoncé,27.0,Single Ladies (Put a Ring on It),Pop,193,E,Lost Love;Bad Relationships;Empowerment,0,Pop,2008,2000,"['Lost Love', 'Bad Relationships', 'Empowerment']"
+2009-01-17 00:00:00+00:00,Lady Gaga ft. Colby O'Donis,19.5,Just Dance,Electronic;Pop,241,Dbm,Dancing;Partying,0,Electronic,2009,2000,"['Dancing', 'Partying']"
+2009-02-17 00:00:00+00:00,Kelly Clarkson,26.0,My Life Would Suck Without You,Rock;Pop,211,A,Getting Back Together,0,Rock,2009,2000,['Getting Back Together']
+2009-02-21 00:00:00+00:00,"Eminem, Dr. Dre, & 50 Cent",36.333333333333336,Crack a Bottle,Hip Hop,297,Dbm,Lust/Sex;Partying,1,Hip Hop,2009,2000,"['Lust/Sex', 'Partying']"
+2009-02-28 00:00:00+00:00,Flo Rida,29.0,Right Round,Electronic;Hip Hop,204,Am,Lust/Sex,1,Electronic,2009,2000,['Lust/Sex']
+2009-04-11 00:00:00+00:00,Lady Gaga,23.0,Poker Face,Electronic;Pop,237,Abm,Lust/Sex,1,Electronic,2009,2000,['Lust/Sex']
+2009-04-18 00:00:00+00:00,The Black Eyed Peas,34.0,Boom Boom Pow,Pop,252,Am,Dancing;Partying;Bragging,1,Pop,2009,2000,"['Dancing', 'Partying', 'Bragging']"
+2009-07-11 00:00:00+00:00,The Black Eyed Peas,34.0,I Gotta Feeling,Electronic;Hip Hop;Pop,289,G,Partying,0,Electronic,2009,2000,['Partying']
+2009-10-17 00:00:00+00:00,Jay Sean ft. Lil Wayne,27.5,Down,Electronic;Hip Hop;Pop,212,D,Lust/Sex,0,Electronic,2009,2000,['Lust/Sex']
+2009-10-24 00:00:00+00:00,Britney Spears,27.0,3,Electronic;Pop,205,Fm,Lust/Sex,1,Electronic,2009,2000,['Lust/Sex']
+2009-11-07 00:00:00+00:00,Owl City,23.0,Fireflies,Electronic;Pop,228,Eb,Insomnia,0,Electronic,2009,2000,['Insomnia']
+2009-11-14 00:00:00+00:00,Jason Derulo,20.0,Whatcha Say,Hip Hop,221,B,Infidelity,0,Hip Hop,2009,2000,['Infidelity']
+2009-11-28 00:00:00+00:00,Jay-Z & Alicia Keys,33.5,Empire State of Mind,Hip Hop,276,Gb,New York;Fame;Bragging,1,Hip Hop,2009,2000,"['New York', 'Fame', 'Bragging']"
+2010-01-02 00:00:00+00:00,Kesha,22.0,Tik Tok,Electronic;Pop,299,F,Partying,0,Electronic,2010,2010,['Partying']
+2010-03-06 00:00:00+00:00,The Black Eyed Peas,34.0,Imma Be,Electronic,257,Fm,Bragging,1,Electronic,2010,2010,['Bragging']
+2010-03-20 00:00:00+00:00,Taio Cruz ft. Ludacris,30.0,Break Your Heart,Electronic;Hip Hop;Pop,186,Eb,Bad Relationships,0,Electronic,2010,2010,['Bad Relationships']
+2010-03-27 00:00:00+00:00,Rihanna,22.0,Rude Boy,Electronic;Funk/Soul,222,Ebm,Lust/Sex,1,Electronic,2010,2010,['Lust/Sex']
+2010-05-01 00:00:00+00:00,B.o.B. ft. Bruno Mars,22.5,Nothin' On You,Hip Hop;Funk/Soul,268,Bb,Faithfulness;Love,0,Hip Hop,2010,2010,"['Faithfulness', 'Love']"
+2010-05-15 00:00:00+00:00,Usher ft. will.i.am,33.0,OMG,Electronic;Pop,269,Em,Lust/Sex,0,Electronic,2010,2010,['Lust/Sex']
+2010-05-22 00:00:00+00:00,Eminem,37.0,Not Afraid,Hip Hop,248,Cm,Redemption,1,Hip Hop,2010,2010,['Redemption']
+2010-06-19 00:00:00+00:00,Katy Perry ft. Snoop Dogg,31.5,California Gurls,Electronic;Hip Hop;Pop,236,F,Lust/Sex;Partying,1,Electronic,2010,2010,"['Lust/Sex', 'Partying']"
+2010-07-31 00:00:00+00:00,Eminem ft. Rihanna,29.5,Love the Way You Lie,Hip Hop;Funk/Soul,263,Bb,Bad Relationships,1,Hip Hop,2010,2010,['Bad Relationships']
+2010-09-18 00:00:00+00:00,Katy Perry,25.0,Teenage Dream,Electronic;Pop,227,Bb,Love,0,Electronic,2010,2010,['Love']
+2010-10-02 00:00:00+00:00,Bruno Mars,24.0,Just the Way You Are,Electronic;Pop,220,F,Love;Appreciation,0,Electronic,2010,2010,"['Love', 'Appreciation']"
+2010-11-13 00:00:00+00:00,Kesha,23.0,We R Who We R,Electronic;Pop,204,Ab,Partying;Self-Acceptance,1,Electronic,2010,2010,"['Partying', 'Self-Acceptance']"
+2010-11-20 00:00:00+00:00,Rihanna ft. Drake,23.0,What's My Name?,Electronic;Hip Hop;Pop,263,A,Lust/Sex,1,Electronic,2010,2010,['Lust/Sex']
+2010-12-04 00:00:00+00:00,Rihanna,22.0,Only Girl (In the World),Electronic;Pop,235,Gbm,Lust/Sex,0,Electronic,2010,2010,['Lust/Sex']
+2010-12-11 00:00:00+00:00,P!nk,31.0,Raise Your Glass,Rock;Pop,202,G,Partying;Self-Acceptance,1,Rock,2010,2010,"['Partying', 'Self-Acceptance']"
+2010-12-18 00:00:00+00:00,Katy Perry,26.0,Firework,Electronic,227,Ab,Self-Acceptance,0,Electronic,2010,2010,['Self-Acceptance']
+2011-01-08 00:00:00+00:00,Bruno Mars,25.0,Grenade,Rock;Funk/Soul;Pop,223,Dm,Love;Lost Love;Infidelity,0,Rock,2011,2010,"['Love', 'Lost Love', 'Infidelity']"
+2011-01-29 00:00:00+00:00,Britney Spears,29.0,Hold It Against Me,Electronic;Pop,228,Cm,Lust/Sex,0,Electronic,2011,2010,['Lust/Sex']
+2011-02-19 00:00:00+00:00,Wiz Khalifa,23.0,Black and Yellow,Hip Hop,207,Dm,Bragging,1,Hip Hop,2011,2010,['Bragging']
+2011-02-26 00:00:00+00:00,Lady Gaga,24.0,Born This Way,Electronic;Pop,260,B,Self-Acceptance,0,Electronic,2011,2010,['Self-Acceptance']
+2011-04-09 00:00:00+00:00,Katy Perry ft. Kanye West,29.5,E.T.,Electronic;Pop,229,Fm,Lust/Sex,1,Electronic,2011,2010,['Lust/Sex']
+2011-04-30 00:00:00+00:00,Rihanna ft. Britney Spears,26.0,S&M,Electronic;Hip Hop;Pop,257,Ebm,Lust/Sex;Violence,1,Electronic,2011,2010,"['Lust/Sex', 'Violence']"
+2011-05-21 00:00:00+00:00,Adele,23.0,Rolling in the Deep,Funk/Soul;Pop,228,Cm,Lost Love,1,Funk/Soul,2011,2010,['Lost Love']
+2011-07-08 00:00:00+00:00,"Pitbull ft. Ne-Yo, Afrojack, & Nayer",30.0,Give Me Everything,Electronic;Hip Hop,252,Eb,Partying;Bragging;Lust/Sex,0,Electronic,2011,2010,"['Partying', 'Bragging', 'Lust/Sex']"
+2011-07-16 00:00:00+00:00,LMFAO ft. Lauren Bennett & GoonRock,29.5,Party Rock Anthem,Electronic,266,Fm,Partying,0,Electronic,2011,2010,['Partying']
+2011-08-27 00:00:00+00:00,Katy Perry,26.0,Last Friday Night (T.G.I.F.),Electronic;Pop,230,Gb,Partying,1,Electronic,2011,2010,['Partying']
+2011-09-10 00:00:00+00:00,Maroon 5 ft. Christina Aguilera,31.0,Moves Like Jagger,Electronic;Pop,201,Bm,Lust/Sex,1,Electronic,2011,2010,['Lust/Sex']
+2011-09-17 00:00:00+00:00,Adele,23.0,Someone Like You,Funk/Soul;Pop,285,A,Lost Love,0,Funk/Soul,2011,2010,['Lost Love']
+2011-11-12 00:00:00+00:00,Rihanna ft. Calvin Harris,25.0,We Found Love,Electronic,215,Dbm,Longing for Love,0,Electronic,2011,2010,['Longing for Love']
+2012-01-07 00:00:00+00:00,LMFAO,30.5,Sexy and I Know It,Electronic;Hip Hop,199,Gm,Bragging;Badassery,0,Electronic,2012,2010,"['Bragging', 'Badassery']"
+2012-02-04 00:00:00+00:00,Adele,23.0,Set Fire to the Rain,Funk/Soul;Pop,242,Dm,Lost Love,0,Funk/Soul,2012,2010,['Lost Love']
+2012-02-18 00:00:00+00:00,Kelly Clarkson,29.0,Stronger (What Doesn't Kill You),Electronic;Rock;Pop,221,Am,Empowerment;Lost Love,0,Electronic,2012,2010,"['Empowerment', 'Lost Love']"
+2012-03-03 00:00:00+00:00,Katy Perry,27.0,Part of Me,Electronic;Pop,216,F,Empowerment;Lost Love,0,Electronic,2012,2010,"['Empowerment', 'Lost Love']"
+2012-03-17 00:00:00+00:00,fun. ft. Janelle Monáe,30.0,We Are Young,Rock,250,F,Friendship;Love;Sadness,0,Rock,2012,2010,"['Friendship', 'Love', 'Sadness']"
+2012-04-28 00:00:00+00:00,Gotye ft. Kimbra,31.0,Somebody That I Used to Know,Electronic;Pop,244,Dm,Lost Love,0,Electronic,2012,2010,['Lost Love']
+2012-06-23 00:00:00+00:00,Carly Rae Jepsen,31.0,Call Me Maybe,Pop,193,G,Longing for Love,0,Pop,2012,2010,['Longing for Love']
+2012-08-25 00:00:00+00:00,Flo Rida,32.0,Whistle,Hip Hop;Pop,224,C,Lust/Sex,1,Hip Hop,2012,2010,['Lust/Sex']
+2012-09-01 00:00:00+00:00,Taylor Swift,22.0,We Are Never Ever Getting Back Together,Rock;Pop,191,G,Bad Relationships;Lost Love,0,Rock,2012,2010,"['Bad Relationships', 'Lost Love']"
+2012-09-29 00:00:00+00:00,Maroon 5,33.0,One More Night,Rock;Funk/Soul;Pop,209,Fm,Lust/Sex;Bad Relationships,1,Rock,2012,2010,"['Lust/Sex', 'Bad Relationships']"
+2012-12-01 00:00:00+00:00,Rihanna,24.0,Diamonds,Electronic;Pop,225,Bm,Love,0,Electronic,2012,2010,['Love']
+2012-12-22 00:00:00+00:00,Bruno Mars,27.0,Locked Out of Heaven,Electronic;Funk/Soul;Pop,233,F,Bad Relationships,1,Electronic,2012,2010,['Bad Relationships']
+2013-02-02 00:00:00+00:00,Macklemore & Ryan Lewis ft. Wanz,29.0,Thrift Shop,Hip Hop,235,Abm,Thrift Shopping;Bragging,1,Hip Hop,2013,2010,"['Thrift Shopping', 'Bragging']"
+2013-04-20 00:00:00+00:00,Bruno Mars,27.0,When I Was Your Man,Pop,213,C,Lost Love,0,Pop,2013,2010,['Lost Love']
+2013-04-27 00:00:00+00:00,P!nk ft. Nate Ruess,32.0,Just Give Me a Reason,Rock;Pop,242,G,Lost Love,0,Rock,2013,2010,['Lost Love']
+2013-05-18 00:00:00+00:00,Macklemore & Ryan Lewis ft. Ray Dalton,29.0,Can't Hold Us,Hip Hop,258,G,Bragging;Partying,1,Hip Hop,2013,2010,"['Bragging', 'Partying']"
+2013-06-22 00:00:00+00:00,Robin Thicke ft. T.I. & Pharrell Williiams,36.0,Blurred Lines,Hip Hop;Funk/Soul,263,G,Lust/Sex,1,Hip Hop,2013,2010,['Lust/Sex']
+2013-09-14 00:00:00+00:00,Katy Perry,28.0,Roar,Pop,223,Bb,Empowerment;Hope,0,Pop,2013,2010,"['Empowerment', 'Hope']"
+2013-09-28 00:00:00+00:00,Miley Cyrus,20.0,Wrecking Ball,Pop,221,Dm,Lost Love,0,Pop,2013,2010,['Lost Love']
+2013-10-12 00:00:00+00:00,Lorde,16.0,Royals,Rock;Pop,190,D,Materialism;Escape,0,Rock,2013,2010,"['Materialism', 'Escape']"
+2013-12-21 00:00:00+00:00,Eminem ft. Rihanna,33.0,The Monster,Hip Hop;Pop,250,Dbm,Empowerment;Doubt;Paranoia,1,Hip Hop,2013,2010,"['Empowerment', 'Doubt', 'Paranoia']"
+2014-01-18 00:00:00+00:00,Pitbull ft. Kesha,29.0,Timber,Electronic;Hip Hop,204,B,Partying,1,Electronic,2014,2010,['Partying']
+2014-02-08 00:00:00+00:00,Katy Perry ft. Juicy J,33.5,Dark Horse,Electronic;Pop,215,Bbm,Lust/Sex;Longing for Love,1,Electronic,2014,2010,"['Lust/Sex', 'Longing for Love']"
+2014-03-08 00:00:00+00:00,Pharrell Williams,40.0,Happy,Funk/Soul,232,Fm,Happiness,0,Funk/Soul,2014,2010,['Happiness']
+2014-05-17 00:00:00+00:00,John Legend,35.0,All of Me,Funk/Soul;Pop,269,Ab,Love,0,Funk/Soul,2014,2010,['Love']
+2014-06-07 00:00:00+00:00,Iggy Azalea ft. Charli XCX,22.5,Fancy,Electronic;Hip Hop;Pop,199,Ebm,Partying;Materialism,1,Electronic,2014,2010,"['Partying', 'Materialism']"
+2014-07-26 00:00:00+00:00,MAGIC!,33.0,Rude,Reggae;Pop,224,Db,Marriage,0,Reggae,2014,2010,['Marriage']
+2014-09-06 00:00:00+00:00,Taylor Swift,24.0,Shake It Off,Pop,209,G,Lost Love;Resilience,0,Pop,2014,2010,"['Lost Love', 'Resilience']"
+2014-09-20 00:00:00+00:00,Meghan Trainor,20.0,All About that Bass,Reggae;Funk/Soul;Pop,187,A,Empowerment,0,Reggae,2014,2010,['Empowerment']
+2014-11-29 00:00:00+00:00,Taylor Swift,24.0,Blank Space,Electronic;Pop,231,F,Lost Love;Bad Relationships,0,Electronic,2014,2010,"['Lost Love', 'Bad Relationships']"
+2015-01-17 00:00:00+00:00,Mark Ronson ft. Bruno Mars,34.0,Uptown Funk,Hip Hop;Funk/Soul,269,F,Bragging;Badassery;Dancing;Partying,1,Hip Hop,2015,2010,"['Bragging', 'Badassery', 'Dancing', 'Partying']"
+2015-04-25 00:00:00+00:00,Wiz Khalifa ft. Charlie Puth,25.0,See You Again,Hip Hop,229,Bb,Death,0,Hip Hop,2015,2010,['Death']
+2015-06-06 00:00:00+00:00,Taylor Swift ft. Kendrick Lamar,26.0,Bad Blood,Hip Hop;Pop,200,Em,Bad Relationships;Lost Love,0,Hip Hop,2015,2010,"['Bad Relationships', 'Lost Love']"
+2015-07-25 00:00:00+00:00,OMI,28.0,Cheerleader,Electronic;Reggae,180,E,Love;Lust/Sex,0,Electronic,2015,2010,"['Love', 'Lust/Sex']"
+2015-08-22 00:00:00+00:00,The Weeknd,25.0,Can't Feel My Face,Hip Hop,213,Am,Partying;Bad Behavior,0,Hip Hop,2015,2010,"['Partying', 'Bad Behavior']"
+2015-09-19 00:00:00+00:00,Justin Bieber,21.0,What Do You Mean?,Electronic;Pop,205,Ab,Bad Relationships,0,Electronic,2015,2010,['Bad Relationships']
+2015-10-03 00:00:00+00:00,The Weeknd,25.0,The Hills,Hip Hop,242,Cm,Infidelity;Lust/Sex;Addiction,1,Hip Hop,2015,2010,"['Infidelity', 'Lust/Sex', 'Addiction']"
+2015-11-14 00:00:00+00:00,Adele,27.0,Hello,Pop,295,Fm,Lost Love,0,Pop,2015,2010,['Lost Love']
+2016-01-23 00:00:00+00:00,Justin Bieber,21.0,Sorry,Electronic;Pop,200,Cm,Getting Back Together;Longing for Love,0,Electronic,2016,2010,"['Getting Back Together', 'Longing for Love']"
+2016-02-13 00:00:00+00:00,Justin Bieber,21.0,Love Yourself,Pop,233,E,Bad Relationships,0,Pop,2016,2010,['Bad Relationships']
+2016-02-20 00:00:00+00:00,Zayn,23.0,PILLOWTALK,Pop,202,B,Bad Relationships;Lust/Sex,1,Pop,2016,2010,"['Bad Relationships', 'Lust/Sex']"
+2016-03-05 00:00:00+00:00,Rihanna ft. Drake,28.5,Work,Pop,219,B,Lost Love,1,Pop,2016,2010,['Lost Love']
+2016-05-07 00:00:00+00:00,Desiigner,19.0,Panda,Hip Hop,247,Bbm,Bragging;Badassery;Driving,1,Hip Hop,2016,2010,"['Bragging', 'Badassery', 'Driving']"
+2016-05-21 00:00:00+00:00,Drake ft. Wizkid & Kyla,43.0,One Dance,Hip Hop,173,Bbm,Dancing;Lust/Sex,0,Hip Hop,2016,2010,"['Dancing', 'Lust/Sex']"
+2016-05-28 00:00:00+00:00,Justin Timberlake,35.0,CAN'T STOP THE FEELING!,Pop,237,C,Dancing,0,Pop,2016,2010,['Dancing']
+2016-08-06 00:00:00+00:00,Sia ft. Sean Paul,41.5,Cheap Thrills,Reggae;Pop,224,Gbm,Partying,0,Reggae,2016,2010,['Partying']
+2016-09-03 00:00:00+00:00,The Chainsmokers ft. Halsey,23.5,Closer,Electronic;Pop,244,Ab,Love;Growing Up,0,Electronic,2016,2010,"['Love', 'Growing Up']"
+2016-11-26 00:00:00+00:00,Rae Sremmurd ft. Gucci Mane,28.0,Black Beatles,Hip Hop,291,Em,Partying;Lust/Sex;Bragging,1,Hip Hop,2016,2010,"['Partying', 'Lust/Sex', 'Bragging']"
+2017-01-07 00:00:00+00:00,The Weeknd ft. Daft Punk,26.0,Starboy,Funk/Soul,230,Em,Partying;Materialism,1,Funk/Soul,2017,2010,"['Partying', 'Materialism']"
+2017-01-21 00:00:00+00:00,Migos ft. Lil Uzi Vert,22.666666666666668,Bad and Boujee,Hip Hop,343,Bbm,Bragging;Badassery;Partying,1,Hip Hop,2017,2010,"['Bragging', 'Badassery', 'Partying']"
+2017-01-28 00:00:00+00:00,Ed Sheeran,25.0,Shape of You,Electronic;Latin;Pop,233,Dbm,Lust/Sex,0,Electronic,2017,2010,['Lust/Sex']
+2017-05-06 00:00:00+00:00,Kendrick Lamar,29.0,HUMBLE.,Hip Hop,177,Abm,Redemption;Respect;Restraint;Bragging,1,Hip Hop,2017,2010,"['Redemption', 'Respect', 'Restraint', 'Bragging']"
+2017-05-13 00:00:00+00:00,Bruno Mars,31.0,That's What I Like,Funk/Soul;Pop,206,Db,Lust/Sex;Materialism,1,Funk/Soul,2017,2010,"['Lust/Sex', 'Materialism']"
+2017-05-20 00:00:00+00:00,"DJ Khaled ft. Justin Bieber, Quavo, Chance the Rapper, & Lil Wayne",32.0,I'm the One,Hip Hop,288,G,Lust/Sex,1,Hip Hop,2017,2010,['Lust/Sex']
+2017-05-27 00:00:00+00:00,Luis Fonsi & Daddy Yankee ft. Justin Bieber,34.0,Despacito,Electronic;Latin;Pop,228,D,Lust/Sex,0,Electronic,2017,2010,['Lust/Sex']
+2017-09-16 00:00:00+00:00,Taylor Swift,27.0,Look What You Made Me Do,Electronic;Pop,211,Am,Resilience;Empowerment,0,Electronic,2017,2010,"['Resilience', 'Empowerment']"
+2017-10-07 00:00:00+00:00,Cardi B,24.0,Bodak Yellow,Hip Hop,223,Bm,Bragging;Materialism;Badassery,1,Hip Hop,2017,2010,"['Bragging', 'Materialism', 'Badassery']"
+2017-10-28 00:00:00+00:00,Post Malone ft. 21 Savage,23.5,rockstar,Hip Hop,218,Gm,Partying;Bad Behavior;Bragging;Materialism;Lust/Sex,1,Hip Hop,2017,2010,"['Partying', 'Bad Behavior', 'Bragging', 'Materialism', 'Lust/Sex']"
+2017-12-23 00:00:00+00:00,Ed Sheeran & Beyoncé,31.0,Perfect,Pop,269,Ab,Love,0,Pop,2017,2010,['Love']
+2018-01-27 00:00:00+00:00,Camila Cabello ft. Young Thug,23.0,Havana,Electronic;Hip Hop;Latin;Funk/Soul;Pop,217,Gm,Lust/Sex,0,Electronic,2018,2010,['Lust/Sex']
+2018-02-03 00:00:00+00:00,Drake,31.0,God's Plan,Hip Hop,198,G,Faithfulness;Empowerment;Fame,1,Hip Hop,2018,2010,"['Faithfulness', 'Empowerment', 'Fame']"
+2018-04-21 00:00:00+00:00,Drake,31.0,Nice For What,Hip Hop,210,Ab,Partying;Lost Love;Lust/Sex,1,Hip Hop,2018,2010,"['Partying', 'Lost Love', 'Lust/Sex']"
+2018-05-19 00:00:00+00:00,Childish Gambino,34.0,This is America,Hip Hop;Funk/Soul;Pop,225,F,Violence,0,Hip Hop,2018,2010,['Violence']
+2018-06-16 00:00:00+00:00,Post Malone ft. Ty Dolla $ign,29.0,Psycho,Hip Hop,221,Eb,Bragging;Partying,1,Hip Hop,2018,2010,"['Bragging', 'Partying']"
+2018-06-30 00:00:00+00:00,XXXTENTACION,20.0,SAD!,Hip Hop;Rock,166,Eb,Lost Love,1,Hip Hop,2018,2010,['Lost Love']
+2018-07-07 00:00:00+00:00,"Cardi B, Bad Bunny, & J Balvin",27.33333333333333,I Like It,Hip Hop;Latin,253,Fm,Materialism;Bragging,1,Hip Hop,2018,2010,"['Materialism', 'Bragging']"
+2018-07-21 00:00:00+00:00,Drake,31.0,In My Feelings,Hip Hop,217,Fm,Longing for Love,1,Hip Hop,2018,2010,['Longing for Love']
+2018-09-29 00:00:00+00:00,Maroon 5 ft. Cardi B,39.0,Girls Like You,Pop,235,C,Longing for Love;Getting Back Together,1,Pop,2018,2010,"['Longing for Love', 'Getting Back Together']"
+2018-11-17 00:00:00+00:00,Ariana Grande,25.0,"thank u, next",Hip Hop;Pop,207,Db,Lost Love,1,Hip Hop,2018,2010,['Lost Love']
+2018-12-08 00:00:00+00:00,Travis Scott,27.0,SICKO MODE,Hip Hop,312,Multiple Keys,Lust/Sex;Partying;Materialism,1,Hip Hop,2018,2010,"['Lust/Sex', 'Partying', 'Materialism']"
+2019-01-12 00:00:00+00:00,Halsey,24.0,Without Me,Pop,201,Gb,Lost Love;Bad Relationships,1,Pop,2019,2010,"['Lost Love', 'Bad Relationships']"
+2019-01-19 00:00:00+00:00,Post Malone & Swae Lee,24.0,Sunflower,Hip Hop;Stage & Screen,158,D,Lost Love,1,Hip Hop,2019,2010,['Lost Love']
+2019-02-02 00:00:00+00:00,Ariana Grande,25.0,7 rings,Funk/Soul,178,Dbm,Lost Love;Empowerment;Materialism,1,Funk/Soul,2019,2010,"['Lost Love', 'Empowerment', 'Materialism']"
+2019-03-09 00:00:00+00:00,Lady Gaga & Bradley Cooper,38.0,Shallow,"Folk, World, & Country;Pop",217,G,Doubt;Escape;Restlessness,0,Folk,2019,2010,"['Doubt', 'Escape', 'Restlessness']"
+2019-03-16 00:00:00+00:00,Jonas Brothers,28.666666666666668,Sucker,Rock;Pop,181,Dbm,Lust/Sex,0,Rock,2019,2010,['Lust/Sex']
+2019-04-13 00:00:00+00:00,Lil Nas X ft. Billy Ray Cyrus,38.0,Old Town Road,"Hip Hop;Folk, World, & Country",157,Abm,Lust/Sex;Bragging;Materialism,0,Hip Hop,2019,2010,"['Lust/Sex', 'Bragging', 'Materialism']"
+2019-08-24 00:00:00+00:00,Billie Eilish,17.0,bad guy,Pop,194,Gm,Badassery;Lust/Sex;Forbidden Love,1,Pop,2019,2010,"['Badassery', 'Lust/Sex', 'Forbidden Love']"
+2019-08-31 00:00:00+00:00,Shawn Mendes & Camila Cabello,21.5,Señorita,Pop,190,Am,Lust/Sex,0,Pop,2019,2010,['Lust/Sex']
+2019-09-07 00:00:00+00:00,Lizzo,31.0,Truth Hurts,Funk/Soul;Pop,173,Am,Lost Love;Empowerment;Bad Relationship,1,Funk/Soul,2019,2010,"['Lost Love', 'Empowerment', 'Bad Relationship']"
+2019-10-19 00:00:00+00:00,Travis Scott,28.0,HIGHEST IN THE ROOM,Hip Hop,175,Dm,Partying;Lust/Sex,1,Hip Hop,2019,2010,"['Partying', 'Lust/Sex']"
+2019-11-02 00:00:00+00:00,Lewis Capaldi,23.0,Someone You Loved,Rock;Pop,182,Db,Lost Love,0,Rock,2019,2010,['Lost Love']
+2019-11-09 00:00:00+00:00,Selena Gomez,27.0,Lose You to Love Me,Pop,206,E,Lost Love,0,Pop,2019,2010,['Lost Love']
+2019-11-30 00:00:00+00:00,Post Malone,24.0,Circles,Rock,215,C,Lost Love;Bad Relationships,1,Rock,2019,2010,"['Lost Love', 'Bad Relationships']"
+2019-12-14 00:00:00+00:00,The Weeknd,29.0,Heartless,Pop,198,Bbm,Lust/Sex;Addicition,1,Pop,2019,2010,"['Lust/Sex', 'Addicition']"
+2019-12-21 00:00:00+00:00,Mariah Carey,50.0,All I Want for Christmas is You,Funk/Soul;Pop,241,G,Longing for Love;Christmas,0,Funk/Soul,2019,2010,"['Longing for Love', 'Christmas']"
+2020-01-18 00:00:00+00:00,Roddy Ricch,21.0,The Box,english,196,Bbm,Bragging;Violence;Lust/Sex,1,Other,2020,2020,"['Bragging', 'Violence', 'Lust/Sex']"
+2020-04-04 00:00:00+00:00,The Weeknd,30.0,Blinding Lights,Electronic;Rock;Pop,200,Cm,Longing for Love,0,Electronic,2020,2020,['Longing for Love']
+2020-04-18 00:00:00+00:00,Drake,33.0,Toosie Slide,Hip Hop,247,Abm,Dancing,1,Hip Hop,2020,2020,['Dancing']
+2020-05-09 00:00:00+00:00,Travis Scott & Kid Cudi,32.5,THE SCOTTS,Hip Hop,165,Cm,Bragging;Badassery,1,Hip Hop,2020,2020,"['Bragging', 'Badassery']"
+2020-05-16 00:00:00+00:00,Doja Cat ft. Nicki Minaj,27.5,Say So,Hip Hop,206,D,Lust/Sex,1,Hip Hop,2020,2020,['Lust/Sex']
+2020-05-23 00:00:00+00:00,Ariana Grande & Justin Bieber,26.0,Stuck With U,Pop,228,Ab,Love,0,Pop,2020,2020,['Love']
+2020-05-30 00:00:00+00:00,Megan Thee Stallion ft. Beyoncé,31.5,Savage,Hip Hop,242,Bbm,Bragging;Badassery,1,Hip Hop,2020,2020,"['Bragging', 'Badassery']"
+2020-06-06 00:00:00+00:00,Lady Gaga & Ariana Grande,30.0,Rain on Me,Electronic;Pop,182,E,Empowerment;Hope,0,Electronic,2020,2020,"['Empowerment', 'Hope']"
+2020-06-13 00:00:00+00:00,DaBaby ft. Roddy Ricch,24.5,ROCKSTAR,english,181,Abm,Death;Violence;Bragging;Murder,1,Other,2020,2020,"['Death', 'Violence', 'Bragging', 'Murder']"
+2020-06-27 00:00:00+00:00,6ix9ine & Nicki Minaj,30.5,TROLLZ,Hip Hop,202,Dbm,Violence;Bragging,1,Hip Hop,2020,2020,"['Violence', 'Bragging']"
+2020-08-08 00:00:00+00:00,Taylor Swift,30.0,cardigan,"Pop;Folk, World, & Country",239,Eb,Lost Love,0,Pop,2020,2020,['Lost Love']
+2020-08-15 00:00:00+00:00,Harry Styles,26.0,Watermelon Sugar,Rock;Pop,176,C,Lust/Sex,0,Rock,2020,2020,['Lust/Sex']
+2020-08-22 00:00:00+00:00,Cardi B ft. Megan Thee Stallion,26.0,WAP,Hip Hop,187,Bm,Lust/Sex,1,Hip Hop,2020,2020,['Lust/Sex']
+2020-09-05 00:00:00+00:00,BTS,25.142857142857142,Dynamite,Pop,199,E,Partying;Dancing,0,Pop,2020,2020,"['Partying', 'Dancing']"
+2020-10-10 00:00:00+00:00,Travis Scott ft. Young Thug & M.I.A.,34.333333333333336,FRANCHISE,Hip Hop,202,Bbm,Bragging;Badassery;Partying,1,Hip Hop,2020,2020,"['Bragging', 'Badassery', 'Partying']"
+2020-10-17 00:00:00+00:00,"Jawsh 685, Jason Derulo, & BTS",26.75,Savage Love (Laxed - Siren Beat),Reggae,185,Eb,Lost Love,1,Reggae,2020,2020,['Lost Love']
+2020-10-24 00:00:00+00:00,24kGoldn ft. iann dior,20.0,Mood,Hip Hop,140,Gm,Bad Relationships,1,Hip Hop,2020,2020,['Bad Relationships']
+2020-11-07 00:00:00+00:00,Ariana Grande,27.0,positions,Pop,172,Dm,Lust/Sex;Love,1,Pop,2020,2020,"['Lust/Sex', 'Love']"
+2020-12-05 00:00:00+00:00,BTS,25.571428571428573,Life Goes On,Pop,207,Ab,Hope,0,Pop,2020,2020,['Hope']
+2020-12-26 00:00:00+00:00,Taylor Swift,31.0,willow,Pop,214,G,Longing for Love;Bad Relationships,0,Pop,2020,2020,"['Longing for Love', 'Bad Relationships']"
+2021-01-23 00:00:00+00:00,Olivia Rodrigo,17.0,drivers license,Pop,242,Bb,Lost Love,1,Pop,2021,2020,['Lost Love']
+2021-03-20 00:00:00+00:00,Drake,34.0,What's Next,Hip Hop,178,Em,Bragging,1,Hip Hop,2021,2020,['Bragging']
+2021-03-27 00:00:00+00:00,Cardi B,28.0,Up,Hip Hop,156,Em,Lust/Sex;Bragging,1,Hip Hop,2021,2020,"['Lust/Sex', 'Bragging']"
+2021-04-03 00:00:00+00:00,Justin Bieber ft. Daniel Caeser & Giveon,27.0,Peaches,pop,198,C,Longing for Love;Love,1,Pop,2021,2020,"['Longing for Love', 'Love']"
+2021-04-10 00:00:00+00:00,Lil Nas X,22.0,MONTERO (Call Me By Your Name),Hip Hop;Pop,137,Abm,Lust/Sex,1,Hip Hop,2021,2020,['Lust/Sex']
+2021-04-17 00:00:00+00:00,Silk Sonic,35.0,Leave the Door Open,Funk/Soul,242,Multiple Keys,Lust/Sex,0,Funk/Soul,2021,2020,['Lust/Sex']
+2021-04-24 00:00:00+00:00,Polo G,21.0,RAPSTAR,Hip Hop,165,Bbm,Bragging;Fame;Life,1,Hip Hop,2021,2020,"['Bragging', 'Fame', 'Life']"
+2021-05-08 00:00:00+00:00,The Weeknd & Ariana Grande,29.0,Save Your Tears,Pop,191,C,Getting Back Together;Longing for Love,0,Pop,2021,2020,"['Getting Back Together', 'Longing for Love']"
+2021-05-29 00:00:00+00:00,Olivia Rodrigo,18.0,good 4 u,Rock,178,A,Lost Love;Bad Relationships,1,Rock,2021,2020,"['Lost Love', 'Bad Relationships']"
+2021-06-05 00:00:00+00:00,BTS,26.0,Butter,Pop,164,Ab,Lust/Sex;Partying;Bragging,0,Pop,2021,2020,"['Lust/Sex', 'Partying', 'Bragging']"
+2021-07-24 00:00:00+00:00,BTS,26.0,Permission to Dance,Electronic;Pop,187,E,Dancing,0,Electronic,2021,2020,['Dancing']
+2021-08-14 00:00:00+00:00,The Kid Laroi & Justin Bieber,22.0,STAY,Hip Hop;Pop,141,Bbm,Lost Love,1,Hip Hop,2021,2020,['Lost Love']
+2021-09-18 00:00:00+00:00,Drake ft. Future & Young Thug,34.0,Way 2 Sexy,pop,257,Em,Lust/Sex;Bragging,1,Pop,2021,2020,"['Lust/Sex', 'Bragging']"
+2021-10-09 00:00:00+00:00,Coldplay & BTS,28.5,My Universe,Electronic;Pop,228,E,Love,0,Electronic,2021,2020,['Love']
+2021-10-23 00:00:00+00:00,Lil Nas X & Jack Harlow,25.5,INDUSTRY BABY,Hip Hop,212,Ebm,Bragging,1,Hip Hop,2021,2020,['Bragging']
+2021-10-30 00:00:00+00:00,Adele,33.0,Easy on Me,Pop,224,F,Lost Love;Lost Innocence;Endings/Goodbyes,0,Pop,2021,2020,"['Lost Love', 'Lost Innocence', 'Endings/Goodbyes']"
+2021-11-27 00:00:00+00:00,Taylor Swift,31.0,All Too Well (10 Minute Version),"Folk, World, & Country",613,C,Lost Love;Endings/Goodbyes,1,Folk,2021,2020,"['Lost Love', 'Endings/Goodbyes']"
+2022-02-05 00:00:00+00:00,"Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz, and the Encanto cast",39.0,We Don't Talk About Bruno,Stage & Screen,216,Cm,Magic;Rain,0,Stage & Screen,2022,2020,"['Magic', 'Rain']"
+2022-03-12 00:00:00+00:00,Glass Animals,32.0,Heat Waves,Electronic;Pop,238,B,Lost Love,0,Electronic,2022,2020,['Lost Love']
+2022-04-16 00:00:00+00:00,Harry Styles,28.0,As It Was,Rock;Pop,167,Gbm,Forbidden Love,0,Rock,2022,2020,['Forbidden Love']
+2022-04-23 00:00:00+00:00,Jack Harlow,24.0,First Class,hip hop,173,Gm,Bragging;Lust/Sex;Dreaming;Fame;Resilience;Materialism,1,Hip Hop,2022,2020,"['Bragging', 'Lust/Sex', 'Dreaming', 'Fame', 'Resilience', 'Materialism']"
+2022-05-14 00:00:00+00:00,Future ft. Drake & Tems,33.333333333333336,WAIT 4 U,pop,189,Db,Longing for Love;Lost Love,1,Pop,2022,2020,"['Longing for Love', 'Lost Love']"
+2022-07-02 00:00:00+00:00,Drake ft. 21 Savage,32.0,Jimmy Cooks,hip hop,218,Multiple Keys,Lust/Sex;Bragging,1,Hip Hop,2022,2020,"['Lust/Sex', 'Bragging']"
+2022-07-30 00:00:00+00:00,Lizzo,34.0,About Damn Time,Pop,191,Bbm,Dancing;Empowerment,1,Pop,2022,2020,"['Dancing', 'Empowerment']"
+2022-08-13 00:00:00+00:00,Beyoncé,40.0,BREAK MY SOUL,Electronic;Funk/Soul;Pop,278,Abm,Empowerment;Jobs;Resilience,0,Electronic,2022,2020,"['Empowerment', 'Jobs', 'Resilience']"
+2022-08-27 00:00:00+00:00,Nicki Minaj,39.0,Super Freaky Girl,Hip Hop,170,Am,Lust/Sex,1,Hip Hop,2022,2020,['Lust/Sex']
+2022-10-08 00:00:00+00:00,Steve Lacy,24.0,Bad Habit,Funk/Soul,232,Fm,Lost Love,1,Funk/Soul,2022,2020,['Lost Love']
+2022-10-29 00:00:00+00:00,Sam Smith & Kim Petras,30.0,Unholy,Electronic;Pop,156,Dbm,Lust/Sex;Forbidden Love,0,Electronic,2022,2020,"['Lust/Sex', 'Forbidden Love']"
+2022-11-05 00:00:00+00:00,Taylor Swift,32.0,Anti-Hero,Electronic;Pop;Rock,200,E,Escape;Failure;Lonesomeness,0,Electronic,2022,2020,"['Escape', 'Failure', 'Lonesomeness']"
+2023-01-28 00:00:00+00:00,Miley Cyrus,30.0,Flowers,Pop,200,Am,Lost Love,0,Pop,2023,2020,['Lost Love']
+2023-03-11 00:00:00+00:00,The Weeknd & Ariana Grande,31.0,Die for You,Funk/Soul;Pop,232,Dbm,Regret;Love;Longing for Love,0,Funk/Soul,2023,2020,"['Regret', 'Love', 'Longing for Love']"
+2023-03-18 00:00:00+00:00,Morgan Wallen,29.0,Last Night,country,163,Gb,Lost Love;Bad Relationships,1,Country,2023,2020,"['Lost Love', 'Bad Relationships']"
+2023-04-08 00:00:00+00:00,Jimin,27.0,Like Crazy,pop,212,Dm,Fame;Paranoia,0,Pop,2023,2020,"['Fame', 'Paranoia']"
+2023-04-29 00:00:00+00:00,SZA,33.0,Kill Bill,Funk/Soul;Pop,153,Ab,Lost Love;Murder,1,Funk/Soul,2023,2020,"['Lost Love', 'Murder']"
+2023-07-15 00:00:00+00:00,Olivia Rodrigo,20.0,vampire,Rock;Pop,291,F,Lost Love;Bad Relationships,1,Rock,2023,2020,"['Lost Love', 'Bad Relationships']"
+2023-07-29 00:00:00+00:00,Jungkook ft. Latto,25.0,Seven,Pop,184,B,Lust/Sex,1,Pop,2023,2020,['Lust/Sex']
+2023-08-05 00:00:00+00:00,Jason Aldean,46.0,Try That in a Small Town,"Folk, World, & Country",180,Cm,Home;Respect;Violence,1,Folk,2023,2020,"['Home', 'Respect', 'Violence']"
+2023-08-26 00:00:00+00:00,Oliver Anthony Music,31.0,Rich Men North of Richmond,"Folk, World, & Country",187,Bb,Anger;Hypocrisy;Poverty;Survival,1,Folk,2023,2020,"['Anger', 'Hypocrisy', 'Poverty', 'Survival']"
+2023-09-09 00:00:00+00:00,Zach Bryan ft. Kacey Musgraves,31.0,I Remember Everything,pop,227,C,Lost Love;Escape;Better Times;Regret,0,Pop,2023,2020,"['Lost Love', 'Escape', 'Better Times', 'Regret']"
+2023-09-16 00:00:00+00:00,Doja Cat,27.0,Paint the Town Red,Hip Hop,231,Gm,Badassery;Bragging;Materialism;Revenge,1,Hip Hop,2023,2020,"['Badassery', 'Bragging', 'Materialism', 'Revenge']"
+2023-09-30 00:00:00+00:00,Drake ft. SZA,34.5,Slime You Out,Hip Hop,310,Fm,Lust/Sex,1,Hip Hop,2023,2020,['Lust/Sex']
+2023-10-21 00:00:00+00:00,Drake ft. J Cole,37.0,First Person Shooter,terf,247,Bm,Bragging;Fame,1,Other,2023,2020,"['Bragging', 'Fame']"
+2023-10-28 00:00:00+00:00,Taylor Swift,33.0,Cruel Summer,pop,178,A,Bad Relationships,0,Pop,2023,2020,['Bad Relationships']
+2023-11-11 00:00:00+00:00,Taylor Swift,33.0,Is It Over Now?,pop rock,229,C,Bad Relationships;Infidelity;Lost Love,0,Rock,2023,2020,"['Bad Relationships', 'Infidelity', 'Lost Love']"
+2023-12-02 00:00:00+00:00,Jack Harlow,25.0,Lovin On Me,Hip Hop,138,Bbm,Lust/Sex,1,Hip Hop,2023,2020,['Lust/Sex']
+2023-12-09 00:00:00+00:00,Brenda Lee,78.0,Rockin' Around the Christmas Tree,Rock;Pop,126,Ab,Partying;Christmas,0,Rock,2023,2020,"['Partying', 'Christmas']"
+2024-01-27 00:00:00+00:00,Ariana Grande,30.0,"yes, and?",Electronic;Pop,214,Db,Infidelity;Lust/Sex;Empowerment,1,Electronic,2024,2020,"['Infidelity', 'Lust/Sex', 'Empowerment']"
+2024-02-10 00:00:00+00:00,Megan Thee Stallion,29.0,HISS,Hip Hop,192,Dbm,Anger;Bragging,1,Hip Hop,2024,2020,"['Anger', 'Bragging']"
+2024-03-02 00:00:00+00:00,Beyoncé,42.0,TEXAS HOLD 'EM,"Pop;Folk, World, & Country",233,D,Dancing;Partying,1,Pop,2024,2020,"['Dancing', 'Partying']"
+2024-03-16 00:00:00+00:00,Kanye West & Ty Dolla $ign ft. Rich the Kid & Playboi Cardi,37.25,CARNIVAL,Hip Hop,264,Fm,Lust/Sex,1,Hip Hop,2024,2020,['Lust/Sex']
+2024-03-23 00:00:00+00:00,Ariana Grande,30.0,we can't be friends (wait for your love),Pop,228,F,Getting Back Together;Friendship,0,Pop,2024,2020,"['Getting Back Together', 'Friendship']"
+2024-03-30 00:00:00+00:00,Teddy Swims,31.0,Lose Control,Rock;Pop,210,Gbm,Bad Relationships;Lust/Sex,0,Rock,2024,2020,"['Bad Relationships', 'Lust/Sex']"
+2024-04-06 00:00:00+00:00,"Future, Metro Boomin, & Kendrick Lamar",35.333333333333336,Like That,pop,267,Dbm,Lust/Sex;Partying;Bragging;Respect,1,Pop,2024,2020,"['Lust/Sex', 'Partying', 'Bragging', 'Respect']"
+2024-04-27 00:00:00+00:00,Hozier,34.0,Too Sweet,"Folk, World, & Country",251,Bb,Lust/Sex,0,Folk,2024,2020,['Lust/Sex']
+2024-05-04 00:00:00+00:00,Taylor Swift ft. Post Malone,31.0,Fortnight,Electronic;Pop,228,B,Lost Love,0,Electronic,2024,2020,['Lost Love']
+2024-05-18 00:00:00+00:00,Kendrick Lamar,36.0,Not Like Us,Hip Hop,234,Bm,Anger;Bragging;Fighting,1,Hip Hop,2024,2020,"['Anger', 'Bragging', 'Fighting']"
+2024-05-25 00:00:00+00:00,Post Malone ft. Morgan Wallen,29.5,I Had Some Help,"Pop;Folk, World, & Country",178,C,Lost Love;Bad Relationships,1,Pop,2024,2020,"['Lost Love', 'Bad Relationships']"
+2024-06-29 00:00:00+00:00,Sabrina Carpenter,25.0,Please Please Please,Pop,186,Multiple Keys,Love;Restlessness,1,Pop,2024,2020,"['Love', 'Restlessness']"
+2024-07-13 00:00:00+00:00,Shaboozey,29.0,A Bar Song (Tipsy),"Hip Hop;Folk, World, & Country",171,A,Partying;Dancing,1,Hip Hop,2024,2020,"['Partying', 'Dancing']"
+2024-11-02 00:00:00+00:00,Morgan Wallen,31.0,Love Somebody,country,204,Fm,Lost Love;Longing for Love,0,Country,2024,2020,"['Lost Love', 'Longing for Love']"
+2024-12-07 00:00:00+00:00,Kendrick Lamar,37.0,squabble up,pop,157,Fm,Bragging,1,Pop,2024,2020,['Bragging']
