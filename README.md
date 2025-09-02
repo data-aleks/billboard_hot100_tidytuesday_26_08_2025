@@ -55,3 +55,4 @@ In this step i have created a power bi dashboard with exported dataset from pyth
 ![Power Bi Dashboard](/dashboard_screenshots/main.JPG "Power Bi Dashboard")  
 ![Power Bi Dashboard filtered by topic](/dashboard_screenshots/filtered_topic.JPG "Power Bi Dashboard filtered by topic")  
 ![Power Bi Dashboard filtered by genre](/dashboard_screenshots/filtered_genre.JPG "Power Bi Dashboard filtered by genre")  
+![Star Schema Data Model](/dashboard_screenshots/star_chema.JPG "Star Schema Data Model")  
